@@ -1,13 +1,13 @@
 
-OneBigTest/1.cpp OneBigTest/2.cpp
+1.cpp 2.cpp
 File1 -> File2 found (229) most simular lines 
 File2 -> File1 found (111) most simular lines 
 Number of shared pairs: 38
-OneBigTest/1.cpp OneBigTest/3.cpp
+1.cpp 3.cpp
 File1 -> File2 found (229) most simular lines 
 File2 -> File1 found (86) most simular lines 
 Number of shared pairs: 42
-OneBigTest/2.cpp OneBigTest/3.cpp
+2.cpp 3.cpp
 File1 -> File2 found (111) most simular lines 
 File2 -> File1 found (86) most simular lines 
 Number of shared pairs: 43
