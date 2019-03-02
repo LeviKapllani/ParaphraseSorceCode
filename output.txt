@@ -1,4 +1,3 @@
-Aviels-MacBook-Pro:Project avieljstein$ python SmallestLevenshteinPairs.py OneBigTest/1.cpp OneBigTest/2.cpp OneBigTest/3.cpp 
 
 OneBigTest/1.cpp OneBigTest/2.cpp
 File1 -> File2 found (229) most simular lines 
