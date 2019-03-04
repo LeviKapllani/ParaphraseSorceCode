@@ -1,0 +1,10521 @@
+Aviels-MacBook-Pro:Project avieljstein$ python cppToPython.py smallcpp/ smallpython/
+compare: smallcpp/A 2.cpp to smallpython/a 2.py
+File1 -> File2 found (34) most simular lines 
+File2 -> File1 found (23) most simular lines 
+Number of shared pairs: 10
+compare: smallcpp/A 2.cpp to smallpython/A.py
+File1 -> File2 found (34) most simular lines 
+File2 -> File1 found (25) most simular lines 
+Number of shared pairs: 11
+compare: smallcpp/A 2.cpp to smallpython/CodeJam1.py
+File1 -> File2 found (34) most simular lines 
+File2 -> File1 found (28) most simular lines 
+Number of shared pairs: 11
+compare: smallcpp/A 2.cpp to smallpython/main.py
+File1 -> File2 found (34) most simular lines 
+File2 -> File1 found (36) most simular lines 
+Number of shared pairs: 8
+compare: smallcpp/A 2.cpp to smallpython/saving 2.py
+File1 -> File2 found (34) most simular lines 
+File2 -> File1 found (32) most simular lines 
+Number of shared pairs: 11
+compare: smallcpp/A 2.cpp to smallpython/saving.py
+File1 -> File2 found (34) most simular lines 
+File2 -> File1 found (43) most simular lines 
+Number of shared pairs: 15
+compare: smallcpp/A 2.cpp to smallpython/saving_universe.py
+File1 -> File2 found (34) most simular lines 
+File2 -> File1 found (61) most simular lines 
+Number of shared pairs: 13
+compare: smallcpp/A 2.cpp to smallpython/su.py
+File1 -> File2 found (34) most simular lines 
+File2 -> File1 found (62) most simular lines 
+Number of shared pairs: 16
+compare: smallcpp/A 2.cpp to smallpython/universe 2.py
+File1 -> File2 found (34) most simular lines 
+File2 -> File1 found (71) most simular lines 
+Number of shared pairs: 16
+compare: smallcpp/A 2.cpp to smallpython/universe.py
+File1 -> File2 found (34) most simular lines 
+File2 -> File1 found (20) most simular lines 
+Number of shared pairs: 10
+compare: smallcpp/a 3.cpp to smallpython/a 2.py
+File1 -> File2 found (56) most simular lines 
+File2 -> File1 found (23) most simular lines 
+Number of shared pairs: 14
+compare: smallcpp/a 3.cpp to smallpython/A.py
+File1 -> File2 found (56) most simular lines 
+File2 -> File1 found (25) most simular lines 
+Number of shared pairs: 11
+compare: smallcpp/a 3.cpp to smallpython/CodeJam1.py
+File1 -> File2 found (56) most simular lines 
+File2 -> File1 found (28) most simular lines 
+Number of shared pairs: 12
+compare: smallcpp/a 3.cpp to smallpython/main.py
+File1 -> File2 found (56) most simular lines 
+File2 -> File1 found (36) most simular lines 
+Number of shared pairs: 20
+compare: smallcpp/a 3.cpp to smallpython/saving 2.py
+File1 -> File2 found (56) most simular lines 
+File2 -> File1 found (32) most simular lines 
+Number of shared pairs: 15
+compare: smallcpp/a 3.cpp to smallpython/saving.py
+File1 -> File2 found (56) most simular lines 
+File2 -> File1 found (43) most simular lines 
+Number of shared pairs: 26
+compare: smallcpp/a 3.cpp to smallpython/saving_universe.py
+File1 -> File2 found (56) most simular lines 
+File2 -> File1 found (61) most simular lines 
+Number of shared pairs: 20
+compare: smallcpp/a 3.cpp to smallpython/su.py
+File1 -> File2 found (56) most simular lines 
+File2 -> File1 found (62) most simular lines 
+Number of shared pairs: 17
+compare: smallcpp/a 3.cpp to smallpython/universe 2.py
+File1 -> File2 found (56) most simular lines 
+File2 -> File1 found (71) most simular lines 
+Number of shared pairs: 22
+compare: smallcpp/a 3.cpp to smallpython/universe.py
+File1 -> File2 found (56) most simular lines 
+File2 -> File1 found (20) most simular lines 
+Number of shared pairs: 14
+compare: smallcpp/a 4.cpp to smallpython/a 2.py
+File1 -> File2 found (37) most simular lines 
+File2 -> File1 found (23) most simular lines 
+Number of shared pairs: 8
+compare: smallcpp/a 4.cpp to smallpython/A.py
+File1 -> File2 found (37) most simular lines 
+File2 -> File1 found (25) most simular lines 
+Number of shared pairs: 12
+compare: smallcpp/a 4.cpp to smallpython/CodeJam1.py
+File1 -> File2 found (37) most simular lines 
+File2 -> File1 found (28) most simular lines 
+Number of shared pairs: 13
+compare: smallcpp/a 4.cpp to smallpython/main.py
+File1 -> File2 found (37) most simular lines 
+File2 -> File1 found (36) most simular lines 
+Number of shared pairs: 13
+compare: smallcpp/a 4.cpp to smallpython/saving 2.py
+File1 -> File2 found (37) most simular lines 
+File2 -> File1 found (32) most simular lines 
+Number of shared pairs: 11
+compare: smallcpp/a 4.cpp to smallpython/saving.py
+File1 -> File2 found (37) most simular lines 
+File2 -> File1 found (43) most simular lines 
+Number of shared pairs: 19
+compare: smallcpp/a 4.cpp to smallpython/saving_universe.py
+File1 -> File2 found (37) most simular lines 
+File2 -> File1 found (61) most simular lines 
+Number of shared pairs: 16
+compare: smallcpp/a 4.cpp to smallpython/su.py
+File1 -> File2 found (37) most simular lines 
+File2 -> File1 found (62) most simular lines 
+Number of shared pairs: 16
+compare: smallcpp/a 4.cpp to smallpython/universe 2.py
+File1 -> File2 found (37) most simular lines 
+File2 -> File1 found (71) most simular lines 
+Number of shared pairs: 15
+compare: smallcpp/a 4.cpp to smallpython/universe.py
+File1 -> File2 found (37) most simular lines 
+File2 -> File1 found (20) most simular lines 
+Number of shared pairs: 10
+compare: smallcpp/A.cpp to smallpython/a 2.py
+File1 -> File2 found (50) most simular lines 
+File2 -> File1 found (23) most simular lines 
+Number of shared pairs: 9
+compare: smallcpp/A.cpp to smallpython/A.py
+File1 -> File2 found (50) most simular lines 
+File2 -> File1 found (25) most simular lines 
+Number of shared pairs: 14
+compare: smallcpp/A.cpp to smallpython/CodeJam1.py
+File1 -> File2 found (50) most simular lines 
+File2 -> File1 found (28) most simular lines 
+Number of shared pairs: 13
+compare: smallcpp/A.cpp to smallpython/main.py
+File1 -> File2 found (50) most simular lines 
+File2 -> File1 found (36) most simular lines 
+Number of shared pairs: 15
+compare: smallcpp/A.cpp to smallpython/saving 2.py
+File1 -> File2 found (50) most simular lines 
+File2 -> File1 found (32) most simular lines 
+Number of shared pairs: 13
+compare: smallcpp/A.cpp to smallpython/saving.py
+File1 -> File2 found (50) most simular lines 
+File2 -> File1 found (43) most simular lines 
+Number of shared pairs: 18
+compare: smallcpp/A.cpp to smallpython/saving_universe.py
+File1 -> File2 found (50) most simular lines 
+File2 -> File1 found (61) most simular lines 
+Number of shared pairs: 15
+compare: smallcpp/A.cpp to smallpython/su.py
+File1 -> File2 found (50) most simular lines 
+File2 -> File1 found (62) most simular lines 
+Number of shared pairs: 20
+compare: smallcpp/A.cpp to smallpython/universe 2.py
+File1 -> File2 found (50) most simular lines 
+File2 -> File1 found (71) most simular lines 
+Number of shared pairs: 20
+compare: smallcpp/A.cpp to smallpython/universe.py
+File1 -> File2 found (50) most simular lines 
+File2 -> File1 found (20) most simular lines 
+Number of shared pairs: 12
+compare: smallcpp/CodeJam_VC.cpp to smallpython/a 2.py
+File1 -> File2 found (70) most simular lines 
+File2 -> File1 found (23) most simular lines 
+Number of shared pairs: 13
+compare: smallcpp/CodeJam_VC.cpp to smallpython/A.py
+File1 -> File2 found (70) most simular lines 
+File2 -> File1 found (25) most simular lines 
+Number of shared pairs: 19
+compare: smallcpp/CodeJam_VC.cpp to smallpython/CodeJam1.py
+File1 -> File2 found (70) most simular lines 
+File2 -> File1 found (28) most simular lines 
+Number of shared pairs: 14
+compare: smallcpp/CodeJam_VC.cpp to smallpython/main.py
+File1 -> File2 found (70) most simular lines 
+File2 -> File1 found (36) most simular lines 
+Number of shared pairs: 15
+compare: smallcpp/CodeJam_VC.cpp to smallpython/saving 2.py
+File1 -> File2 found (70) most simular lines 
+File2 -> File1 found (32) most simular lines 
+Number of shared pairs: 17
+compare: smallcpp/CodeJam_VC.cpp to smallpython/saving.py
+File1 -> File2 found (70) most simular lines 
+File2 -> File1 found (43) most simular lines 
+Number of shared pairs: 23
+compare: smallcpp/CodeJam_VC.cpp to smallpython/saving_universe.py
+File1 -> File2 found (70) most simular lines 
+File2 -> File1 found (61) most simular lines 
+Number of shared pairs: 22
+compare: smallcpp/CodeJam_VC.cpp to smallpython/su.py
+File1 -> File2 found (70) most simular lines 
+File2 -> File1 found (62) most simular lines 
+Number of shared pairs: 19
+compare: smallcpp/CodeJam_VC.cpp to smallpython/universe 2.py
+File1 -> File2 found (70) most simular lines 
+File2 -> File1 found (71) most simular lines 
+Number of shared pairs: 30
+compare: smallcpp/CodeJam_VC.cpp to smallpython/universe.py
+File1 -> File2 found (70) most simular lines 
+File2 -> File1 found (20) most simular lines 
+Number of shared pairs: 13
+compare: smallcpp/GCA_A.cpp to smallpython/a 2.py
+File1 -> File2 found (68) most simular lines 
+File2 -> File1 found (23) most simular lines 
+Number of shared pairs: 16
+compare: smallcpp/GCA_A.cpp to smallpython/A.py
+File1 -> File2 found (68) most simular lines 
+File2 -> File1 found (25) most simular lines 
+Number of shared pairs: 16
+compare: smallcpp/GCA_A.cpp to smallpython/CodeJam1.py
+File1 -> File2 found (68) most simular lines 
+File2 -> File1 found (28) most simular lines 
+Number of shared pairs: 15
+compare: smallcpp/GCA_A.cpp to smallpython/main.py
+File1 -> File2 found (68) most simular lines 
+File2 -> File1 found (36) most simular lines 
+Number of shared pairs: 22
+compare: smallcpp/GCA_A.cpp to smallpython/saving 2.py
+File1 -> File2 found (68) most simular lines 
+File2 -> File1 found (32) most simular lines 
+Number of shared pairs: 15
+compare: smallcpp/GCA_A.cpp to smallpython/saving.py
+File1 -> File2 found (68) most simular lines 
+File2 -> File1 found (43) most simular lines 
+Number of shared pairs: 20
+compare: smallcpp/GCA_A.cpp to smallpython/saving_universe.py
+File1 -> File2 found (68) most simular lines 
+File2 -> File1 found (61) most simular lines 
+Number of shared pairs: 28
+compare: smallcpp/GCA_A.cpp to smallpython/su.py
+File1 -> File2 found (68) most simular lines 
+File2 -> File1 found (62) most simular lines 
+Number of shared pairs: 28
+compare: smallcpp/GCA_A.cpp to smallpython/universe 2.py
+File1 -> File2 found (68) most simular lines 
+File2 -> File1 found (71) most simular lines 
+Number of shared pairs: 31
+compare: smallcpp/GCA_A.cpp to smallpython/universe.py
+File1 -> File2 found (68) most simular lines 
+File2 -> File1 found (20) most simular lines 
+Number of shared pairs: 12
+compare: smallcpp/main.cpp to smallpython/a 2.py
+File1 -> File2 found (50) most simular lines 
+File2 -> File1 found (23) most simular lines 
+Number of shared pairs: 10
+compare: smallcpp/main.cpp to smallpython/A.py
+File1 -> File2 found (50) most simular lines 
+File2 -> File1 found (25) most simular lines 
+Number of shared pairs: 11
+compare: smallcpp/main.cpp to smallpython/CodeJam1.py
+File1 -> File2 found (50) most simular lines 
+File2 -> File1 found (28) most simular lines 
+Number of shared pairs: 12
+compare: smallcpp/main.cpp to smallpython/main.py
+File1 -> File2 found (50) most simular lines 
+File2 -> File1 found (36) most simular lines 
+Number of shared pairs: 13
+compare: smallcpp/main.cpp to smallpython/saving 2.py
+File1 -> File2 found (50) most simular lines 
+File2 -> File1 found (32) most simular lines 
+Number of shared pairs: 13
+compare: smallcpp/main.cpp to smallpython/saving.py
+File1 -> File2 found (50) most simular lines 
+File2 -> File1 found (43) most simular lines 
+Number of shared pairs: 15
+compare: smallcpp/main.cpp to smallpython/saving_universe.py
+File1 -> File2 found (50) most simular lines 
+File2 -> File1 found (61) most simular lines 
+Number of shared pairs: 19
+compare: smallcpp/main.cpp to smallpython/su.py
+File1 -> File2 found (50) most simular lines 
+File2 -> File1 found (62) most simular lines 
+Number of shared pairs: 20
+compare: smallcpp/main.cpp to smallpython/universe 2.py
+File1 -> File2 found (50) most simular lines 
+File2 -> File1 found (71) most simular lines 
+Number of shared pairs: 22
+compare: smallcpp/main.cpp to smallpython/universe.py
+File1 -> File2 found (50) most simular lines 
+File2 -> File1 found (20) most simular lines 
+Number of shared pairs: 6
+compare: smallcpp/Saving the Universe.cpp to smallpython/a 2.py
+File1 -> File2 found (49) most simular lines 
+File2 -> File1 found (23) most simular lines 
+Number of shared pairs: 9
+compare: smallcpp/Saving the Universe.cpp to smallpython/A.py
+File1 -> File2 found (49) most simular lines 
+File2 -> File1 found (25) most simular lines 
+Number of shared pairs: 12
+compare: smallcpp/Saving the Universe.cpp to smallpython/CodeJam1.py
+File1 -> File2 found (49) most simular lines 
+File2 -> File1 found (28) most simular lines 
+Number of shared pairs: 10
+compare: smallcpp/Saving the Universe.cpp to smallpython/main.py
+File1 -> File2 found (49) most simular lines 
+File2 -> File1 found (36) most simular lines 
+Number of shared pairs: 11
+compare: smallcpp/Saving the Universe.cpp to smallpython/saving 2.py
+File1 -> File2 found (49) most simular lines 
+File2 -> File1 found (32) most simular lines 
+Number of shared pairs: 13
+compare: smallcpp/Saving the Universe.cpp to smallpython/saving.py
+File1 -> File2 found (49) most simular lines 
+File2 -> File1 found (43) most simular lines 
+Number of shared pairs: 14
+compare: smallcpp/Saving the Universe.cpp to smallpython/saving_universe.py
+File1 -> File2 found (49) most simular lines 
+File2 -> File1 found (61) most simular lines 
+Number of shared pairs: 16
+compare: smallcpp/Saving the Universe.cpp to smallpython/su.py
+File1 -> File2 found (49) most simular lines 
+File2 -> File1 found (62) most simular lines 
+Number of shared pairs: 17
+compare: smallcpp/Saving the Universe.cpp to smallpython/universe 2.py
+File1 -> File2 found (49) most simular lines 
+File2 -> File1 found (71) most simular lines 
+Number of shared pairs: 16
+compare: smallcpp/Saving the Universe.cpp to smallpython/universe.py
+File1 -> File2 found (49) most simular lines 
+File2 -> File1 found (20) most simular lines 
+Number of shared pairs: 10
+compare: smallcpp/t.cpp to smallpython/a 2.py
+File1 -> File2 found (58) most simular lines 
+File2 -> File1 found (23) most simular lines 
+Number of shared pairs: 15
+compare: smallcpp/t.cpp to smallpython/A.py
+File1 -> File2 found (58) most simular lines 
+File2 -> File1 found (25) most simular lines 
+Number of shared pairs: 18
+compare: smallcpp/t.cpp to smallpython/CodeJam1.py
+File1 -> File2 found (58) most simular lines 
+File2 -> File1 found (28) most simular lines 
+Number of shared pairs: 16
+compare: smallcpp/t.cpp to smallpython/main.py
+File1 -> File2 found (58) most simular lines 
+File2 -> File1 found (36) most simular lines 
+Number of shared pairs: 18
+compare: smallcpp/t.cpp to smallpython/saving 2.py
+File1 -> File2 found (58) most simular lines 
+File2 -> File1 found (32) most simular lines 
+Number of shared pairs: 18
+compare: smallcpp/t.cpp to smallpython/saving.py
+File1 -> File2 found (58) most simular lines 
+File2 -> File1 found (43) most simular lines 
+Number of shared pairs: 20
+compare: smallcpp/t.cpp to smallpython/saving_universe.py
+File1 -> File2 found (58) most simular lines 
+File2 -> File1 found (61) most simular lines 
+Number of shared pairs: 24
+compare: smallcpp/t.cpp to smallpython/su.py
+File1 -> File2 found (58) most simular lines 
+File2 -> File1 found (62) most simular lines 
+Number of shared pairs: 22
+compare: smallcpp/t.cpp to smallpython/universe 2.py
+File1 -> File2 found (58) most simular lines 
+File2 -> File1 found (71) most simular lines 
+Number of shared pairs: 20
+compare: smallcpp/t.cpp to smallpython/universe.py
+File1 -> File2 found (58) most simular lines 
+File2 -> File1 found (20) most simular lines 
+Number of shared pairs: 15
+compare: smallcpp/Test.cpp to smallpython/a 2.py
+File1 -> File2 found (47) most simular lines 
+File2 -> File1 found (23) most simular lines 
+Number of shared pairs: 12
+compare: smallcpp/Test.cpp to smallpython/A.py
+File1 -> File2 found (47) most simular lines 
+File2 -> File1 found (25) most simular lines 
+Number of shared pairs: 12
+compare: smallcpp/Test.cpp to smallpython/CodeJam1.py
+File1 -> File2 found (47) most simular lines 
+File2 -> File1 found (28) most simular lines 
+Number of shared pairs: 11
+compare: smallcpp/Test.cpp to smallpython/main.py
+File1 -> File2 found (47) most simular lines 
+File2 -> File1 found (36) most simular lines 
+Number of shared pairs: 17
+compare: smallcpp/Test.cpp to smallpython/saving 2.py
+File1 -> File2 found (47) most simular lines 
+File2 -> File1 found (32) most simular lines 
+Number of shared pairs: 16
+compare: smallcpp/Test.cpp to smallpython/saving.py
+File1 -> File2 found (47) most simular lines 
+File2 -> File1 found (43) most simular lines 
+Number of shared pairs: 16
+compare: smallcpp/Test.cpp to smallpython/saving_universe.py
+File1 -> File2 found (47) most simular lines 
+File2 -> File1 found (61) most simular lines 
+Number of shared pairs: 21
+compare: smallcpp/Test.cpp to smallpython/su.py
+File1 -> File2 found (47) most simular lines 
+File2 -> File1 found (62) most simular lines 
+Number of shared pairs: 19
+compare: smallcpp/Test.cpp to smallpython/universe 2.py
+File1 -> File2 found (47) most simular lines 
+File2 -> File1 found (71) most simular lines 
+Number of shared pairs: 21
+compare: smallcpp/Test.cpp to smallpython/universe.py
+File1 -> File2 found (47) most simular lines 
+File2 -> File1 found (20) most simular lines 
+Number of shared pairs: 16
+======
+cpp:
+#include <algorithm>
+python:
+next = max(next, j)
+======
+======
+cpp:
+int main()
+python:
+while s < Q:
+======
+======
+cpp:
+for (i=0;i<N;++i) gets(dic[i]);
+python:
+for j in range(s, Q + 1):
+======
+======
+cpp:
+pre=0;last=1;
+python:
+engines = []
+======
+======
+cpp:
+memset(dp[0],0,sizeof(dp[0]));
+python:
+queries.append(raw_input())
+======
+======
+cpp:
+for (i=0;i<M;++i)
+python:
+for i in range(E):
+======
+======
+cpp:
+if (strcmp(buf,dic[j])!=0)
+python:
+if __name__ == "__main__":
+======
+======
+cpp:
+if (i==0 || mm>dp[pre][i]) mm=dp[pre][i];
+python:
+if j == Q or queries[j] == engines[i]:
+======
+======
+cpp:
+printf("Case #%d: %d\n",t+1,mm);
+python:
+print "Case #%d: %d" % (test + 1, max(0, res - 1))
+======
+======
+cpp:
+return 0;
+python:
+res = 0
+======
+======
+cpp:
+#include <cstring>
+python:
+fin = open(input_file)
+======
+======
+cpp:
+using namespace std;
+python:
+if eng[i] == quer[x]:
+======
+======
+cpp:
+int N,M;
+python:
+t = tt
+======
+======
+cpp:
+int dp[2][110];
+python:
+tt = [0] * s
+======
+======
+cpp:
+int main()
+python:
+res = min(t)
+======
+======
+cpp:
+pre=0;last=1;
+python:
+case = "large"
+======
+======
+cpp:
+memset(dp[0],0,sizeof(dp[0]));
+python:
+n = int(fin.readline().strip())
+======
+======
+cpp:
+for (i=0;i<M;++i)
+python:
+for z in xrange(n):
+======
+======
+cpp:
+if (k!=j) dp[pre][k] = MIN(dp[pre][k],dp[last][j]+1);
+python:
+sw = min([t[i] for i in range(s) if eng[i] != quer[x]]) + 1
+======
+======
+cpp:
+if (i==0 || mm>dp[pre][i]) mm=dp[pre][i];
+python:
+eng = [fin.readline() for i in xrange(s)]
+======
+======
+cpp:
+printf("Case #%d: %d\n",t+1,mm);
+python:
+print >> fout, "Case #%d:" % (z+1), res
+======
+======
+cpp:
+#include <cstdio>
+python:
+q = queries[i:]
+======
+======
+cpp:
+#define MIN(a,b) (a)<(b)?(a):(b)
+python:
+infile = open(sys.argv[1], 'rb')
+======
+======
+cpp:
+using namespace std;
+python:
+if i >= numqueries:
+======
+======
+cpp:
+int N,M;
+python:
+long = 0
+======
+======
+cpp:
+char buf[110];
+python:
+currengine = ''
+======
+======
+cpp:
+for (i=0;i<N;++i) gets(dic[i]);
+python:
+for case in xrange(1, numcases+1):
+======
+======
+cpp:
+pre=0;last=1;
+python:
+switches = 0
+======
+======
+cpp:
+memset(dp[1],0x7f,sizeof(dp[0]));
+python:
+numcases = int(infile.readline())
+======
+======
+cpp:
+for (i=0;i<M;++i)
+python:
+for e in engines:
+======
+======
+cpp:
+if (strcmp(buf,dic[j])!=0)
+python:
+if e == currengine: continue
+======
+======
+cpp:
+else dp[pre][k] = MIN(dp[pre][k],dp[last][j]);
+python:
+print "Case #" + str(case) + ": " + str(switches)
+======
+======
+cpp:
+int N,M;
+python:
+eng = {}
+======
+======
+cpp:
+int main()
+python:
+if v[idx]:
+======
+======
+cpp:
+int pre,last,mm;
+python:
+def solve(caseNum):
+======
+======
+cpp:
+pre=0;last=1;
+python:
+PI = arccos(-1)
+======
+======
+cpp:
+for (i=0;i<M;++i)
+python:
+for j in range(0,S):
+======
+======
+cpp:
+if (strcmp(buf,dic[j])!=0)
+python:
+sys.setcheckinterval(10000)
+======
+======
+cpp:
+memset(dp[last],0x7f,sizeof(dp[0]));
+python:
+S = int(sys.stdin.readline().strip())
+======
+======
+cpp:
+return 0;
+python:
+import re
+======
+======
+cpp:
+#include <algorithm>
+python:
+except ValueError:
+======
+======
+cpp:
+#define MIN(a,b) (a)<(b)?(a):(b)
+python:
+engines.append(engName.strip())
+======
+======
+cpp:
+char buf[110];
+python:
+while queries:
+======
+======
+cpp:
+int dp[2][110];
+python:
+if done: break
+======
+======
+cpp:
+int main()
+python:
+done = True
+======
+======
+cpp:
+for (t=0;t<st;++t)
+python:
+maxDist = max(dist)
+======
+======
+cpp:
+for (i=0;i<N;++i) gets(dic[i]);
+python:
+for case in range(numCases):
+======
+======
+cpp:
+pre=0;last=1;
+python:
+engines = []
+======
+======
+cpp:
+if (strcmp(buf,dic[j])!=0)
+python:
+input = file(filename,'r')
+======
+======
+cpp:
+else dp[pre][k] = MIN(dp[pre][k],dp[last][j]);
+python:
+filename = raw_input("Enter input file name: ")
+======
+======
+cpp:
+printf("Case #%d: %d\n",t+1,mm);
+python:
+print 'Case #%s: %s' % (case+1,switches)
+======
+======
+cpp:
+#include <cstring>
+python:
+if line[-1]=="\n":
+======
+======
+cpp:
+#include <algorithm>
+python:
+line = fin.readline()
+======
+======
+cpp:
+int N,M;
+python:
+print i
+======
+======
+cpp:
+int dp[2][110];
+python:
+line = line[:-1]
+======
+======
+cpp:
+int t,st,i,j,k;
+python:
+def getLine():
+======
+======
+cpp:
+for (i=0;i<N;++i) gets(dic[i]);
+python:
+for i,q in enumerate(queries):
+======
+======
+cpp:
+pre=0;last=1;
+python:
+engines = []
+======
+======
+cpp:
+for (i=0;i<M;++i)
+python:
+for j in xrange(s):
+======
+======
+cpp:
+gets(buf);
+python:
+global fin
+======
+======
+cpp:
+if (strcmp(buf,dic[j])!=0)
+python:
+res = min(res, cost[j][i])
+======
+======
+cpp:
+if (k!=j) dp[pre][k] = MIN(dp[pre][k],dp[last][j]+1);
+python:
+cost = [[0]+[None for i in queries] for j in xrange(s)]
+======
+======
+cpp:
+else dp[pre][k] = MIN(dp[pre][k],dp[last][j]);
+python:
+return str(min(c[len(queries)] for c in cost))
+======
+======
+cpp:
+memset(dp[last],0x7f,sizeof(dp[0]));
+python:
+queries.append(engineNo.get(query,-1))
+======
+======
+cpp:
+printf("Case #%d: %d\n",t+1,mm);
+python:
+fout.write("Case #%s: "%(i+1))
+======
+======
+cpp:
+return 0;
+python:
+return line
+======
+======
+cpp:
+#define MIN(a,b) (a)<(b)?(a):(b)
+python:
+def get_sq_lines( cls, start ):
+======
+======
+cpp:
+using namespace std;
+python:
+s_line_start = start
+======
+======
+cpp:
+int dp[2][110];
+python:
+lint = [ l[0] ]
+======
+======
+cpp:
+int main()
+python:
+def main():
+======
+======
+cpp:
+scanf("%d",&st);
+python:
+ls = f.readlines()
+======
+======
+cpp:
+for (i=0;i<N;++i) gets(dic[i]);
+python:
+for i in range( len( lint ) ):
+======
+======
+cpp:
+pre=0;last=1;
+python:
+ci = lint[i]
+======
+======
+cpp:
+memset(dp[0],0,sizeof(dp[0]));
+python:
+n_engine = int( slines[0] )
+======
+======
+cpp:
+if (strcmp(buf,dic[j])!=0)
+python:
+if __name__ == "__main__":
+======
+======
+cpp:
+else dp[pre][k] = MIN(dp[pre][k],dp[last][j]);
+python:
+s_length     = int( cls[ s_line_start ] )
+======
+======
+cpp:
+memset(dp[last],0x7f,sizeof(dp[0]));
+python:
+def compress2int( slines, qlines ):
+======
+======
+cpp:
+printf("Case #%d: %d\n",t+1,mm);
+python:
+print "Case #%i: %i" %( i+1, n_switch )
+======
+======
+cpp:
+return 0;
+python:
+return [-1]
+======
+======
+cpp:
+#define MIN(a,b) (a)<(b)?(a):(b)
+python:
+return map(lambda x:table[x],ls)
+======
+======
+cpp:
+using namespace std;
+python:
+def cv_base(n,base):
+======
+======
+cpp:
+int main()
+python:
+proc_all()
+======
+======
+cpp:
+freopen("A-small.out","w",stdout);
+python:
+n_temp=cv_base(n_normal,len(l_to))
+======
+======
+cpp:
+int t,st,i,j,k;
+python:
+if s_id in ss:
+======
+======
+cpp:
+int pre,last,mm;
+python:
+def proc_case():
+======
+======
+cpp:
+for (t=0;t<st;++t)
+python:
+arr.append(n%base)
+======
+======
+cpp:
+for (i=0;i<N;++i) gets(dic[i]);
+python:
+for i in range(n_case):
+======
+======
+cpp:
+memset(dp[0],0,sizeof(dp[0]));
+python:
+table=dict(zip(ss,range(n_s)))
+======
+======
+cpp:
+if (strcmp(buf,dic[j])!=0)
+python:
+fw2=dict(enumerate(l_to))
+======
+======
+cpp:
+if (k!=j) dp[pre][k] = MIN(dp[pre][k],dp[last][j]+1);
+python:
+fw1=dict(map(lambda (x,y):(y,x),enumerate(l_from)))
+======
+======
+cpp:
+else dp[pre][k] = MIN(dp[pre][k],dp[last][j]);
+python:
+return ''.join(reversed(replace_by(n_temp,fw2)))
+======
+======
+cpp:
+memset(dp[last],0x7f,sizeof(dp[0]));
+python:
+qs_co=map(lambda x:all_ids-set([x]),qs)
+======
+======
+cpp:
+if (i==0 || mm>dp[pre][i]) mm=dp[pre][i];
+python:
+runs=filter(lambda x:x[1]==m_length,runs)
+======
+======
+cpp:
+printf("Case #%d: %d\n",t+1,mm);
+python:
+print 'Case #%d: %s'%(i+1,proc_case())
+======
+======
+cpp:
+return 0;
+python:
+return n
+======
+======
+cpp:
+#include <cstdio>
+python:
+if use != None:
+======
+======
+cpp:
+#include <algorithm>
+python:
+if idx < len(queries):
+======
+======
+cpp:
+int N,M;
+python:
+list = []
+======
+======
+cpp:
+char buf[110];
+python:
+if q != prev:
+======
+======
+cpp:
+int dp[2][110];
+python:
+input = argv[1]
+======
+======
+cpp:
+int main()
+python:
+def main():
+======
+======
+cpp:
+for (i=0;i<N;++i) gets(dic[i]);
+python:
+(e, idx) = weighted.pop()
+======
+======
+cpp:
+pre=0;last=1;
+python:
+process(lines)
+======
+======
+cpp:
+memset(dp[0],0,sizeof(dp[0]));
+python:
+weighted.append((e, idx))
+======
+======
+cpp:
+for (i=0;i<M;++i)
+python:
+for q in queries:
+======
+======
+cpp:
+if (strcmp(buf,dic[j])!=0)
+python:
+if __name__ == '__main__':
+======
+======
+cpp:
+if (k!=j) dp[pre][k] = MIN(dp[pre][k],dp[last][j]+1);
+python:
+switches = 1 + countSwitches(engines, queries[idx:])
+======
+======
+cpp:
+memset(dp[last],0x7f,sizeof(dp[0]));
+python:
+weighted.sort(lambda x,y:cmp(x[1],y[1]))
+======
+======
+cpp:
+if (i==0 || mm>dp[pre][i]) mm=dp[pre][i];
+python:
+engines.append(lines[i].strip("\r\n"))
+======
+======
+cpp:
+printf("Case #%d: %d\n",t+1,mm);
+python:
+print "Case #%d: %d" % (case, switches)
+======
+======
+cpp:
+return 0;
+python:
+return 1
+======
+======
+cpp:
+#include <cstring>
+python:
+name = getline()
+======
+======
+cpp:
+using namespace std;
+python:
+engines[name] = eng
+======
+======
+cpp:
+int main()
+python:
+mi = min(sw2)
+======
+======
+cpp:
+int t,st,i,j,k;
+python:
+def getline():
+======
+======
+cpp:
+for (t=0;t<st;++t)
+python:
+S = int(getline())
+======
+======
+cpp:
+for (i=0;i<N;++i) gets(dic[i]);
+python:
+for case in range(cases):
+======
+======
+cpp:
+pre=0;last=1;
+python:
+engines = {}
+======
+======
+cpp:
+if (strcmp(buf,dic[j])!=0)
+python:
+return sys.stdin.readline()
+======
+======
+cpp:
+printf("Case #%d: %d\n",t+1,mm);
+python:
+print "Case #%d: %d" % (case+1, mini)
+======
+======
+cpp:
+return 0;
+python:
+import sys
+======
+======
+cpp:
+getline(cin, engine[0]);
+python:
+engines.append(raw_input())
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range(E):
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range(E):
+======
+======
+cpp:
+int i, j, k, value, best;
+python:
+for j in range(s, Q + 1):
+======
+======
+cpp:
+return;
+python:
+res = 0
+======
+======
+cpp:
+memset(f, 0xFF, sizeof(f));
+python:
+queries.append(raw_input())
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range(E):
+======
+======
+cpp:
+if (!match[1][i])
+python:
+next = max(next, j)
+======
+======
+cpp:
+best=-1;
+python:
+next = -1
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range(E):
+======
+======
+cpp:
+if ((best==-1 || best>f[m][i]) && f[m][i]!=-1)
+python:
+if j == Q or queries[j] == engines[i]:
+======
+======
+cpp:
+best=f[m][i];
+python:
+queries = []
+======
+======
+cpp:
+int cas=0, t;
+python:
+engines = []
+======
+======
+cpp:
+while (t--){
+python:
+while s < Q:
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range(s):
+======
+======
+cpp:
+getline(cin, query[0]);
+python:
+if eng[i] == quer[x]:
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range(s):
+======
+======
+cpp:
+if (engine[i]==query[j]) match[j][i]=true; else match[j][i]=false;
+python:
+sw = min([t[i] for i in range(s) if eng[i] != quer[x]]) + 1
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range(s):
+======
+======
+cpp:
+f[1][i]=0;
+python:
+tt[i] = sw
+======
+======
+cpp:
+if (f[i][j]==-1 || f[i][j]>f[i-1][k]+value)
+python:
+quer = [fin.readline() for i in xrange(q)]
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range(s):
+======
+======
+cpp:
+int main()
+python:
+res = min(t)
+======
+======
+cpp:
+freopen("output.txt", "w", stdout);
+python:
+fout = open(output_file, "w")
+======
+======
+cpp:
+cas++;
+python:
+else:
+======
+======
+cpp:
+using namespace std;
+python:
+if i >= numqueries:
+======
+======
+cpp:
+const int MAXN = 110;
+python:
+if l > long: long = l
+======
+======
+cpp:
+string engine[MAXN], query[MAXM];
+python:
+currengine = queries[i+long]
+======
+======
+cpp:
+int n, m;
+python:
+long = 0
+======
+======
+cpp:
+getline(cin, engine[0]);
+python:
+for e in engines:
+======
+======
+cpp:
+if (engine[i]==query[j]) match[j][i]=true; else match[j][i]=false;
+python:
+engines = [infile.readline().strip() for x in xrange(numengines)]
+======
+======
+cpp:
+return;
+python:
+except:
+======
+======
+cpp:
+if (j==k) value=0; else value=1;
+python:
+if e == currengine: continue
+======
+======
+cpp:
+if ((best==-1 || best>f[m][i]) && f[m][i]!=-1)
+python:
+print "Case #" + str(case) + ": " + str(switches)
+======
+======
+cpp:
+int cas=0, t;
+python:
+switches += 1
+======
+======
+cpp:
+freopen("input.txt", "r", stdin);
+python:
+for case in xrange(1, numcases+1):
+======
+======
+cpp:
+while (t--){
+python:
+while 1:
+======
+======
+cpp:
+int n, m;
+python:
+eng = {}
+======
+======
+cpp:
+void init()
+python:
+v[j] = True
+======
+======
+cpp:
+cin >> n;
+python:
+c = S - 1
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range(0, S):
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range(0, S):
+======
+======
+cpp:
+for (j=1; j<=m; j++)
+python:
+for j in range(0,S):
+======
+======
+cpp:
+if (engine[i]==query[j]) match[j][i]=true; else match[j][i]=false;
+python:
+casesCount = int(re.findall(r'[\d]+', sys.stdin.readline())[0])
+======
+======
+cpp:
+if (m==0){
+python:
+if c == 0:
+======
+======
+cpp:
+memset(f, 0xFF, sizeof(f));
+python:
+sys.setcheckinterval(10000)
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range(0, S):
+======
+======
+cpp:
+if (!match[1][i])
+python:
+PI = arccos(-1)
+======
+======
+cpp:
+if (!match[i][j]){
+python:
+def solve(caseNum):
+======
+======
+cpp:
+if (j==k) value=0; else value=1;
+python:
+for case in range(1, casesCount + 1):
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range(0, S):
+======
+======
+cpp:
+if ((best==-1 || best>f[m][i]) && f[m][i]!=-1)
+python:
+sys.stdout.write("Case #%d: %d" % (caseNum, ch))
+======
+======
+cpp:
+best=f[m][i];
+python:
+idx = eng[s]
+======
+======
+cpp:
+freopen("input.txt", "r", stdin);
+python:
+s = sys.stdin.readline().strip()
+======
+======
+cpp:
+freopen("output.txt", "w", stdout);
+python:
+S = int(sys.stdin.readline().strip())
+======
+======
+cpp:
+cas++;
+python:
+ch = 0
+======
+======
+cpp:
+init();
+python:
+print ""
+======
+======
+cpp:
+#include <algorithm>
+python:
+except ValueError:
+======
+======
+cpp:
+using namespace std;
+python:
+maxDist = max(dist)
+======
+======
+cpp:
+string engine[MAXN], query[MAXM];
+python:
+numEngines = eval(input.readline())
+======
+======
+cpp:
+void init()
+python:
+done = True
+======
+======
+cpp:
+getline(cin, engine[0]);
+python:
+qString = input.readline()
+======
+======
+cpp:
+int i, j, k, value, best;
+python:
+input = file(filename,'r')
+======
+======
+cpp:
+return;
+python:
+try:
+======
+======
+cpp:
+memset(f, 0xFF, sizeof(f));
+python:
+queries = queries[maxDist:]
+======
+======
+cpp:
+for (k=1; k<=n; k++)
+python:
+break  # we're done!
+======
+======
+cpp:
+if (j==k) value=0; else value=1;
+python:
+numCases = eval(input.readline())
+======
+======
+cpp:
+if ((best==-1 || best>f[m][i]) && f[m][i]!=-1)
+python:
+filename = raw_input("Enter input file name: ")
+======
+======
+cpp:
+best=f[m][i];
+python:
+queries = []
+======
+======
+cpp:
+int cas=0, t;
+python:
+engines = []
+======
+======
+cpp:
+freopen("input.txt", "r", stdin);
+python:
+engines.append(engName.strip())
+======
+======
+cpp:
+while (t--){
+python:
+while queries:
+======
+======
+cpp:
+#include <string>
+python:
+query = getLine()
+======
+======
+cpp:
+const int MAXN = 110;
+python:
+cost[j][i+1] = res
+======
+======
+cpp:
+string engine[MAXN], query[MAXM];
+python:
+queries.append(engineNo.get(query,-1))
+======
+======
+cpp:
+int f[MAXM][MAXN];
+python:
+line = line[:-1]
+======
+======
+cpp:
+getline(cin, engine[0]);
+python:
+engines.append(getLine())
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range(n):
+======
+======
+cpp:
+getline(cin, engine[i]);
+python:
+res = min(res, cost[j][i])
+======
+======
+cpp:
+getline(cin, query[0]);
+python:
+def solve(s,queries):
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range(n):
+======
+======
+cpp:
+void work()
+python:
+fout.close()
+======
+======
+cpp:
+int i, j, k, value, best;
+python:
+print "Specify input file"
+======
+======
+cpp:
+if (m==0){
+python:
+if k==j:
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range(n):
+======
+======
+cpp:
+for (j=1; j<=n; j++)
+python:
+for j in xrange(s):
+======
+======
+cpp:
+for (k=1; k<=n; k++)
+python:
+for k in xrange(s):
+======
+======
+cpp:
+if (f[i-1][k]!=-1){
+python:
+if line[-1]=="\n":
+======
+======
+cpp:
+best=-1;
+python:
+res = 1e10
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range(n):
+======
+======
+cpp:
+if ((best==-1 || best>f[m][i]) && f[m][i]!=-1)
+python:
+return str(min(c[len(queries)] for c in cost))
+======
+======
+cpp:
+best=f[m][i];
+python:
+res = [0]*s
+======
+======
+cpp:
+cout << best << endl;
+python:
+fout = open("out","wt")
+======
+======
+cpp:
+int cas=0, t;
+python:
+engines = []
+======
+======
+cpp:
+cas++;
+python:
+else:
+======
+======
+cpp:
+cout << "Case #" << cas << ": ";
+python:
+fout.write("Case #%s: "%(i+1))
+======
+======
+cpp:
+init();
+python:
+exit(1)
+======
+======
+cpp:
+return 0;
+python:
+return line
+======
+======
+cpp:
+#include <string>
+python:
+if e in slines:
+======
+======
+cpp:
+using namespace std;
+python:
+s_line_start = start
+======
+======
+cpp:
+const int MAXN = 110;
+python:
+for e in qlines[1:]:
+======
+======
+cpp:
+int n, m;
+python:
+import sys
+======
+======
+cpp:
+getline(cin, engine[0]);
+python:
+n_engine = int( slines[0] )
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range( nc ):
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range( nc ):
+======
+======
+cpp:
+return;
+python:
+return
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range( nc ):
+======
+======
+cpp:
+if (!match[1][i])
+python:
+if i == lint[-1]:
+======
+======
+cpp:
+f[1][i]=0;
+python:
+hits[ci] = 1
+======
+======
+cpp:
+if (j==k) value=0; else value=1;
+python:
+def get_sq_lines( cls, start ):
+======
+======
+cpp:
+if (f[i][j]==-1 || f[i][j]>f[i-1][k]+value)
+python:
+s_length     = int( cls[ s_line_start ] )
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range( nc ):
+======
+======
+cpp:
+if ((best==-1 || best>f[m][i]) && f[m][i]!=-1)
+python:
+start, slines, qlines = get_sq_lines(ls,start)
+======
+======
+cpp:
+best=f[m][i];
+python:
+lint = [ l[0] ]
+======
+======
+cpp:
+int main()
+python:
+def main():
+======
+======
+cpp:
+freopen("input.txt", "r", stdin);
+python:
+return [ newstart, sls, qls ]
+======
+======
+cpp:
+cout << "Case #" << cas << ": ";
+python:
+for i in range( len( lint ) ):
+======
+======
+cpp:
+return 0;
+python:
+return [-1]
+======
+======
+cpp:
+const int MAXN = 110;
+python:
+if n_q==0: return '0'
+======
+======
+cpp:
+void init()
+python:
+if s_id in ss:
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range(n_case):
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range(n_case):
+======
+======
+cpp:
+if (engine[i]==query[j]) match[j][i]=true; else match[j][i]=false;
+python:
+return 1+min(map(lambda s_id_n:search(pos+m_length),s_id_next))
+======
+======
+cpp:
+memset(f, 0xFF, sizeof(f));
+python:
+table=dict(zip(ss,range(n_s)))
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range(n_case):
+======
+======
+cpp:
+if (!match[1][i])
+python:
+def search(pos):
+======
+======
+cpp:
+if (!match[i][j]){
+python:
+def fetch_lines(n):
+======
+======
+cpp:
+if (f[i][j]==-1 || f[i][j]>f[i-1][k]+value)
+python:
+runs=filter(lambda x:x[1]==m_length,runs)
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for i in range(n_case):
+======
+======
+cpp:
+if ((best==-1 || best>f[m][i]) && f[m][i]!=-1)
+python:
+return ''.join(reversed(replace_by(n_temp,fw2)))
+======
+======
+cpp:
+int main()
+python:
+proc_all()
+======
+======
+cpp:
+while (t--){
+python:
+while n>0:
+======
+======
+cpp:
+cas++;
+python:
+cnt+=1
+======
+======
+cpp:
+cout << "Case #" << cas << ": ";
+python:
+"lowest to highest, [] when n==0"
+======
+======
+cpp:
+return 0;
+python:
+return n
+======
+======
+cpp:
+#include <string>
+python:
+if use != None:
+======
+======
+cpp:
+string engine[MAXN], query[MAXM];
+python:
+processCase(engines, queries, case)
+======
+======
+cpp:
+int n, m;
+python:
+list = []
+======
+======
+cpp:
+getline(cin, engine[0]);
+python:
+n = int (lines[0])
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+f = open(input, 'r')
+======
+======
+cpp:
+getline(cin, engine[i]);
+python:
+weighted.append((e, idx))
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+f = open(input, 'r')
+======
+======
+cpp:
+if (engine[i]==query[j]) match[j][i]=true; else match[j][i]=false;
+python:
+return 0    #We found engine not presented in the query list
+======
+======
+cpp:
+int i, j, k, value, best;
+python:
+if idx < len(queries):
+======
+======
+cpp:
+return;
+python:
+return
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+f = open(input, 'r')
+======
+======
+cpp:
+if (!match[1][i])
+python:
+s = int (lines[i])
+======
+======
+cpp:
+if (f[i][j]==-1 || f[i][j]>f[i-1][k]+value)
+python:
+weighted.sort(lambda x,y:cmp(x[1],y[1]))
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+f = open(input, 'r')
+======
+======
+cpp:
+if ((best==-1 || best>f[m][i]) && f[m][i]!=-1)
+python:
+switches = 1 + countSwitches(engines, queries[idx:])
+======
+======
+cpp:
+best=f[m][i];
+python:
+weighted = []
+======
+======
+cpp:
+int main()
+python:
+def main():
+======
+======
+cpp:
+int cas=0, t;
+python:
+while case <= n:
+======
+======
+cpp:
+while (t--){
+python:
+while s > 0:
+======
+======
+cpp:
+cout << "Case #" << cas << ": ";
+python:
+print "Case #%d: %d" % (case, switches)
+======
+======
+cpp:
+init();
+python:
+exit()
+======
+======
+cpp:
+return 0;
+python:
+return 1
+======
+======
+cpp:
+#include <string>
+python:
+name = getline()
+======
+======
+cpp:
+using namespace std;
+python:
+engines[name] = eng
+======
+======
+cpp:
+const int MAXN = 110;
+python:
+cases = int(getline())
+======
+======
+cpp:
+int n, m;
+python:
+import sys
+======
+======
+cpp:
+getline(cin, engine[0]);
+python:
+eng = engines[getline()]
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for eng in range(S):
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for eng in range(S):
+======
+======
+cpp:
+int i, j, k, value, best;
+python:
+for case in range(cases):
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for eng in range(S):
+======
+======
+cpp:
+for (i=1; i<=n; i++)
+python:
+for eng in range(S):
+======
+======
+cpp:
+best=f[m][i];
+python:
+sw2 = swi[:]
+======
+======
+cpp:
+int main()
+python:
+mi = min(sw2)
+======
+======
+cpp:
+int cas=0, t;
+python:
+engines = {}
+======
+======
+cpp:
+cout << "Case #" << cas << ": ";
+python:
+print "Case #%d: %d" % (case+1, mini)
+======
+======
+cpp:
+using namespace std;
+python:
+next = max(next, j)
+======
+======
+cpp:
+for (i = 0; i < n; i++) {
+python:
+for j in range(s, Q + 1):
+======
+======
+cpp:
+ff[str] = i;
+python:
+engines = []
+======
+======
+cpp:
+a[j] = m;
+python:
+next = -1
+======
+======
+cpp:
+if (b[r] + 1 < a[k]) a[k] = b[r] + 1;
+python:
+if j == Q or queries[j] == engines[i]:
+======
+======
+cpp:
+j = m;
+python:
+s = 0
+======
+======
+cpp:
+for (i = 0; i < n; i++) if (a[i] < j) j = a[i];
+python:
+print "Case #%d: %d" % (test + 1, max(0, res - 1))
+======
+======
+cpp:
+return 0;
+python:
+res = 0
+======
+======
+cpp:
+map<string, int> ff;
+python:
+for z in xrange(n):
+======
+======
+cpp:
+char str[1000];
+python:
+case = "large"
+======
+======
+cpp:
+int main() {
+python:
+res = min(t)
+======
+======
+cpp:
+for (t = 1; t <= testcases; t++) {
+python:
+fout = open(output_file, "w")
+======
+======
+cpp:
+ff.clear();
+python:
+fin.close()
+======
+======
+cpp:
+for (i = 0; i < n; i++) {
+python:
+fin = open(input_file)
+======
+======
+cpp:
+for (i = 0; i < n; i++) a[i] = 0;
+python:
+for x in xrange(q-1, -1, -1):
+======
+======
+cpp:
+if (j < 0 || j >= n) {
+python:
+if eng[i] == quer[x]:
+======
+======
+cpp:
+a[j] = m;
+python:
+tt[i] = sw
+======
+======
+cpp:
+j = m;
+python:
+t = tt
+======
+======
+cpp:
+for (i = 0; i < n; i++) if (a[i] < j) j = a[i];
+python:
+sw = min([t[i] for i in range(s) if eng[i] != quer[x]]) + 1
+======
+======
+cpp:
+printf("Case #%d: %d\n", t, j);
+python:
+print >> fout, "Case #%d:" % (z+1), res
+======
+======
+cpp:
+#include <cstdio>
+python:
+q = queries[i:]
+======
+======
+cpp:
+#include <string>
+python:
+for e in engines:
+======
+======
+cpp:
+using namespace std;
+python:
+if i >= numqueries:
+======
+======
+cpp:
+char str[1000];
+python:
+currengine = ''
+======
+======
+cpp:
+int main() {
+python:
+i=numqueries
+======
+======
+cpp:
+freopen("a.in","r",stdin);
+python:
+infile = open(sys.argv[1], 'rb')
+======
+======
+cpp:
+for (t = 1; t <= testcases; t++) {
+python:
+for case in xrange(1, numcases+1):
+======
+======
+cpp:
+ff[str] = i;
+python:
+switches = 0
+======
+======
+cpp:
+j = ff[str];
+python:
+i = i+long+1
+======
+======
+cpp:
+if (j < 0 || j >= n) {
+python:
+if l > long: long = l
+======
+======
+cpp:
+exit(0);
+python:
+except:
+======
+======
+cpp:
+a[j] = m;
+python:
+long = 0
+======
+======
+cpp:
+for (i = 0; i < n; i++) if (a[i] < j) j = a[i];
+python:
+print "Case #" + str(case) + ": " + str(switches)
+======
+======
+cpp:
+using namespace std;
+python:
+def solve(caseNum):
+======
+======
+cpp:
+int main() {
+python:
+idx = eng[s]
+======
+======
+cpp:
+freopen("a.in","r",stdin);
+python:
+sys.setcheckinterval(10000)
+======
+======
+cpp:
+for (t = 1; t <= testcases; t++) {
+python:
+for case in range(1, casesCount + 1):
+======
+======
+cpp:
+gets(str);
+python:
+if(first):
+======
+======
+cpp:
+for (i = 0; i < n; i++) {
+python:
+for i in range(0, S):
+======
+======
+cpp:
+gets(str);
+python:
+if(first):
+======
+======
+cpp:
+ff[str] = i;
+python:
+first = True
+======
+======
+cpp:
+gets(str);
+python:
+if(first):
+======
+======
+cpp:
+gets(str);
+python:
+if(first):
+======
+======
+cpp:
+a[j] = m;
+python:
+v[j] = True
+======
+======
+cpp:
+j = m;
+python:
+c = S
+======
+======
+cpp:
+return 0;
+python:
+import re
+======
+======
+cpp:
+#include <map>
+python:
+if done: break
+======
+======
+cpp:
+#include <string>
+python:
+while queries:
+======
+======
+cpp:
+using namespace std;
+python:
+maxDist = max(dist)
+======
+======
+cpp:
+int a[1000], b[1000];
+python:
+dist = [0]*numEngines
+======
+======
+cpp:
+for (i = 0; i < n; i++) {
+python:
+for e in range(numEngines):
+======
+======
+cpp:
+ff[str] = i;
+python:
+engines = []
+======
+======
+cpp:
+a[j] = m;
+python:
+done = True
+======
+======
+cpp:
+for (k = 0; k < n; k++) if (k != j){
+python:
+for (count,eng) in enumerate(engines):
+======
+======
+cpp:
+for (r = 0; r < n; r++) {
+python:
+for case in range(numCases):
+======
+======
+cpp:
+for (i = 0; i < n; i++) if (a[i] < j) j = a[i];
+python:
+filename = raw_input("Enter input file name: ")
+======
+======
+cpp:
+printf("Case #%d: %d\n", t, j);
+python:
+print 'Case #%s: %s' % (case+1,switches)
+======
+======
+cpp:
+#include <cstring>
+python:
+if line[-1]=="\n":
+======
+======
+cpp:
+#include <string>
+python:
+query = getLine()
+======
+======
+cpp:
+using namespace std;
+python:
+for j in xrange(s):
+======
+======
+cpp:
+int main() {
+python:
+def getLine():
+======
+======
+cpp:
+freopen("a.in","r",stdin);
+python:
+fout = open("out","wt")
+======
+======
+cpp:
+gets(str);
+python:
+global fin
+======
+======
+cpp:
+ff.clear();
+python:
+fout.close()
+======
+======
+cpp:
+gets(str);
+python:
+global fin
+======
+======
+cpp:
+ff[str] = i;
+python:
+engines = []
+======
+======
+cpp:
+for (i = 0; i < n; i++) a[i] = 0;
+python:
+for i,q in enumerate(queries):
+======
+======
+cpp:
+gets(str);
+python:
+global fin
+======
+======
+cpp:
+gets(str);
+python:
+global fin
+======
+======
+cpp:
+if (j < 0 || j >= n) {
+python:
+if len(sys.argv) != 2:
+======
+======
+cpp:
+printf("!!!\n");
+python:
+fout.write("\n")
+======
+======
+cpp:
+exit(0);
+python:
+exit(1)
+======
+======
+cpp:
+a[j] = m;
+python:
+res = 1e10
+======
+======
+cpp:
+for (i = 0; i < n; i++) if (a[i] < j) j = a[i];
+python:
+cost = [[0]+[None for i in queries] for j in xrange(s)]
+======
+======
+cpp:
+printf("Case #%d: %d\n", t, j);
+python:
+fout.write("Case #%s: "%(i+1))
+======
+======
+cpp:
+return 0;
+python:
+return line
+======
+======
+cpp:
+#include <string>
+python:
+if e in slines:
+======
+======
+cpp:
+using namespace std;
+python:
+s_line_start = start
+======
+======
+cpp:
+map<string, int> ff;
+python:
+for e in qlines[1:]:
+======
+======
+cpp:
+char str[1000];
+python:
+lint = [ l[0] ]
+======
+======
+cpp:
+int main() {
+python:
+def main():
+======
+======
+cpp:
+int i, j, k, r, t, n, m, testcases;
+python:
+lint = compress2int( slines, qlines )
+======
+======
+cpp:
+for (t = 1; t <= testcases; t++) {
+python:
+n_switch = central( slines, qlines )
+======
+======
+cpp:
+scanf("%d",&n);
+python:
+f = file( fin )
+======
+======
+cpp:
+ff.clear();
+python:
+f.close()
+======
+======
+cpp:
+for (i = 0; i < n; i++) {
+python:
+for i in range( nc ):
+======
+======
+cpp:
+ff[str] = i;
+python:
+hits[ci] = 1
+======
+======
+cpp:
+if (j < 0 || j >= n) {
+python:
+hits = [ 0 ] * n_engine
+======
+======
+cpp:
+exit(0);
+python:
+main()
+======
+======
+cpp:
+j = m;
+python:
+l = []
+======
+======
+cpp:
+printf("Case #%d: %d\n", t, j);
+python:
+print "Case #%i: %i" %( i+1, n_switch )
+======
+======
+cpp:
+return 0;
+python:
+return [-1]
+======
+======
+cpp:
+#include <cstring>
+python:
+arr.append(n%base)
+======
+======
+cpp:
+using namespace std;
+python:
+def cv_base(n,base):
+======
+======
+cpp:
+int main() {
+python:
+def calc(s):
+======
+======
+cpp:
+freopen("a.in","r",stdin);
+python:
+def s_length(pos_from,s_id):
+======
+======
+cpp:
+ff.clear();
+python:
+proc_all()
+======
+======
+cpp:
+for (i = 0; i < n; i++) {
+python:
+for i in range(n_case):
+======
+======
+cpp:
+ff[str] = i;
+python:
+if s_id in ss:
+======
+======
+cpp:
+for (i = 0; i < n; i++) a[i] = 0;
+python:
+"lowest to highest, [] when n==0"
+======
+======
+cpp:
+if (j < 0 || j >= n) {
+python:
+if pos>=n_q: return -1
+======
+======
+cpp:
+printf("!!!\n");
+python:
+def proc_case():
+======
+======
+cpp:
+for (r = 0; r < n; r++) {
+python:
+for x in reversed(arr):
+======
+======
+cpp:
+if (b[r] + 1 < a[k]) a[k] = b[r] + 1;
+python:
+m_length=max(map(lambda x:x[1],runs))
+======
+======
+cpp:
+j = m;
+python:
+arr=[]
+======
+======
+cpp:
+for (i = 0; i < n; i++) if (a[i] < j) j = a[i];
+python:
+return ''.join(reversed(replace_by(n_temp,fw2)))
+======
+======
+cpp:
+printf("Case #%d: %d\n", t, j);
+python:
+print 'Case #%d: %s'%(i+1,proc_case())
+======
+======
+cpp:
+return 0;
+python:
+return n
+======
+======
+cpp:
+#include <map>
+python:
+while case <= n:
+======
+======
+cpp:
+#include <string>
+python:
+if use != None:
+======
+======
+cpp:
+int main() {
+python:
+def main():
+======
+======
+cpp:
+freopen("a.in","r",stdin);
+python:
+f = open(input, 'r')
+======
+======
+cpp:
+ff.clear();
+python:
+f.close()
+======
+======
+cpp:
+for (i = 0; i < n; i++) {
+python:
+queries = unique(queries)
+======
+======
+cpp:
+ff[str] = i;
+python:
+weighted = []
+======
+======
+cpp:
+if (j < 0 || j >= n) {
+python:
+if idx < len(queries):
+======
+======
+cpp:
+printf("!!!\n");
+python:
+n = int (lines[0])
+======
+======
+cpp:
+exit(0);
+python:
+exit()
+======
+======
+cpp:
+a[j] = m;
+python:
+list = []
+======
+======
+cpp:
+j = m;
+python:
+i = 1
+======
+======
+cpp:
+for (i = 0; i < n; i++) if (a[i] < j) j = a[i];
+python:
+switches = 1 + countSwitches(engines, queries[idx:])
+======
+======
+cpp:
+printf("Case #%d: %d\n", t, j);
+python:
+print "Case #%d: %d" % (case, switches)
+======
+======
+cpp:
+return 0;
+python:
+return 1
+======
+======
+cpp:
+#include <string>
+python:
+name = getline()
+======
+======
+cpp:
+using namespace std;
+python:
+engines[name] = eng
+======
+======
+cpp:
+int main() {
+python:
+mi = min(sw2)
+======
+======
+cpp:
+freopen("a.in","r",stdin);
+python:
+return sys.stdin.readline()
+======
+======
+cpp:
+ff[str] = i;
+python:
+engines = {}
+======
+======
+cpp:
+j = ff[str];
+python:
+sw2 = swi[:]
+======
+======
+cpp:
+printf("!!!\n");
+python:
+S = int(getline())
+======
+======
+cpp:
+for (r = 0; r < n; r++) {
+python:
+for case in range(cases):
+======
+======
+cpp:
+printf("Case #%d: %d\n", t, j);
+python:
+print "Case #%d: %d" % (case+1, mini)
+======
+======
+cpp:
+return 0;
+python:
+import sys
+======
+======
+cpp:
+ifstream fin("A-large.in");
+python:
+if __name__ == "__main__":
+======
+======
+cpp:
+int S, Q;
+python:
+next = -1
+======
+======
+cpp:
+string s; getline(fin, s);
+python:
+engines.append(raw_input())
+======
+======
+cpp:
+cout << s << endl;
+python:
+for i in range(E):
+======
+======
+cpp:
+index[s] = i;
+python:
+engines = []
+======
+======
+cpp:
+for (i = 0; i < Q; i++) {
+python:
+for j in range(s, Q + 1):
+======
+======
+cpp:
+for (j = 0; j < S; j++) used[j] = false;
+python:
+if j == Q or queries[j] == engines[i]:
+======
+======
+cpp:
+fout << "Case #" << t << ": " << best[0] << endl;
+python:
+print "Case #%d: %d" % (test + 1, max(0, res - 1))
+======
+======
+cpp:
+return 0;
+python:
+res = 0
+======
+======
+cpp:
+ofstream fout("A-large.out");
+python:
+fout = open(output_file, "w")
+======
+======
+cpp:
+ifstream fin("A-large.in");
+python:
+input_file = "A-%s.in" % case
+======
+======
+cpp:
+int i, j, N;
+python:
+tt[i] = sw
+======
+======
+cpp:
+map <string, int> index;
+python:
+fin = open(input_file)
+======
+======
+cpp:
+string s; getline(fin, s);
+python:
+s = int(fin.readline().strip())
+======
+======
+cpp:
+if (s.size() == 0) getline(fin, s);
+python:
+eng = [fin.readline() for i in xrange(s)]
+======
+======
+cpp:
+cout << s << endl;
+python:
+for z in xrange(n):
+======
+======
+cpp:
+index[s] = i;
+python:
+tt = [0] * s
+======
+======
+cpp:
+fout << "Case #" << t << ": " << 0 << endl;
+python:
+print >> fout, "Case #%d:" % (z+1), res
+======
+======
+cpp:
+query[i] = index[q];
+python:
+if eng[i] == quer[x]:
+======
+======
+cpp:
+for (i = Q-2; i >= 0; i--) {
+python:
+for x in xrange(q-1, -1, -1):
+======
+======
+cpp:
+fin.close();
+python:
+fin.close()
+======
+======
+cpp:
+fout.close();
+python:
+fout.close()
+======
+======
+cpp:
+system("pause");
+python:
+case = "large"
+======
+======
+cpp:
+using namespace std;
+python:
+if i >= numqueries:
+======
+======
+cpp:
+int query[1000];
+python:
+q = queries[i:]
+======
+======
+cpp:
+int main()  {
+python:
+l = q.index(e)
+======
+======
+cpp:
+ifstream fin("A-large.in");
+python:
+infile = open(sys.argv[1], 'rb')
+======
+======
+cpp:
+int i, j, N;
+python:
+i = i+long+1
+======
+======
+cpp:
+fin >> N; cout << N << endl;
+python:
+if e == currengine: continue
+======
+======
+cpp:
+int S, Q;
+python:
+long = 0
+======
+======
+cpp:
+cout << s << endl;
+python:
+for e in engines:
+======
+======
+cpp:
+best[Q-1] = 0;
+python:
+switches = 0
+======
+======
+cpp:
+int count = S;
+python:
+currengine = ''
+======
+======
+cpp:
+best[i] = min(best[i], best[j] + 1);
+python:
+for case in xrange(1, numcases+1):
+======
+======
+cpp:
+if (j == Q) best[i] = 0;
+python:
+if l > long: long = l
+======
+======
+cpp:
+fout << "Case #" << t << ": " << best[0] << endl;
+python:
+print "Case #" + str(case) + ": " + str(switches)
+======
+======
+cpp:
+using namespace std;
+python:
+def solve(caseNum):
+======
+======
+cpp:
+int main()  {
+python:
+idx = eng[s]
+======
+======
+cpp:
+ifstream fin("A-large.in");
+python:
+sys.setcheckinterval(10000)
+======
+======
+cpp:
+int S, Q;
+python:
+eng = {}
+======
+======
+cpp:
+for (i = 0; i < S; i++) {
+python:
+for i in range(0, S):
+======
+======
+cpp:
+if (s.size() == 0) getline(fin, s);
+python:
+S = int(sys.stdin.readline().strip())
+======
+======
+cpp:
+if (Q == 0) {
+python:
+if c == 0:
+======
+======
+cpp:
+best[i] = 1000;
+python:
+v[idx] = False
+======
+======
+cpp:
+int count = S;
+python:
+v = [True] * S
+======
+======
+cpp:
+for (j = i; j < Q; j++) {
+python:
+for j in range(0,S):
+======
+======
+cpp:
+count--;
+python:
+print ""
+======
+======
+cpp:
+best[i] = min(best[i], best[j] + 1);
+python:
+for case in range(1, casesCount + 1):
+======
+======
+cpp:
+if (j == Q) best[i] = 0;
+python:
+PI_2 = arccos(-1) / 2
+======
+======
+cpp:
+fout << "Case #" << t << ": " << best[0] << endl;
+python:
+sys.stdout.write("Case #%d: %d" % (caseNum, ch))
+======
+======
+cpp:
+fout.close();
+python:
+solve(case)
+======
+======
+cpp:
+#include <string>
+python:
+while queries:
+======
+======
+cpp:
+#include <vector>
+python:
+except ValueError:
+======
+======
+cpp:
+using namespace std;
+python:
+maxDist = max(dist)
+======
+======
+cpp:
+ifstream fin("A-large.in");
+python:
+input = file(filename,'r')
+======
+======
+cpp:
+string s; getline(fin, s);
+python:
+qString = input.readline()
+======
+======
+cpp:
+if (s.size() == 0) getline(fin, s);
+python:
+for (count,eng) in enumerate(engines):
+======
+======
+cpp:
+index[s] = i;
+python:
+engines = []
+======
+======
+cpp:
+if (Q == 0) {
+python:
+if done: break
+======
+======
+cpp:
+fout << "Case #" << t << ": " << 0 << endl;
+python:
+print 'Case #%s: %s' % (case+1,switches)
+======
+======
+cpp:
+continue;
+python:
+done = True
+======
+======
+cpp:
+for (i = 0; i < Q; i++) {
+python:
+for q in range(numQueries):
+======
+======
+cpp:
+best[Q-1] = 0;
+python:
+switches = 0
+======
+======
+cpp:
+fout << "Case #" << t << ": " << best[0] << endl;
+python:
+output.write('Case #%s: %s\n' % (case+1,switches))
+======
+======
+cpp:
+int query[1000];
+python:
+line = line[:-1]
+======
+======
+cpp:
+for (int t = 1; t <= N; t++) {
+python:
+for i,q in enumerate(queries):
+======
+======
+cpp:
+int S, Q;
+python:
+if j!=q:
+======
+======
+cpp:
+for (i = 0; i < S; i++) {
+python:
+fout = open("out","wt")
+======
+======
+cpp:
+string s; getline(fin, s);
+python:
+engines.append(getLine())
+======
+======
+cpp:
+if (s.size() == 0) getline(fin, s);
+python:
+queries.append(engineNo.get(query,-1))
+======
+======
+cpp:
+index[s] = i;
+python:
+engines = []
+======
+======
+cpp:
+fout << "Case #" << t << ": " << 0 << endl;
+python:
+return str(min(c[len(queries)] for c in cost))
+======
+======
+cpp:
+query[i] = index[q];
+python:
+query = getLine()
+======
+======
+cpp:
+best[Q-1] = 0;
+python:
+cost[j][i+1] = res
+======
+======
+cpp:
+best[i] = 1000;
+python:
+res = 1e10
+======
+======
+cpp:
+if (!used[query[j]]) {
+python:
+def solve(s,queries):
+======
+======
+cpp:
+count--;
+python:
+print i
+======
+======
+cpp:
+best[i] = min(best[i], best[j] + 1);
+python:
+res = min(res, cost[k][i]+1)
+======
+======
+cpp:
+fout << "Case #" << t << ": " << best[0] << endl;
+python:
+cost = [[0]+[None for i in queries] for j in xrange(s)]
+======
+======
+cpp:
+fout.close();
+python:
+fout.close()
+======
+======
+cpp:
+system("pause");
+python:
+s = int(getLine())
+======
+======
+cpp:
+return 0;
+python:
+return line
+======
+======
+cpp:
+using namespace std;
+python:
+s_line_start = start
+======
+======
+cpp:
+int query[1000];
+python:
+if n_query == 0:
+======
+======
+cpp:
+int main()  {
+python:
+def main():
+======
+======
+cpp:
+for (int t = 1; t <= N; t++) {
+python:
+for i in range( len( lint ) ):
+======
+======
+cpp:
+int S, Q;
+python:
+import sys
+======
+======
+cpp:
+if (s.size() == 0) getline(fin, s);
+python:
+def compress2int( slines, qlines ):
+======
+======
+cpp:
+index[s] = i;
+python:
+hits[ci] = 1
+======
+======
+cpp:
+fout << "Case #" << t << ": " << 0 << endl;
+python:
+print "Case #%i: %i" %( i+1, n_switch )
+======
+======
+cpp:
+query[i] = index[q];
+python:
+for e in qlines[1:]:
+======
+======
+cpp:
+best[Q-1] = 0;
+python:
+n_switch = 0
+======
+======
+cpp:
+bool used[100];
+python:
+for i in l[1:]:
+======
+======
+cpp:
+best[i] = min(best[i], best[j] + 1);
+python:
+n_switch = shortest( lint, n_engine )
+======
+======
+cpp:
+if (j == Q) best[i] = 0;
+python:
+n_switch = n_switch + 1
+======
+======
+cpp:
+fin.close();
+python:
+f.close()
+======
+======
+cpp:
+return 0;
+python:
+return [-1]
+======
+======
+cpp:
+#include <iostream>
+python:
+ss=fetch_lines(n_s)
+======
+======
+cpp:
+using namespace std;
+python:
+def cv_base(n,base):
+======
+======
+cpp:
+int main()  {
+python:
+def calc(s):
+======
+======
+cpp:
+ofstream fout("A-large.out");
+python:
+table=dict(zip(ss,range(n_s)))
+======
+======
+cpp:
+for (i = 0; i < S; i++) {
+python:
+for i in range(n_case):
+======
+======
+cpp:
+string s; getline(fin, s);
+python:
+all_ids=set(range(n_s))
+======
+======
+cpp:
+if (s.size() == 0) getline(fin, s);
+python:
+return map(lambda x:table[x],ls)
+======
+======
+cpp:
+if (Q == 0) {
+python:
+if s_id in ss:
+======
+======
+cpp:
+fout << "Case #" << t << ": " << 0 << endl;
+python:
+print 'Case #%d: %s'%(i+1,proc_case())
+======
+======
+cpp:
+if (q.size() == 0) getline(fin, q);
+python:
+n_q=int(sys.stdin.readline().rstrip())
+======
+======
+cpp:
+query[i] = index[q];
+python:
+def fetch_lines(n):
+======
+======
+cpp:
+int count = S;
+python:
+if n_normal==0:
+======
+======
+cpp:
+if (!used[query[j]]) {
+python:
+if pos>=n_q: return -1
+======
+======
+cpp:
+used[query[j]] = true;
+python:
+qs=replace_all(qs,table)
+======
+======
+cpp:
+count--;
+python:
+cnt+=1
+======
+======
+cpp:
+best[i] = min(best[i], best[j] + 1);
+python:
+"lowest to highest, [] when n==0"
+======
+======
+cpp:
+if (j == Q) best[i] = 0;
+python:
+if n_q==0: return '0'
+======
+======
+cpp:
+fout << "Case #" << t << ": " << best[0] << endl;
+python:
+return ''.join(reversed(replace_by(n_temp,fw2)))
+======
+======
+cpp:
+fout.close();
+python:
+def proc_case():
+======
+======
+cpp:
+return 0;
+python:
+return n
+======
+======
+cpp:
+int query[1000];
+python:
+input = argv[1]
+======
+======
+cpp:
+int main()  {
+python:
+def main():
+======
+======
+cpp:
+ifstream fin("A-large.in");
+python:
+if __name__ == '__main__':
+======
+======
+cpp:
+for (int t = 1; t <= N; t++) {
+python:
+print "Usage %s input" % argv[0]
+======
+======
+cpp:
+int S, Q;
+python:
+list = []
+======
+======
+cpp:
+string s; getline(fin, s);
+python:
+queries = unique(queries)
+======
+======
+cpp:
+if (s.size() == 0) getline(fin, s);
+python:
+processCase(engines, queries, case)
+======
+======
+cpp:
+cout << s << endl;
+python:
+for e in engines:
+======
+======
+cpp:
+index[s] = i;
+python:
+engines = []
+======
+======
+cpp:
+if (Q == 0) {
+python:
+if q != prev:
+======
+======
+cpp:
+fout << "Case #" << t << ": " << 0 << endl;
+python:
+print "Case #%d: %d" % (case, switches)
+======
+======
+cpp:
+query[i] = index[q];
+python:
+q = int (lines[i])
+======
+======
+cpp:
+best[Q-1] = 0;
+python:
+switches = 0
+======
+======
+cpp:
+int count = S;
+python:
+while case <= n:
+======
+======
+cpp:
+for (j = 0; j < S; j++) used[j] = false;
+python:
+def processCase(engines, queries, case):
+======
+======
+cpp:
+if (!used[query[j]]) {
+python:
+if idx < len(queries):
+======
+======
+cpp:
+count--;
+python:
+case = 1
+======
+======
+cpp:
+best[i] = min(best[i], best[j] + 1);
+python:
+def countSwitches(engines, queries):
+======
+======
+cpp:
+fin.close();
+python:
+f.close()
+======
+======
+cpp:
+return 0;
+python:
+return 1
+======
+======
+cpp:
+#include <string>
+python:
+name = getline()
+======
+======
+cpp:
+using namespace std;
+python:
+engines[name] = eng
+======
+======
+cpp:
+int main()  {
+python:
+mi = min(sw2)
+======
+======
+cpp:
+int S, Q;
+python:
+import sys
+======
+======
+cpp:
+map <string, int> index;
+python:
+eng = engines[getline()]
+======
+======
+cpp:
+string s; getline(fin, s);
+python:
+return sys.stdin.readline()
+======
+======
+cpp:
+index[s] = i;
+python:
+engines = {}
+======
+======
+cpp:
+fout << "Case #" << t << ": " << 0 << endl;
+python:
+print "Case #%d: %d" % (case+1, mini)
+======
+======
+cpp:
+query[i] = index[q];
+python:
+for eng in range(S):
+======
+======
+cpp:
+best[i] = 1000;
+python:
+swi = [0]*S
+======
+======
+cpp:
+for (j = i; j < Q; j++) {
+python:
+for case in range(cases):
+======
+======
+cpp:
+fin.close();
+python:
+def getline():
+======
+======
+cpp:
+#define _cl(x) memset(x, 0, sizeof(x))
+python:
+if j == Q or queries[j] == engines[i]:
+======
+======
+cpp:
+const int INF = 1 << 20;
+python:
+for j in range(s, Q + 1):
+======
+======
+cpp:
+int S, Q;
+python:
+next = -1
+======
+======
+cpp:
+int i;
+python:
+s = 0
+======
+======
+cpp:
+fr(i, Q) fr(j, S)
+python:
+for i in range(E):
+======
+======
+cpp:
+fr(k, S) dp[i][j] = min(dp[i][j], dp[i-1][k] + 1);
+python:
+print "Case #%d: %d" % (test + 1, max(0, res - 1))
+======
+======
+cpp:
+int res = INF;
+python:
+engines = []
+======
+======
+cpp:
+fout << res << endl;
+python:
+for test in range(N):
+======
+======
+cpp:
+int i;
+python:
+s = 0
+======
+======
+cpp:
+ifstream fin("input.txt");
+python:
+if __name__ == "__main__":
+======
+======
+cpp:
+istringstream is(ln);
+python:
+N = int(raw_input())
+======
+======
+cpp:
+is >> NT;
+python:
+s = next
+======
+======
+cpp:
+return 0;
+python:
+res = 0
+======
+======
+cpp:
+#define sz(x) ((int)(x).size())
+python:
+n = int(fin.readline().strip())
+======
+======
+cpp:
+#define fr(i, n) for(i = 0; i < (n); i++)
+python:
+eng = [fin.readline() for i in xrange(s)]
+======
+======
+cpp:
+typedef vector<string> VS;
+python:
+input_file = "A-%s.in" % case
+======
+======
+cpp:
+int i;
+python:
+t = tt
+======
+======
+cpp:
+getline(fin, ln);
+python:
+for z in xrange(n):
+======
+======
+cpp:
+fr(i, S) getline(fin, s[i]);
+python:
+tt[i] = min(sw, t[i])
+======
+======
+cpp:
+getline(fin, ln);
+python:
+for z in xrange(n):
+======
+======
+cpp:
+fr(i, Q) fr(j, S)
+python:
+for i in range(s):
+======
+======
+cpp:
+if(q[i] == s[j])
+python:
+if eng[i] == quer[x]:
+======
+======
+cpp:
+else if(i > 0)
+python:
+case = "large"
+======
+======
+cpp:
+fr(k, S) dp[i][j] = min(dp[i][j], dp[i-1][k] + 1);
+python:
+sw = min([t[i] for i in range(s) if eng[i] != quer[x]]) + 1
+======
+======
+cpp:
+else
+python:
+else:
+======
+======
+cpp:
+dp[i][j] = 0;
+python:
+tt[i] = sw
+======
+======
+cpp:
+int main()
+python:
+res = min(t)
+======
+======
+cpp:
+int i;
+python:
+t = tt
+======
+======
+cpp:
+ifstream fin("input.txt");
+python:
+fin = open(input_file)
+======
+======
+cpp:
+ofstream fout("output.txt");
+python:
+fout = open(output_file, "w")
+======
+======
+cpp:
+getline(fin, ln);
+python:
+for z in xrange(n):
+======
+======
+cpp:
+fout << "Case #" << i + 1 << ": ";
+python:
+print >> fout, "Case #%d:" % (z+1), res
+======
+======
+cpp:
+#include <set>
+python:
+i=numqueries
+======
+======
+cpp:
+using namespace std;
+python:
+if i >= numqueries:
+======
+======
+cpp:
+#define sz(x) ((int)(x).size())
+python:
+numengines = int(infile.readline())
+======
+======
+cpp:
+#define fr2(i, s, n) for(i = (s); i < (n); i++)
+python:
+print "Case #" + str(case) + ": " + str(switches)
+======
+======
+cpp:
+typedef long long ll;
+python:
+if l > long: long = l
+======
+======
+cpp:
+int NT;
+python:
+long = 0
+======
+======
+cpp:
+fr(i, S) getline(fin, s[i]);
+python:
+if e == currengine: continue
+======
+======
+cpp:
+int i, j, k;
+python:
+i = i+long+1
+======
+======
+cpp:
+fr(i, Q) fr(j, S)
+python:
+for e in engines:
+======
+======
+cpp:
+else if(i > 0)
+python:
+currengine = ''
+======
+======
+cpp:
+else
+python:
+try:
+======
+======
+cpp:
+dp[i][j] = 0;
+python:
+switches = 0
+======
+======
+cpp:
+fr(i, S)
+python:
+while 1:
+======
+======
+cpp:
+fout << "Case #" << i + 1 << ": ";
+python:
+for case in xrange(1, numcases+1):
+======
+======
+cpp:
+#define all(x) (x).begin(),(x).end()
+python:
+S = int(sys.stdin.readline().strip())
+======
+======
+cpp:
+#define sz(x) ((int)(x).size())
+python:
+s = sys.stdin.readline().strip()
+======
+======
+cpp:
+#define fr2(i, s, n) for(i = (s); i < (n); i++)
+python:
+sys.stdout.write("Case #%d: %d" % (caseNum, ch))
+======
+======
+cpp:
+#define mp make_pair
+python:
+def solve(caseNum):
+======
+======
+cpp:
+typedef vector<int> VI;
+python:
+PI_2 = arccos(-1) / 2
+======
+======
+cpp:
+typedef istringstream ISS;
+python:
+sys.setcheckinterval(10000)
+======
+======
+cpp:
+int S, Q;
+python:
+eng = {}
+======
+======
+cpp:
+int i;
+python:
+print ""
+======
+======
+cpp:
+fr(i, Q) fr(j, S)
+python:
+for i in range(0, S):
+======
+======
+cpp:
+dp[i][j] = INF;
+python:
+v[idx] = False
+======
+======
+cpp:
+else if(i > 0)
+python:
+PI = arccos(-1)
+======
+======
+cpp:
+else
+python:
+else:
+======
+======
+cpp:
+int main()
+python:
+if v[idx]:
+======
+======
+cpp:
+int i;
+python:
+print ""
+======
+======
+cpp:
+read(fin);
+python:
+if(first):
+======
+======
+cpp:
+#include <vector>
+python:
+except ValueError:
+======
+======
+cpp:
+#include <set>
+python:
+if done: break
+======
+======
+cpp:
+#include <queue>
+python:
+while queries:
+======
+======
+cpp:
+#define all(x) (x).begin(),(x).end()
+python:
+dist[count] = queries.index(eng)
+======
+======
+cpp:
+#define sz(x) ((int)(x).size())
+python:
+engines.append(engName.strip())
+======
+======
+cpp:
+#define fr2(i, s, n) for(i = (s); i < (n); i++)
+python:
+filename = raw_input("Enter input file name: ")
+======
+======
+cpp:
+#define mp make_pair
+python:
+maxDist = max(dist)
+======
+======
+cpp:
+#define _rs(x) memset(x, -1, sizeof(x))
+python:
+print 'Case #%s: %s' % (case+1,switches)
+======
+======
+cpp:
+void read(ifstream &fin)
+python:
+engName = input.readline()
+======
+======
+cpp:
+fr(i, S) getline(fin, s[i]);
+python:
+for e in range(numEngines):
+======
+======
+cpp:
+dp[i][j] = dp[i-1][j];
+python:
+switches = switches + 1
+======
+======
+cpp:
+else
+python:
+try:
+======
+======
+cpp:
+int res = INF;
+python:
+engines = []
+======
+======
+cpp:
+res = min(res, dp[Q-1][i]);
+python:
+for q in range(numQueries):
+======
+======
+cpp:
+fout << res << endl;
+python:
+break  # we're done!
+======
+======
+cpp:
+int main()
+python:
+done = True
+======
+======
+cpp:
+ifstream fin("input.txt");
+python:
+input = file(filename,'r')
+======
+======
+cpp:
+#include <string>
+python:
+query = getLine()
+======
+======
+cpp:
+#define fr2(i, s, n) for(i = (s); i < (n); i++)
+python:
+return str(min(c[len(queries)] for c in cost))
+======
+======
+cpp:
+#define _cl(x) memset(x, 0, sizeof(x))
+python:
+queries.append(engineNo.get(query,-1))
+======
+======
+cpp:
+int S, Q;
+python:
+if j!=q:
+======
+======
+cpp:
+void read(ifstream &fin)
+python:
+if len(sys.argv) != 2:
+======
+======
+cpp:
+int i;
+python:
+print i
+======
+======
+cpp:
+getline(fin, ln);
+python:
+if line[-1]=="\n":
+======
+======
+cpp:
+fr(i, S) getline(fin, s[i]);
+python:
+for i,q in enumerate(queries):
+======
+======
+cpp:
+getline(fin, ln);
+python:
+if line[-1]=="\n":
+======
+======
+cpp:
+fr(i, Q) fr(j, S)
+python:
+for i in range(n):
+======
+======
+cpp:
+dp[i][j] = INF;
+python:
+cost[j][i+1] = res
+======
+======
+cpp:
+fr(k, S) dp[i][j] = min(dp[i][j], dp[i-1][k] + 1);
+python:
+cost = [[0]+[None for i in queries] for j in xrange(s)]
+======
+======
+cpp:
+else
+python:
+else:
+======
+======
+cpp:
+int res = INF;
+python:
+engines = []
+======
+======
+cpp:
+fr(i, S)
+python:
+exit(1)
+======
+======
+cpp:
+res = min(res, dp[Q-1][i]);
+python:
+res = min(res, cost[j][i])
+======
+======
+cpp:
+int i;
+python:
+print i
+======
+======
+cpp:
+ifstream fin("input.txt");
+python:
+print "Specify input file"
+======
+======
+cpp:
+getline(fin, ln);
+python:
+if line[-1]=="\n":
+======
+======
+cpp:
+istringstream is(ln);
+python:
+line = fin.readline()
+======
+======
+cpp:
+read(fin);
+python:
+global fin
+======
+======
+cpp:
+fout << "Case #" << i + 1 << ": ";
+python:
+fout.write("Case #%s: "%(i+1))
+======
+======
+cpp:
+return 0;
+python:
+return line
+======
+======
+cpp:
+#define sz(x) ((int)(x).size())
+python:
+def central( slines, qlines ):
+======
+======
+cpp:
+#define fr(i, n) for(i = 0; i < (n); i++)
+python:
+print "Case #%i: %i" %( i+1, n_switch )
+======
+======
+cpp:
+#define fr2(i, s, n) for(i = (s); i < (n); i++)
+python:
+start, slines, qlines = get_sq_lines(ls,start)
+======
+======
+cpp:
+#define mp make_pair
+python:
+engines = slines[1:]
+======
+======
+cpp:
+typedef vector<string> VS;
+python:
+q_line_start = s_line_end
+======
+======
+cpp:
+#define _rs(x) memset(x, -1, sizeof(x))
+python:
+n_switch = shortest( lint, n_engine )
+======
+======
+cpp:
+int S, Q;
+python:
+import sys
+======
+======
+cpp:
+int i;
+python:
+l = []
+======
+======
+cpp:
+getline(fin, ln);
+python:
+f = file( fin )
+======
+======
+cpp:
+fr(i, S) getline(fin, s[i]);
+python:
+for i in range( len( lint ) ):
+======
+======
+cpp:
+getline(fin, ln);
+python:
+f = file( fin )
+======
+======
+cpp:
+if(q[i] == s[j])
+python:
+if i == lint[-1]:
+======
+======
+cpp:
+else if(i > 0)
+python:
+n_switch = 0
+======
+======
+cpp:
+else
+python:
+else:
+======
+======
+cpp:
+int res = INF;
+python:
+lint = [ l[0] ]
+======
+======
+cpp:
+fout << res << endl;
+python:
+for i in range( nc ):
+======
+======
+cpp:
+int main()
+python:
+def main():
+======
+======
+cpp:
+int i;
+python:
+l = []
+======
+======
+cpp:
+getline(fin, ln);
+python:
+f = file( fin )
+======
+======
+cpp:
+istringstream is(ln);
+python:
+s_line_start = start
+======
+======
+cpp:
+fr(i, NT)
+python:
+f.close()
+======
+======
+cpp:
+return 0;
+python:
+return [-1]
+======
+======
+cpp:
+#include <queue>
+python:
+def proc_case():
+======
+======
+cpp:
+#define all(x) (x).begin(),(x).end()
+python:
+n_s=int(sys.stdin.readline().rstrip())
+======
+======
+cpp:
+#define pb push_back
+python:
+def cv_base(n,base):
+======
+======
+cpp:
+#define fr(i, n) for(i = 0; i < (n); i++)
+python:
+runs=filter(lambda x:x[1]==m_length,runs)
+======
+======
+cpp:
+#define fr2(i, s, n) for(i = (s); i < (n); i++)
+python:
+return ''.join(reversed(replace_by(n_temp,fw2)))
+======
+======
+cpp:
+#define mp make_pair
+python:
+def fetch_lines(n):
+======
+======
+cpp:
+typedef vector<string> VS;
+python:
+def cv_base10(arr,base):
+======
+======
+cpp:
+typedef istringstream ISS;
+python:
+fw2=dict(enumerate(l_to))
+======
+======
+cpp:
+const int INF = 1 << 20;
+python:
+for x in reversed(arr):
+======
+======
+cpp:
+int i;
+python:
+cnt+=1
+======
+======
+cpp:
+fr(i, S) getline(fin, s[i]);
+python:
+def s_length(pos_from,s_id):
+======
+======
+cpp:
+if(q[i] == s[j])
+python:
+if s_id in ss:
+======
+======
+cpp:
+else
+python:
+else:
+======
+======
+cpp:
+res = min(res, dp[Q-1][i]);
+python:
+return map(lambda k:ma[k],ls)
+======
+======
+cpp:
+int i;
+python:
+cnt+=1
+======
+======
+cpp:
+istringstream is(ln);
+python:
+return str(search(0))
+======
+======
+cpp:
+fout << "Case #" << i + 1 << ": ";
+python:
+"lowest to highest, [] when n==0"
+======
+======
+cpp:
+proc(fout);
+python:
+proc_all()
+======
+======
+cpp:
+return 0;
+python:
+return n
+======
+======
+cpp:
+#include <map>
+python:
+while case <= n:
+======
+======
+cpp:
+#include <algorithm>
+python:
+if idx < len(queries):
+======
+======
+cpp:
+#define all(x) (x).begin(),(x).end()
+python:
+def countSwitches(engines, queries):
+======
+======
+cpp:
+#define sz(x) ((int)(x).size())
+python:
+queries = unique(queries)
+======
+======
+cpp:
+#define pb push_back
+python:
+def unique(queries):
+======
+======
+cpp:
+#define fr(i, n) for(i = 0; i < (n); i++)
+python:
+print "Case #%d: %d" % (case, switches)
+======
+======
+cpp:
+typedef istringstream ISS;
+python:
+(e, idx) = weighted.pop()
+======
+======
+cpp:
+int S, Q;
+python:
+list = []
+======
+======
+cpp:
+string s[2000];
+python:
+return switches
+======
+======
+cpp:
+void read(ifstream &fin)
+python:
+weighted.append((e, idx))
+======
+======
+cpp:
+int i;
+python:
+i = 1
+======
+======
+cpp:
+getline(fin, ln);
+python:
+n = int (lines[0])
+======
+======
+cpp:
+ISS isS(ln);
+python:
+def usage():
+======
+======
+cpp:
+getline(fin, ln);
+python:
+n = int (lines[0])
+======
+======
+cpp:
+fr(i, Q) fr(j, S)
+python:
+from sys import *
+======
+======
+cpp:
+if(q[i] == s[j])
+python:
+if use != None:
+======
+======
+cpp:
+else if(i > 0)
+python:
+while s > 0:
+======
+======
+cpp:
+fr(k, S) dp[i][j] = min(dp[i][j], dp[i-1][k] + 1);
+python:
+switches = 1 + countSwitches(engines, queries[idx:])
+======
+======
+cpp:
+else
+python:
+else:
+======
+======
+cpp:
+dp[i][j] = 0;
+python:
+switches = 0
+======
+======
+cpp:
+int res = INF;
+python:
+engines = []
+======
+======
+cpp:
+fr(i, S)
+python:
+prev = q
+======
+======
+cpp:
+int main()
+python:
+def main():
+======
+======
+cpp:
+int i;
+python:
+i = 1
+======
+======
+cpp:
+ifstream fin("input.txt");
+python:
+setrecursionlimit(2048)
+======
+======
+cpp:
+getline(fin, ln);
+python:
+n = int (lines[0])
+======
+======
+cpp:
+istringstream is(ln);
+python:
+lines = f.readlines()
+======
+======
+cpp:
+fr(i, NT)
+python:
+f.close()
+======
+======
+cpp:
+fout << "Case #" << i + 1 << ": ";
+python:
+print "Usage %s input" % argv[0]
+======
+======
+cpp:
+return 0;
+python:
+return 1
+======
+======
+cpp:
+#include <string>
+python:
+name = getline()
+======
+======
+cpp:
+using namespace std;
+python:
+engines[name] = eng
+======
+======
+cpp:
+#define mp make_pair
+python:
+for eng in range(S):
+======
+======
+cpp:
+typedef istringstream ISS;
+python:
+return sys.stdin.readline()
+======
+======
+cpp:
+int S, Q;
+python:
+import sys
+======
+======
+cpp:
+string s[2000];
+python:
+swi[eng] = mi + 1
+======
+======
+cpp:
+getline(fin, ln);
+python:
+S = int(getline())
+======
+======
+cpp:
+getline(fin, ln);
+python:
+S = int(getline())
+======
+======
+cpp:
+int res = INF;
+python:
+engines = {}
+======
+======
+cpp:
+int main()
+python:
+mi = min(sw2)
+======
+======
+cpp:
+ifstream fin("input.txt");
+python:
+for case in range(cases):
+======
+======
+cpp:
+getline(fin, ln);
+python:
+S = int(getline())
+======
+======
+cpp:
+fout << "Case #" << i + 1 << ": ";
+python:
+print "Case #%d: %d" % (case+1, mini)
+======
+======
+cpp:
+int s;
+python:
+s = 0
+======
+======
+cpp:
+for (int i = 0; i < s; i++) {
+python:
+for j in range(s, Q + 1):
+======
+======
+cpp:
+string temp(buffer);
+python:
+for test in range(N):
+======
+======
+cpp:
+engines[temp] = i;
+python:
+engines = []
+======
+======
+cpp:
+string temp(buffer);
+python:
+for test in range(N):
+======
+======
+cpp:
+int key = engines.find(temp)->second;
+python:
+if j == Q or queries[j] == engines[i]:
+======
+======
+cpp:
+queries.push_back(key);
+python:
+queries.append(raw_input())
+======
+======
+cpp:
+for (int i = 0; i < s; i++) {
+python:
+for j in range(s, Q + 1):
+======
+======
+cpp:
+cost[q - 1][i] = 0;
+python:
+next = max(next, j)
+======
+======
+cpp:
+} else {
+python:
+s = next
+======
+======
+cpp:
+} else {
+python:
+s = next
+======
+======
+cpp:
+for (int i = 0; i < s; i++) {
+python:
+for j in range(s, Q + 1):
+======
+======
+cpp:
+if (cost[0][i] < min) {
+python:
+if __name__ == "__main__":
+======
+======
+cpp:
+result = 0;
+python:
+res = 0
+======
+======
+cpp:
+} else {
+python:
+s = next
+======
+======
+cpp:
+cout<<"Case #"<<i + 1<<": "<<result<<endl;
+python:
+print "Case #%d: %d" % (test + 1, max(0, res - 1))
+======
+======
+cpp:
+#include <iostream>
+python:
+fin = open(input_file)
+======
+======
+cpp:
+int s;
+python:
+t = tt
+======
+======
+cpp:
+for (int i = 0; i < s; i++) {
+python:
+for x in xrange(q-1, -1, -1):
+======
+======
+cpp:
+int key = engines.find(temp)->second;
+python:
+print >> fout, "Case #%d:" % (z+1), res
+======
+======
+cpp:
+cost.clear();
+python:
+fout.close()
+======
+======
+cpp:
+cost = vector< vector<int> >(q, s);
+python:
+fout = open(output_file, "w")
+======
+======
+cpp:
+for (int i = 0; i < s; i++) {
+python:
+for x in xrange(q-1, -1, -1):
+======
+======
+cpp:
+int key = queries[i];
+python:
+if eng[i] == quer[x]:
+======
+======
+cpp:
+int value = 0;
+python:
+tt = [0] * s
+======
+======
+cpp:
+} else {
+python:
+else:
+======
+======
+cpp:
+} else {
+python:
+else:
+======
+======
+cpp:
+min = value;
+python:
+case = "large"
+======
+======
+cpp:
+for (int i = 0; i < s; i++) {
+python:
+for x in xrange(q-1, -1, -1):
+======
+======
+cpp:
+return min;
+python:
+res = min(t)
+======
+======
+cpp:
+result = 0;
+python:
+tt[i] = sw
+======
+======
+cpp:
+} else {
+python:
+else:
+======
+======
+cpp:
+map <string, int> engines;
+python:
+if e == currengine: continue
+======
+======
+cpp:
+vector <int> queries;
+python:
+if i >= numqueries:
+======
+======
+cpp:
+void input()
+python:
+l = q.index(e)
+======
+======
+cpp:
+int key = engines.find(temp)->second;
+python:
+numengines = int(infile.readline())
+======
+======
+cpp:
+int dp()
+python:
+long = 0
+======
+======
+cpp:
+for (int i = q - 2; i >= 0; i--) {
+python:
+for case in xrange(1, numcases+1):
+======
+======
+cpp:
+int key = queries[i];
+python:
+q = queries[i:]
+======
+======
+cpp:
+} else {
+python:
+while 1:
+======
+======
+cpp:
+} else {
+python:
+while 1:
+======
+======
+cpp:
+min = value;
+python:
+i = i+long+1
+======
+======
+cpp:
+int result = 0;
+python:
+currengine = ''
+======
+======
+cpp:
+input();
+python:
+import sys
+======
+======
+cpp:
+if (q == 0 || q == 1) {
+python:
+if l > long: long = l
+======
+======
+cpp:
+} else {
+python:
+while 1:
+======
+======
+cpp:
+cout<<"Case #"<<i + 1<<": "<<result<<endl;
+python:
+print "Case #" + str(case) + ": " + str(switches)
+======
+======
+cpp:
+int s;
+python:
+print ""
+======
+======
+cpp:
+vector <int> queries;
+python:
+for j in range(0,S):
+======
+======
+cpp:
+engines.clear();
+python:
+PI = arccos(-1)
+======
+======
+cpp:
+cin>>s;
+python:
+ch += 1
+======
+======
+cpp:
+cin.getline(buffer, 101);
+python:
+sys.setcheckinterval(10000)
+======
+======
+cpp:
+cin.getline(buffer, 101);
+python:
+sys.setcheckinterval(10000)
+======
+======
+cpp:
+cin.getline(buffer, 101);
+python:
+sys.setcheckinterval(10000)
+======
+======
+cpp:
+cin.getline(buffer, 101);
+python:
+sys.setcheckinterval(10000)
+======
+======
+cpp:
+int key = engines.find(temp)->second;
+python:
+eng[sys.stdin.readline().strip()] = i
+======
+======
+cpp:
+int dp()
+python:
+eng = {}
+======
+======
+cpp:
+for (int i = q - 2; i >= 0; i--) {
+python:
+for case in range(1, casesCount + 1):
+======
+======
+cpp:
+int value = 0;
+python:
+v = [True] * S
+======
+======
+cpp:
+if (j == k) {
+python:
+if c == 0:
+======
+======
+cpp:
+value = cost[i+1][j];
+python:
+PI_2 = arccos(-1) / 2
+======
+======
+cpp:
+} else {
+python:
+else:
+======
+======
+cpp:
+} else {
+python:
+else:
+======
+======
+cpp:
+if (value < min) {
+python:
+from Numeric import *
+======
+======
+cpp:
+min = value;
+python:
+first = False
+======
+======
+cpp:
+int min = 0x7ffffff;
+python:
+for i in range(0, S):
+======
+======
+cpp:
+int main()
+python:
+if v[idx]:
+======
+======
+cpp:
+input();
+python:
+import re
+======
+======
+cpp:
+} else {
+python:
+else:
+======
+======
+cpp:
+#include <string>
+python:
+while queries:
+======
+======
+cpp:
+using namespace std;
+python:
+maxDist = max(dist)
+======
+======
+cpp:
+int s;
+python:
+try:
+======
+======
+cpp:
+map <string, int> engines;
+python:
+qString = input.readline()
+======
+======
+cpp:
+for (int i = 0; i < s; i++) {
+python:
+for q in range(numQueries):
+======
+======
+cpp:
+engines[temp] = i;
+python:
+engines = []
+======
+======
+cpp:
+for (int i = 0; i < s; i++) {
+python:
+for q in range(numQueries):
+======
+======
+cpp:
+cost[q-1][queries[q - 1]] = 1;
+python:
+dist[count] = queries.index(eng)
+======
+======
+cpp:
+for (int i = q - 2; i >= 0; i--) {
+python:
+for (count,eng) in enumerate(engines):
+======
+======
+cpp:
+int key = queries[i];
+python:
+queries = queries[maxDist:]
+======
+======
+cpp:
+if (j == k) {
+python:
+if done: break
+======
+======
+cpp:
+min = value;
+python:
+done = False
+======
+======
+cpp:
+for (int i = 0; i < s; i++) {
+python:
+for q in range(numQueries):
+======
+======
+cpp:
+result = 0;
+python:
+queries = []
+======
+======
+cpp:
+cout<<"Case #"<<i + 1<<": "<<result<<endl;
+python:
+print 'Case #%s: %s' % (case+1,switches)
+======
+======
+cpp:
+int s;
+python:
+print i
+======
+======
+cpp:
+vector <int> queries;
+python:
+def solve(s,queries):
+======
+======
+cpp:
+vector <vector<int>> cost;
+python:
+print "Specify input file"
+======
+======
+cpp:
+string temp(buffer);
+python:
+s = int(getLine())
+======
+======
+cpp:
+engines[temp] = i;
+python:
+engines = []
+======
+======
+cpp:
+for (int i = 0; i < q; i++) {
+python:
+for i,q in enumerate(queries):
+======
+======
+cpp:
+string temp(buffer);
+python:
+s = int(getLine())
+======
+======
+cpp:
+int key = engines.find(temp)->second;
+python:
+queries.append(engineNo.get(query,-1))
+======
+======
+cpp:
+queries.push_back(key);
+python:
+engines.append(getLine())
+======
+======
+cpp:
+cost.clear();
+python:
+fout.close()
+======
+======
+cpp:
+} else {
+python:
+else:
+======
+======
+cpp:
+value = cost[i+1][k] + 1;
+python:
+res = min(res, cost[k][i]+1)
+======
+======
+cpp:
+} else {
+python:
+else:
+======
+======
+cpp:
+cost[i][j] = min;
+python:
+cost[j][i+1] = res
+======
+======
+cpp:
+min = cost[0][i];
+python:
+line = line[:-1]
+======
+======
+cpp:
+return min;
+python:
+return line
+======
+======
+cpp:
+input();
+python:
+exit(1)
+======
+======
+cpp:
+if (q == 0 || q == 1) {
+python:
+if len(sys.argv) != 2:
+======
+======
+cpp:
+} else {
+python:
+else:
+======
+======
+cpp:
+cout<<"Case #"<<i + 1<<": "<<result<<endl;
+python:
+return str(min(c[len(queries)] for c in cost))
+======
+======
+cpp:
+int s;
+python:
+l = []
+======
+======
+cpp:
+map <string, int> engines;
+python:
+def shortest( lint, n_engine ):
+======
+======
+cpp:
+vector <vector<int>> cost;
+python:
+return [ newstart, sls, qls ]
+======
+======
+cpp:
+char buffer[101];
+python:
+for i in l[1:]:
+======
+======
+cpp:
+cin.getline(buffer, 101);
+python:
+def get_sq_lines( cls, start ):
+======
+======
+cpp:
+cin.getline(buffer, 101);
+python:
+def get_sq_lines( cls, start ):
+======
+======
+cpp:
+cin.getline(buffer, 101);
+python:
+def get_sq_lines( cls, start ):
+======
+======
+cpp:
+cin.getline(buffer, 101);
+python:
+def get_sq_lines( cls, start ):
+======
+======
+cpp:
+int key = engines.find(temp)->second;
+python:
+l.append( engines.index( e ) )
+======
+======
+cpp:
+queries.push_back(key);
+python:
+q_line_start = s_line_end
+======
+======
+cpp:
+return;
+python:
+return
+======
+======
+cpp:
+int key = queries[i];
+python:
+engines = slines[1:]
+======
+======
+cpp:
+int value = 0;
+python:
+if n_query == 0:
+======
+======
+cpp:
+} else {
+python:
+f.close()
+======
+======
+cpp:
+value = cost[i+1][k] + 1;
+python:
+n_switch = n_switch + 1
+======
+======
+cpp:
+} else {
+python:
+f.close()
+======
+======
+cpp:
+if (value < min) {
+python:
+f = file( fin )
+======
+======
+cpp:
+min = value;
+python:
+fin = argv[1]
+======
+======
+cpp:
+if (cost[0][i] < min) {
+python:
+if __name__ == "__main__":
+======
+======
+cpp:
+min = cost[0][i];
+python:
+lint = [ l[0] ]
+======
+======
+cpp:
+return min;
+python:
+return lint
+======
+======
+cpp:
+int main()
+python:
+def main():
+======
+======
+cpp:
+for (int i = 0; i < n; i++) {
+python:
+for i in range( len( lint ) ):
+======
+======
+cpp:
+input();
+python:
+import sys
+======
+======
+cpp:
+if (q == 0 || q == 1) {
+python:
+hits = [ 0 ] * n_engine
+======
+======
+cpp:
+result = 0;
+python:
+n_switch = 0
+======
+======
+cpp:
+} else {
+python:
+f.close()
+======
+======
+cpp:
+cout<<"Case #"<<i + 1<<": "<<result<<endl;
+python:
+print "Case #%i: %i" %( i+1, n_switch )
+======
+======
+cpp:
+#include <iostream>
+python:
+ss=fetch_lines(n_s)
+======
+======
+cpp:
+int s;
+python:
+cnt+=1
+======
+======
+cpp:
+queries.clear();
+python:
+def proc_case():
+======
+======
+cpp:
+cin.getline(buffer, 101);
+python:
+def replace_all(ls,table):
+======
+======
+cpp:
+for (int i = 0; i < s; i++) {
+python:
+for ss in qs_co[pos_from:]:
+======
+======
+cpp:
+cin.getline(buffer, 101);
+python:
+def replace_all(ls,table):
+======
+======
+cpp:
+string temp(buffer);
+python:
+for x in reversed(arr):
+======
+======
+cpp:
+cin.getline(buffer, 101);
+python:
+def replace_all(ls,table):
+======
+======
+cpp:
+cin.getline(buffer, 101);
+python:
+def replace_all(ls,table):
+======
+======
+cpp:
+string temp(buffer);
+python:
+for x in reversed(arr):
+======
+======
+cpp:
+int key = engines.find(temp)->second;
+python:
+print 'Case #%d: %s'%(i+1,proc_case())
+======
+======
+cpp:
+queries.push_back(key);
+python:
+all_ids=set(range(n_s))
+======
+======
+cpp:
+cost = vector< vector<int> >(q, s);
+python:
+n_temp=cv_base(n_normal,len(l_to))
+======
+======
+cpp:
+for (int i = 0; i < s; i++) {
+python:
+for ss in qs_co[pos_from:]:
+======
+======
+cpp:
+cost[q-1][queries[q - 1]] = 1;
+python:
+"lowest to highest, [] when n==0"
+======
+======
+cpp:
+if (key != k) {
+python:
+if s_id in ss:
+======
+======
+cpp:
+} else {
+python:
+else:
+======
+======
+cpp:
+} else {
+python:
+else:
+======
+======
+cpp:
+if (value < min) {
+python:
+def cv_base(n,base):
+======
+======
+cpp:
+for (int i = 0; i < s; i++) {
+python:
+for ss in qs_co[pos_from:]:
+======
+======
+cpp:
+if (cost[0][i] < min) {
+python:
+if pos>=n_q: return -1
+======
+======
+cpp:
+return min;
+python:
+return cnt
+======
+======
+cpp:
+int main()
+python:
+proc_all()
+======
+======
+cpp:
+for (int i = 0; i < n; i++) {
+python:
+for i in range(n_case):
+======
+======
+cpp:
+input();
+python:
+import sys
+======
+======
+cpp:
+if (q == 0 || q == 1) {
+python:
+if n_q==0: return '0'
+======
+======
+cpp:
+} else {
+python:
+else:
+======
+======
+cpp:
+return 0;
+python:
+return n
+======
+======
+cpp:
+int s;
+python:
+i = 1
+======
+======
+cpp:
+map <string, int> engines;
+python:
+for e in engines:
+======
+======
+cpp:
+vector <int> queries;
+python:
+for q in queries:
+======
+======
+cpp:
+vector <vector<int>> cost;
+python:
+setrecursionlimit(2048)
+======
+======
+cpp:
+cin>>s;
+python:
+finally:
+======
+======
+cpp:
+cin.getline(buffer, 101);
+python:
+weighted.append((e, idx))
+======
+======
+cpp:
+cin.getline(buffer, 101);
+python:
+weighted.append((e, idx))
+======
+======
+cpp:
+engines[temp] = i;
+python:
+engines = []
+======
+======
+cpp:
+cin.getline(buffer, 101);
+python:
+weighted.append((e, idx))
+======
+======
+cpp:
+cin.getline(buffer, 101);
+python:
+weighted.append((e, idx))
+======
+======
+cpp:
+int key = engines.find(temp)->second;
+python:
+engines.append(lines[i].strip("\r\n"))
+======
+======
+cpp:
+queries.push_back(key);
+python:
+queries = unique(queries)
+======
+======
+cpp:
+return;
+python:
+return
+======
+======
+cpp:
+cost.clear();
+python:
+list.append(q)
+======
+======
+cpp:
+cost = vector< vector<int> >(q, s);
+python:
+def countSwitches(engines, queries):
+======
+======
+cpp:
+for (int i = q - 2; i >= 0; i--) {
+python:
+print "Usage %s input" % argv[0]
+======
+======
+cpp:
+int key = queries[i];
+python:
+idx = queries.index(e)
+======
+======
+cpp:
+int value = 0;
+python:
+while case <= n:
+======
+======
+cpp:
+if (key != k) {
+python:
+if use != None:
+======
+======
+cpp:
+if (j == k) {
+python:
+if q != prev:
+======
+======
+cpp:
+} else {
+python:
+prev = q
+======
+======
+cpp:
+} else {
+python:
+prev = q
+======
+======
+cpp:
+min = value;
+python:
+use = None
+======
+======
+cpp:
+if (cost[0][i] < min) {
+python:
+if __name__ == '__main__':
+======
+======
+cpp:
+return min;
+python:
+return list
+======
+======
+cpp:
+int main()
+python:
+def main():
+======
+======
+cpp:
+int result = 0;
+python:
+switches = 0
+======
+======
+cpp:
+input();
+python:
+exit()
+======
+======
+cpp:
+} else {
+python:
+prev = q
+======
+======
+cpp:
+cout<<"Case #"<<i + 1<<": "<<result<<endl;
+python:
+print "Case #%d: %d" % (case, switches)
+======
+======
+cpp:
+return 0;
+python:
+return 1
+======
+======
+cpp:
+#include <string>
+python:
+name = getline()
+======
+======
+cpp:
+map <string, int> engines;
+python:
+cases = int(getline())
+======
+======
+cpp:
+string temp(buffer);
+python:
+for eng in range(S):
+======
+======
+cpp:
+engines[temp] = i;
+python:
+engines[name] = eng
+======
+======
+cpp:
+string temp(buffer);
+python:
+for eng in range(S):
+======
+======
+cpp:
+min = value;
+python:
+sw2 = swi[:]
+======
+======
+cpp:
+cost[i][j] = min;
+python:
+swi[eng] = mi + 1
+======
+======
+cpp:
+min = cost[0][i];
+python:
+mini = min(swi)
+======
+======
+cpp:
+int main()
+python:
+mi = min(sw2)
+======
+======
+cpp:
+input();
+python:
+import sys
+======
+======
+cpp:
+result = dp();
+python:
+def getline():
+======
+======
+cpp:
+cout<<"Case #"<<i + 1<<": "<<result<<endl;
+python:
+print "Case #%d: %d" % (case+1, mini)
+======
+======
+cpp:
+string readEngine()
+python:
+for i in range(E):
+======
+======
+cpp:
+string x;
+python:
+s = next
+======
+======
+cpp:
+return x;
+python:
+res += 1
+======
+======
+cpp:
+int c=-1;
+python:
+next = -1
+======
+======
+cpp:
+for (int j=i;j<Q;j++)
+python:
+for test in range(N):
+======
+======
+cpp:
+if(seen.count(queries[j])) continue;
+python:
+if j == Q or queries[j] == engines[i]:
+======
+======
+cpp:
+sn=S;
+python:
+s = 0
+======
+======
+cpp:
+curr=queries[j];
+python:
+queries = []
+======
+======
+cpp:
+break;
+python:
+break
+======
+======
+cpp:
+return 0;
+python:
+res = 0
+======
+======
+cpp:
+string readEngine()
+python:
+for i in range(s):
+======
+======
+cpp:
+string x;
+python:
+tt[i] = sw
+======
+======
+cpp:
+while(x=="") getline(cin,x);
+python:
+n = int(fin.readline().strip())
+======
+======
+cpp:
+int solve(int S,int Q)
+python:
+fin = open(input_file)
+======
+======
+cpp:
+string curr=queries[0];
+python:
+if eng[i] == quer[x]:
+======
+======
+cpp:
+for (int i=0;i<Q;i++) if(curr==queries[i])
+python:
+quer = [fin.readline() for i in xrange(q)]
+======
+======
+cpp:
+if(seen.count(queries[j])) continue;
+python:
+print >> fout, "Case #%d:" % (z+1), res
+======
+======
+cpp:
+else if(sn==S-1)
+python:
+case = "large"
+======
+======
+cpp:
+else
+python:
+else:
+======
+======
+cpp:
+int main()
+python:
+res = min(t)
+======
+======
+cpp:
+int N;
+python:
+t = tt
+======
+======
+cpp:
+#include<map>
+python:
+switches = 0
+======
+======
+cpp:
+vector<string> engines;
+python:
+for e in engines:
+======
+======
+cpp:
+string x;
+python:
+while 1:
+======
+======
+cpp:
+while(x=="") getline(cin,x);
+python:
+if e == currengine: continue
+======
+======
+cpp:
+return x;
+python:
+import sys
+======
+======
+cpp:
+int solve(int S,int Q)
+python:
+if l > long: long = l
+======
+======
+cpp:
+string curr=queries[0];
+python:
+if i >= numqueries:
+======
+======
+cpp:
+for (int i=0;i<Q;i++) if(curr==queries[i])
+python:
+for case in xrange(1, numcases+1):
+======
+======
+cpp:
+c++;
+python:
+try:
+======
+======
+cpp:
+curr=queries[j];
+python:
+q = queries[i:]
+======
+======
+cpp:
+break;
+python:
+break
+======
+======
+cpp:
+for (int j=0;j<S;j++) engines[j]=readEngine();
+python:
+numengines = int(infile.readline())
+======
+======
+cpp:
+string x;
+python:
+print ""
+======
+======
+cpp:
+while(x=="") getline(cin,x);
+python:
+sys.setcheckinterval(10000)
+======
+======
+cpp:
+return x;
+python:
+import re
+======
+======
+cpp:
+int solve(int S,int Q)
+python:
+def solve(caseNum):
+======
+======
+cpp:
+int c=-1;
+python:
+eng = {}
+======
+======
+cpp:
+for (int i=0;i<Q;i++) if(curr==queries[i])
+python:
+for case in range(1, casesCount + 1):
+======
+======
+cpp:
+for (int j=i;j<Q;j++)
+python:
+for i in range(0, S):
+======
+======
+cpp:
+if(seen.count(queries[j])) continue;
+python:
+S = int(sys.stdin.readline().strip())
+======
+======
+cpp:
+else if(sn==S-1)
+python:
+PI = arccos(-1)
+======
+======
+cpp:
+sn=S;
+python:
+c = S
+======
+======
+cpp:
+curr=queries[j];
+python:
+v = [True] * S
+======
+======
+cpp:
+else
+python:
+else:
+======
+======
+cpp:
+int main()
+python:
+if v[idx]:
+======
+======
+cpp:
+#include<assert.h>
+python:
+except ValueError:
+======
+======
+cpp:
+#include<map>
+python:
+switches = 0
+======
+======
+cpp:
+vector<string> engines;
+python:
+dist = [0]*numEngines
+======
+======
+cpp:
+vector<string> queries;
+python:
+for q in range(numQueries):
+======
+======
+cpp:
+string readEngine()
+python:
+qString = input.readline()
+======
+======
+cpp:
+int solve(int S,int Q)
+python:
+input = file(filename,'r')
+======
+======
+cpp:
+c++;
+python:
+try:
+======
+======
+cpp:
+if(seen.count(queries[j])) continue;
+python:
+dist[count] = queries.index(eng)
+======
+======
+cpp:
+curr=queries[j];
+python:
+while queries:
+======
+======
+cpp:
+seen[queries[j]]=true;
+python:
+queries = queries[maxDist:]
+======
+======
+cpp:
+if(sn<S) break;
+python:
+if done: break
+======
+======
+cpp:
+int main()
+python:
+done = True
+======
+======
+cpp:
+for (int j=0;j<S;j++) engines[j]=readEngine();
+python:
+for (count,eng) in enumerate(engines):
+======
+======
+cpp:
+#include<iostream>
+python:
+if line[-1]=="\n":
+======
+======
+cpp:
+string readEngine()
+python:
+s = int(getLine())
+======
+======
+cpp:
+return x;
+python:
+return line
+======
+======
+cpp:
+int solve(int S,int Q)
+python:
+def solve(s,queries):
+======
+======
+cpp:
+int c=-1;
+python:
+if k==j:
+======
+======
+cpp:
+int sn=0;
+python:
+if j!=q:
+======
+======
+cpp:
+else if(sn==S-1)
+python:
+line = line[:-1]
+======
+======
+cpp:
+curr=queries[j];
+python:
+queries = []
+======
+======
+cpp:
+else
+python:
+else:
+======
+======
+cpp:
+seen[queries[j]]=true;
+python:
+cost[j][i+1] = res
+======
+======
+cpp:
+int N;
+python:
+print i
+======
+======
+cpp:
+cout<<"Case #"<<i<<": ";
+python:
+fout = open("out","wt")
+======
+======
+cpp:
+for (int j=0;j<S;j++) engines[j]=readEngine();
+python:
+engineNo = dict((e,i) for i,e in enumerate(engines))
+======
+======
+cpp:
+queries.resize(Q);
+python:
+query = getLine()
+======
+======
+cpp:
+for (int j=0;j<Q;j++) queries[j]=readEngine();
+python:
+return str(min(c[len(queries)] for c in cost))
+======
+======
+cpp:
+#include<string>
+python:
+lint.append( i )
+======
+======
+cpp:
+#include<map>
+python:
+fin = argv[1]
+======
+======
+cpp:
+#include<cmath>
+python:
+lint = [ l[0] ]
+======
+======
+cpp:
+using namespace std;
+python:
+s_line_start = start
+======
+======
+cpp:
+vector<string> engines;
+python:
+def shortest( lint, n_engine ):
+======
+======
+cpp:
+string readEngine()
+python:
+ls = f.readlines()
+======
+======
+cpp:
+string x;
+python:
+start = 1
+======
+======
+cpp:
+while(x=="") getline(cin,x);
+python:
+n_query  = int( qlines[0] )
+======
+======
+cpp:
+return x;
+python:
+return [-1]
+======
+======
+cpp:
+string curr=queries[0];
+python:
+n_engine = int( slines[0] )
+======
+======
+cpp:
+for (int i=0;i<Q;i++) if(curr==queries[i])
+python:
+print "Case #%i: %i" %( i+1, n_switch )
+======
+======
+cpp:
+for (int j=i;j<Q;j++)
+python:
+for e in qlines[1:]:
+======
+======
+cpp:
+if(seen.count(queries[j])) continue;
+python:
+n_switch = shortest( lint, n_engine )
+======
+======
+cpp:
+else if(sn==S-1)
+python:
+if e in slines:
+======
+======
+cpp:
+curr=queries[j];
+python:
+if n_query == 0:
+======
+======
+cpp:
+else
+python:
+else:
+======
+======
+cpp:
+int main()
+python:
+def main():
+======
+======
+cpp:
+int N;
+python:
+l = []
+======
+======
+cpp:
+engines.resize(S);
+python:
+engines = slines[1:]
+======
+======
+cpp:
+using namespace std;
+python:
+def cv_base(n,base):
+======
+======
+cpp:
+vector<string> engines;
+python:
+all_ids=set(range(n_s))
+======
+======
+cpp:
+string readEngine()
+python:
+arr.append(n%base)
+======
+======
+cpp:
+while(x=="") getline(cin,x);
+python:
+table=dict(zip(ss,range(n_s)))
+======
+======
+cpp:
+return x;
+python:
+return n
+======
+======
+cpp:
+if(Q==0) return 0;
+python:
+if n_q==0: return '0'
+======
+======
+cpp:
+for (int i=0;i<Q;i++) if(curr==queries[i])
+python:
+print 'Case #%d: %s'%(i+1,proc_case())
+======
+======
+cpp:
+c++;
+python:
+n+=x
+======
+======
+cpp:
+int sn=0;
+python:
+while n>0:
+======
+======
+cpp:
+if(seen.count(queries[j])) continue;
+python:
+"lowest to highest, [] when n==0"
+======
+======
+cpp:
+sn=S;
+python:
+cnt=0
+======
+======
+cpp:
+break;
+python:
+break
+======
+======
+cpp:
+else
+python:
+else:
+======
+======
+cpp:
+if(sn<S) break;
+python:
+if s_id in ss:
+======
+======
+cpp:
+return c;
+python:
+return cnt
+======
+======
+cpp:
+int main()
+python:
+proc_all()
+======
+======
+cpp:
+int N;
+python:
+cnt+=1
+======
+======
+cpp:
+for (int i=1;i<=N;i++)
+python:
+for x in reversed(arr):
+======
+======
+cpp:
+cout<<"Case #"<<i<<": ";
+python:
+def cv_base10(arr,base):
+======
+======
+cpp:
+engines.resize(S);
+python:
+def fetch_lines(n):
+======
+======
+cpp:
+#include<string>
+python:
+process(lines)
+======
+======
+cpp:
+#include<assert.h>
+python:
+except ValueError:
+======
+======
+cpp:
+#include<map>
+python:
+switches = 0
+======
+======
+cpp:
+vector<string> engines;
+python:
+for e in engines:
+======
+======
+cpp:
+vector<string> queries;
+python:
+for q in queries:
+======
+======
+cpp:
+string readEngine()
+python:
+lines = f.readlines()
+======
+======
+cpp:
+while(x=="") getline(cin,x);
+python:
+weighted.append((e, idx))
+======
+======
+cpp:
+return x;
+python:
+return 1
+======
+======
+cpp:
+int solve(int S,int Q)
+python:
+f = open(input, 'r')
+======
+======
+cpp:
+if(Q==0) return 0;
+python:
+if len(argv) < 2:
+======
+======
+cpp:
+string curr=queries[0];
+python:
+if idx < len(queries):
+======
+======
+cpp:
+int c=-1;
+python:
+list = []
+======
+======
+cpp:
+for (int i=0;i<Q;i++) if(curr==queries[i])
+python:
+switches = countSwitches(engines, queries)
+======
+======
+cpp:
+c++;
+python:
+try:
+======
+======
+cpp:
+for (int j=i;j<Q;j++)
+python:
+n = int (lines[0])
+======
+======
+cpp:
+if(seen.count(queries[j])) continue;
+python:
+processCase(engines, queries, case)
+======
+======
+cpp:
+sn=S;
+python:
+i = 1
+======
+======
+cpp:
+else
+python:
+else:
+======
+======
+cpp:
+seen[queries[j]]=true;
+python:
+idx = queries.index(e)
+======
+======
+cpp:
+if(sn<S) break;
+python:
+if q != prev:
+======
+======
+cpp:
+int main()
+python:
+def main():
+======
+======
+cpp:
+cin>>N;
+python:
+finally:
+======
+======
+cpp:
+vector<string> engines;
+python:
+cases = int(getline())
+======
+======
+cpp:
+string readEngine()
+python:
+for eng in range(S):
+======
+======
+cpp:
+return x;
+python:
+import sys
+======
+======
+cpp:
+for (int i=0;i<Q;i++) if(curr==queries[i])
+python:
+print "Case #%d: %d" % (case+1, mini)
+======
+======
+cpp:
+int main()
+python:
+mi = min(sw2)
+======
+======
+cpp:
+engines.resize(S);
+python:
+engines[name] = eng
+======
+======
+cpp:
+const int maxS = 201;
+python:
+for test in range(N):
+======
+======
+cpp:
+const int inf = (int) 2e9;
+python:
+for j in range(s, Q + 1):
+======
+======
+cpp:
+int Q, S;
+python:
+next = -1
+======
+======
+cpp:
+for (int cases = 1; cases <= testcases; cases++) {
+python:
+print "Case #%d: %d" % (test + 1, max(0, res - 1))
+======
+======
+cpp:
+if (i == 1) getline(cin, name[i]);
+python:
+if j == Q or queries[j] == engines[i]:
+======
+======
+cpp:
+getline(cin, tmp);
+python:
+N = int(raw_input())
+======
+======
+cpp:
+oldmin = 0;
+python:
+engines = []
+======
+======
+cpp:
+oldmin = nowmin;
+python:
+for i in range(E):
+======
+======
+cpp:
+return 0;
+python:
+res = 0
+======
+======
+cpp:
+const int maxQ = 2001;
+python:
+for z in xrange(n):
+======
+======
+cpp:
+int F[maxS], oldmin, nowmin;
+python:
+input_file = "A-%s.in" % case
+======
+======
+cpp:
+int main() {
+python:
+res = min(t)
+======
+======
+cpp:
+ifstream cin("A.in");
+python:
+fin = open(input_file)
+======
+======
+cpp:
+index.clear();
+python:
+fin.close()
+======
+======
+cpp:
+for (int i = 1; i <= S; i++) {
+python:
+for x in xrange(q-1, -1, -1):
+======
+======
+cpp:
+if (i == 1) getline(cin, tmp);
+python:
+n = int(fin.readline().strip())
+======
+======
+cpp:
+Query[i] = index[tmp];
+python:
+if eng[i] == quer[x]:
+======
+======
+cpp:
+oldmin = 0;
+python:
+tt[i] = sw
+======
+======
+cpp:
+for (int k = 1; k <= S; k++) if (Query[i] != k) {
+python:
+sw = min([t[i] for i in range(s) if eng[i] != quer[x]]) + 1
+======
+======
+cpp:
+if (oldmin + 1 < F[k]) F[k] = oldmin + 1;
+python:
+eng = [fin.readline() for i in xrange(s)]
+======
+======
+cpp:
+oldmin = nowmin;
+python:
+for i in range(s):
+======
+======
+cpp:
+const int maxS = 201;
+python:
+if l > long: long = l
+======
+======
+cpp:
+int Query[maxQ];
+python:
+q = queries[i:]
+======
+======
+cpp:
+int main() {
+python:
+i=numqueries
+======
+======
+cpp:
+index.clear();
+python:
+l = q.index(e)
+======
+======
+cpp:
+if (i == 1) getline(cin, tmp);
+python:
+if e == currengine: continue
+======
+======
+cpp:
+if (index.find(tmp) == index.end()) cout << "Error occur "<< endl;
+python:
+engines = [infile.readline().strip() for x in xrange(numengines)]
+======
+======
+cpp:
+oldmin = 0;
+python:
+long = 0
+======
+======
+cpp:
+F[Query[i]] = inf;
+python:
+currengine = ''
+======
+======
+cpp:
+oldmin = nowmin;
+python:
+for e in engines:
+======
+======
+cpp:
+cout << "Case #" << cases << ": " << nowmin << endl;
+python:
+print "Case #" + str(case) + ": " + str(switches)
+======
+======
+cpp:
+const int maxQ = 2001;
+python:
+for i in range(0, S):
+======
+======
+cpp:
+const int maxS = 201;
+python:
+for j in range(0,S):
+======
+======
+cpp:
+int testcases;
+python:
+solve(case)
+======
+======
+cpp:
+int Q, S;
+python:
+eng = {}
+======
+======
+cpp:
+int main() {
+python:
+idx = eng[s]
+======
+======
+cpp:
+for (int cases = 1; cases <= testcases; cases++) {
+python:
+for case in range(1, casesCount + 1):
+======
+======
+cpp:
+cin >> S;
+python:
+c = S - 1
+======
+======
+cpp:
+getline(cin, tmp);
+python:
+def solve(caseNum):
+======
+======
+cpp:
+if (i == 1) getline(cin, tmp);
+python:
+s = sys.stdin.readline().strip()
+======
+======
+cpp:
+if (index.find(tmp) == index.end()) cout << "Error occur "<< endl;
+python:
+casesCount = int(re.findall(r'[\d]+', sys.stdin.readline())[0])
+======
+======
+cpp:
+nowmin = inf;
+python:
+first = True
+======
+======
+cpp:
+#include<algorithm>
+python:
+except ValueError:
+======
+======
+cpp:
+#include<sstream>
+python:
+if done: break
+======
+======
+cpp:
+const int maxS = 201;
+python:
+maxDist = max(dist)
+======
+======
+cpp:
+const int inf = (int) 2e9;
+python:
+for e in range(numEngines):
+======
+======
+cpp:
+int testcases;
+python:
+while queries:
+======
+======
+cpp:
+map<string, int> index;
+python:
+qString = input.readline()
+======
+======
+cpp:
+ifstream cin("A.in");
+python:
+dist = [0]*numEngines
+======
+======
+cpp:
+for (int cases = 1; cases <= testcases; cases++) {
+python:
+output.write('Case #%s: %s\n' % (case+1,switches))
+======
+======
+cpp:
+for (int i = 1; i <= S; i++) {
+python:
+for case in range(numCases):
+======
+======
+cpp:
+if (i == 1) getline(cin, tmp);
+python:
+input = file(filename,'r')
+======
+======
+cpp:
+memset(F, 0, sizeof F);
+python:
+switches = switches + 1
+======
+======
+cpp:
+oldmin = 0;
+python:
+engines = []
+======
+======
+cpp:
+for (int k = 1; k <= S; k++) if (Query[i] != k) {
+python:
+filename = raw_input("Enter input file name: ")
+======
+======
+cpp:
+const int inf = (int) 2e9;
+python:
+print "Specify input file"
+======
+======
+cpp:
+int testcases;
+python:
+def getLine():
+======
+======
+cpp:
+int Q, S;
+python:
+if j!=q:
+======
+======
+cpp:
+ifstream cin("A.in");
+python:
+line = fin.readline()
+======
+======
+cpp:
+ofstream cout("A.out");
+python:
+fout = open("out","wt")
+======
+======
+cpp:
+index.clear();
+python:
+fout.close()
+======
+======
+cpp:
+for (int i = 1; i <= S; i++) {
+python:
+for i,q in enumerate(queries):
+======
+======
+cpp:
+getline(cin, tmp);
+python:
+if line[-1]=="\n":
+======
+======
+cpp:
+oldmin = 0;
+python:
+engines = []
+======
+======
+cpp:
+for (int k = 1; k <= S; k++) if (Query[i] != k) {
+python:
+engineNo = dict((e,i) for i,e in enumerate(engines))
+======
+======
+cpp:
+F[Query[i]] = inf;
+python:
+cost[j][i+1] = res
+======
+======
+cpp:
+oldmin = nowmin;
+python:
+line = line[:-1]
+======
+======
+cpp:
+cout << "Case #" << cases << ": " << nowmin << endl;
+python:
+cost = [[0]+[None for i in queries] for j in xrange(s)]
+======
+======
+cpp:
+return 0;
+python:
+return line
+======
+======
+cpp:
+#include<cstdio>
+python:
+lint.append( i )
+======
+======
+cpp:
+using namespace std;
+python:
+s_line_start = start
+======
+======
+cpp:
+const int maxQ = 2001;
+python:
+for i in range( nc ):
+======
+======
+cpp:
+int Q, S;
+python:
+import sys
+======
+======
+cpp:
+int Query[maxQ];
+python:
+lint = [ l[0] ]
+======
+======
+cpp:
+int F[maxS], oldmin, nowmin;
+python:
+if sum( hits ) == n_engine:
+======
+======
+cpp:
+int main() {
+python:
+def main():
+======
+======
+cpp:
+for (int cases = 1; cases <= testcases; cases++) {
+python:
+start, slines, qlines = get_sq_lines(ls,start)
+======
+======
+cpp:
+getline(cin, name[i]);
+python:
+n_engine = int( slines[0] )
+======
+======
+cpp:
+if (i == 1) getline(cin, tmp);
+python:
+for i in range( len( lint ) ):
+======
+======
+cpp:
+Query[i] = index[tmp];
+python:
+for e in qlines[1:]:
+======
+======
+cpp:
+oldmin = 0;
+python:
+n_switch = 0
+======
+======
+cpp:
+nowmin = inf;
+python:
+if e in slines:
+======
+======
+cpp:
+if (oldmin + 1 < F[k]) F[k] = oldmin + 1;
+python:
+s_line_end   = s_line_start + s_length + 1
+======
+======
+cpp:
+if (F[k] < nowmin) nowmin = F[k];
+python:
+ls = [ s.strip() for s in ls ]
+======
+======
+cpp:
+return 0;
+python:
+return [-1]
+======
+======
+cpp:
+const int maxS = 201;
+python:
+if n_q==0: return '0'
+======
+======
+cpp:
+const int inf = (int) 2e9;
+python:
+for i in range(n_case):
+======
+======
+cpp:
+int testcases;
+python:
+def proc_case():
+======
+======
+cpp:
+string name[maxS];
+python:
+arr.append(n%base)
+======
+======
+cpp:
+map<string, int> index;
+python:
+if pos>=n_q: return -1
+======
+======
+cpp:
+int Query[maxQ];
+python:
+if n_normal==0:
+======
+======
+cpp:
+int main() {
+python:
+def calc(s):
+======
+======
+cpp:
+ifstream cin("A.in");
+python:
+def replace_by(ls,ma):
+======
+======
+cpp:
+for (int cases = 1; cases <= testcases; cases++) {
+python:
+fw1=dict(map(lambda (x,y):(y,x),enumerate(l_from)))
+======
+======
+cpp:
+cin >> S;
+python:
+while n>0:
+======
+======
+cpp:
+getline(cin, name[i]);
+python:
+return str(search(0))
+======
+======
+cpp:
+if (i == 1) getline(cin, name[i]);
+python:
+n_temp=cv_base(n_normal,len(l_to))
+======
+======
+cpp:
+getline(cin, tmp);
+python:
+def fetch_lines(n):
+======
+======
+cpp:
+if (index.find(tmp) == index.end()) cout << "Error occur "<< endl;
+python:
+return 1+min(map(lambda s_id_n:search(pos+m_length),s_id_next))
+======
+======
+cpp:
+if (oldmin + 1 < F[k]) F[k] = oldmin + 1;
+python:
+runs=filter(lambda x:x[1]==m_length,runs)
+======
+======
+cpp:
+if (F[k] < nowmin) nowmin = F[k];
+python:
+"lowest to highest, [] when n==0"
+======
+======
+cpp:
+return 0;
+python:
+return n
+======
+======
+cpp:
+#include<algorithm>
+python:
+if len(argv) < 2:
+======
+======
+cpp:
+int testcases;
+python:
+return switches
+======
+======
+cpp:
+int Q, S;
+python:
+list = []
+======
+======
+cpp:
+map<string, int> index;
+python:
+idx = queries.index(e)
+======
+======
+cpp:
+int Query[maxQ];
+python:
+input = argv[1]
+======
+======
+cpp:
+int main() {
+python:
+def main():
+======
+======
+cpp:
+ifstream cin("A.in");
+python:
+if idx < len(queries):
+======
+======
+cpp:
+for (int cases = 1; cases <= testcases; cases++) {
+python:
+switches = 1 + countSwitches(engines, queries[idx:])
+======
+======
+cpp:
+for (int i = 1; i <= S; i++) {
+python:
+print "Usage %s input" % argv[0]
+======
+======
+cpp:
+if (i == 1) getline(cin, name[i]);
+python:
+def countSwitches(engines, queries):
+======
+======
+cpp:
+getline(cin, tmp);
+python:
+n = int (lines[0])
+======
+======
+cpp:
+Query[i] = index[tmp];
+python:
+queries = unique(queries)
+======
+======
+cpp:
+oldmin = 0;
+python:
+engines = []
+======
+======
+cpp:
+oldmin = nowmin;
+python:
+for e in engines:
+======
+======
+cpp:
+cout << "Case #" << cases << ": " << nowmin << endl;
+python:
+return 0    #We found engine not presented in the query list
+======
+======
+cpp:
+return 0;
+python:
+return 1
+======
+======
+cpp:
+const int inf = (int) 2e9;
+python:
+for case in range(cases):
+======
+======
+cpp:
+int testcases;
+python:
+def getline():
+======
+======
+cpp:
+int Q, S;
+python:
+import sys
+======
+======
+cpp:
+int main() {
+python:
+mi = min(sw2)
+======
+======
+cpp:
+ifstream cin("A.in");
+python:
+cases = int(getline())
+======
+======
+cpp:
+if (i == 1) getline(cin, name[i]);
+python:
+print "Case #%d: %d" % (case+1, mini)
+======
+======
+cpp:
+index[name[i]] = i;
+python:
+engines[name] = eng
+======
+======
+cpp:
+getline(cin, tmp);
+python:
+S = int(getline())
+======
+======
+cpp:
+oldmin = 0;
+python:
+engines = {}
+======
+======
+cpp:
+oldmin = nowmin;
+python:
+mini = min(swi)
+======
+======
+cpp:
+int get_dd( int m, int n ) { return dd[m][n]; }
+python:
+print "Case #%d: %d" % (test + 1, max(0, res - 1))
+======
+======
+cpp:
+if( n == int( queries.size() ) ) { return 0; }
+python:
+if j == Q or queries[j] == engines[i]:
+======
+======
+cpp:
+if( 0 <= get_dd(m,n) ) {
+python:
+for j in range(s, Q + 1):
+======
+======
+cpp:
+return get_dd(m,n);
+python:
+next = max(next, j)
+======
+======
+cpp:
+if( senames[m] == queries[n] ) {
+python:
+if __name__ == "__main__":
+======
+======
+cpp:
+} else {
+python:
+s = next
+======
+======
+cpp:
+return k;
+python:
+res += 1
+======
+======
+cpp:
+int N;
+python:
+s = 0
+======
+======
+cpp:
+getline( cin, dummy );
+python:
+N = int(raw_input())
+======
+======
+cpp:
+getline( cin, sename );
+python:
+for test in range(N):
+======
+======
+cpp:
+senames.push_back( sename );
+python:
+engines.append(raw_input())
+======
+======
+cpp:
+getline( cin, dummy );
+python:
+N = int(raw_input())
+======
+======
+cpp:
+queries.push_back( query );
+python:
+queries.append(raw_input())
+======
+======
+cpp:
+dd.resize( S );
+python:
+queries = []
+======
+======
+cpp:
+return 0;
+python:
+res = 0
+======
+======
+cpp:
+#include <iostream>
+python:
+fin = open(input_file)
+======
+======
+cpp:
+return get_dd(m,n);
+python:
+for z in xrange(n):
+======
+======
+cpp:
+if( senames[m] == queries[n] ) {
+python:
+if eng[i] == quer[x]:
+======
+======
+cpp:
+for( int k = 0 ; k < int( senames.size() ) ; k++ ) {
+python:
+sw = min([t[i] for i in range(s) if eng[i] != quer[x]]) + 1
+======
+======
+cpp:
+if( k == m ) { continue; }
+python:
+input_file = "A-%s.in" % case
+======
+======
+cpp:
+int p = doit( senames, queries, k, n+1 );
+python:
+eng = [fin.readline() for i in xrange(s)]
+======
+======
+cpp:
+} else {
+python:
+else:
+======
+======
+cpp:
+for( int k = 0 ; k < int( senames.size() ) ; k++ ) {
+python:
+sw = min([t[i] for i in range(s) if eng[i] != quer[x]]) + 1
+======
+======
+cpp:
+int p = doit( senames, queries, k, 0 );
+python:
+print >> fout, "Case #%d:" % (z+1), res
+======
+======
+cpp:
+int main()
+python:
+res = min(t)
+======
+======
+cpp:
+int N;
+python:
+t = tt
+======
+======
+cpp:
+cin >> N;
+python:
+tt[i] = sw
+======
+======
+cpp:
+for( int i = 0 ; i < N ; i++ ) {
+python:
+for x in xrange(q-1, -1, -1):
+======
+======
+cpp:
+getline( cin, dummy );
+python:
+tt[i] = min(sw, t[i])
+======
+======
+cpp:
+string sename;
+python:
+case = "large"
+======
+======
+cpp:
+getline( cin, dummy );
+python:
+tt[i] = min(sw, t[i])
+======
+======
+cpp:
+dd.clear();
+python:
+fin.close()
+======
+======
+cpp:
+dd[k][j] = -1;
+python:
+tt = [0] * s
+======
+======
+cpp:
+if( senames[m] == queries[n] ) {
+python:
+currengine = queries[i+long]
+======
+======
+cpp:
+for( int k = 0 ; k < int( senames.size() ) ; k++ ) {
+python:
+print "Case #" + str(case) + ": " + str(switches)
+======
+======
+cpp:
+if( k == m ) { continue; }
+python:
+if e == currengine: continue
+======
+======
+cpp:
+if( p < q ) { q = p; }
+python:
+if l > long: long = l
+======
+======
+cpp:
+} else {
+python:
+while 1:
+======
+======
+cpp:
+return k;
+python:
+import sys
+======
+======
+cpp:
+int doit( const vector< string >& senames, const vector< string >& queries )
+python:
+queries = [infile.readline().strip() for x in xrange(numqueries)]
+======
+======
+cpp:
+for( int k = 0 ; k < int( senames.size() ) ; k++ ) {
+python:
+print "Case #" + str(case) + ": " + str(switches)
+======
+======
+cpp:
+int p = doit( senames, queries, k, 0 );
+python:
+infile = open(sys.argv[1], 'rb')
+======
+======
+cpp:
+if( p < q ) { q = p; }
+python:
+if l > long: long = l
+======
+======
+cpp:
+for( int i = 0 ; i < N ; i++ ) {
+python:
+for case in xrange(1, numcases+1):
+======
+======
+cpp:
+string query;
+python:
+i=numqueries
+======
+======
+cpp:
+getline( cin, query );
+python:
+if i >= numqueries:
+======
+======
+cpp:
+dd.clear();
+python:
+switches = 0
+======
+======
+cpp:
+dd.resize( S );
+python:
+currengine = ''
+======
+======
+cpp:
+dd[k][j] = -1;
+python:
+switches += 1
+======
+======
+cpp:
+if( n == int( queries.size() ) ) { return 0; }
+python:
+sys.stdout.write("Case #%d: %d" % (caseNum, ch))
+======
+======
+cpp:
+if( 0 <= get_dd(m,n) ) {
+python:
+PI_2 = arccos(-1) / 2
+======
+======
+cpp:
+return get_dd(m,n);
+python:
+for j in range(0,S):
+======
+======
+cpp:
+if( senames[m] == queries[n] ) {
+python:
+s = sys.stdin.readline().strip()
+======
+======
+cpp:
+if( p < q ) { q = p; }
+python:
+from Numeric import *
+======
+======
+cpp:
+} else {
+python:
+else:
+======
+======
+cpp:
+return k;
+python:
+import re
+======
+======
+cpp:
+int p = doit( senames, queries, k, 0 );
+python:
+for case in range(1, casesCount + 1):
+======
+======
+cpp:
+if( p < q ) { q = p; }
+python:
+from Numeric import *
+======
+======
+cpp:
+int main()
+python:
+if v[idx]:
+======
+======
+cpp:
+int N;
+python:
+print ""
+======
+======
+cpp:
+cin >> N;
+python:
+c = S - 1
+======
+======
+cpp:
+string sename;
+python:
+first = False
+======
+======
+cpp:
+senames.push_back( sename );
+python:
+sys.setcheckinterval(10000)
+======
+======
+cpp:
+string query;
+python:
+first = True
+======
+======
+cpp:
+dd.resize( S );
+python:
+v = [True] * S
+======
+======
+cpp:
+dd[k][j] = -1;
+python:
+v[idx] = False
+======
+======
+cpp:
+cout << "Case #" << ( i+1 ) << ": " << doit( senames, queries ) << endl;
+python:
+casesCount = int(re.findall(r'[\d]+', sys.stdin.readline())[0])
+======
+======
+cpp:
+#include <vector>
+python:
+except ValueError:
+======
+======
+cpp:
+using namespace std;
+python:
+maxDist = max(dist)
+======
+======
+cpp:
+void put_dd( int m, int n, int k ) { dd[m][n] = k; }
+python:
+output.write('Case #%s: %s\n' % (case+1,switches))
+======
+======
+cpp:
+int get_dd( int m, int n ) { return dd[m][n]; }
+python:
+filename = raw_input("Enter input file name: ")
+======
+======
+cpp:
+return get_dd(m,n);
+python:
+break  # we're done!
+======
+======
+cpp:
+if( senames[m] == queries[n] ) {
+python:
+dist[count] = queries.index(eng)
+======
+======
+cpp:
+if( k == m ) { continue; }
+python:
+for e in range(numEngines):
+======
+======
+cpp:
+return q+1;
+python:
+engines = []
+======
+======
+cpp:
+int p = doit( senames, queries, k, 0 );
+python:
+for (count,eng) in enumerate(engines):
+======
+======
+cpp:
+int main()
+python:
+done = True
+======
+======
+cpp:
+int N;
+python:
+try:
+======
+======
+cpp:
+vector< string > senames;
+python:
+output = file(filename,'w')
+======
+======
+cpp:
+senames.push_back( sename );
+python:
+for case in range(numCases):
+======
+======
+cpp:
+vector< string > queries;
+python:
+for q in range(numQueries):
+======
+======
+cpp:
+string query;
+python:
+while queries:
+======
+======
+cpp:
+queries.push_back( query );
+python:
+queries.append(qString.strip())
+======
+======
+cpp:
+dd.clear();
+python:
+switches = 0
+======
+======
+cpp:
+dd.resize( S );
+python:
+queries = []
+======
+======
+cpp:
+#include <string>
+python:
+query = getLine()
+======
+======
+cpp:
+void put_dd( int m, int n, int k ) { dd[m][n] = k; }
+python:
+engineNo = dict((e,i) for i,e in enumerate(engines))
+======
+======
+cpp:
+if( n == int( queries.size() ) ) { return 0; }
+python:
+return str(min(c[len(queries)] for c in cost))
+======
+======
+cpp:
+if( 0 <= get_dd(m,n) ) {
+python:
+fout = open("out","wt")
+======
+======
+cpp:
+int q = INT_MAX;
+python:
+line = line[:-1]
+======
+======
+cpp:
+if( k == m ) { continue; }
+python:
+res = min(res, cost[j][i])
+======
+======
+cpp:
+if( p < q ) { q = p; }
+python:
+if len(sys.argv) != 2:
+======
+======
+cpp:
+return q+1;
+python:
+return line
+======
+======
+cpp:
+} else {
+python:
+else:
+======
+======
+cpp:
+int q = INT_MAX;
+python:
+line = line[:-1]
+======
+======
+cpp:
+if( p < q ) { q = p; }
+python:
+if len(sys.argv) != 2:
+======
+======
+cpp:
+int N;
+python:
+print i
+======
+======
+cpp:
+cin >> N;
+python:
+if j!=q:
+======
+======
+cpp:
+for( int i = 0 ; i < N ; i++ ) {
+python:
+for i,q in enumerate(queries):
+======
+======
+cpp:
+getline( cin, dummy );
+python:
+line = fin.readline()
+======
+======
+cpp:
+getline( cin, dummy );
+python:
+line = fin.readline()
+======
+======
+cpp:
+vector< string > queries;
+python:
+fout.write(solve(s,queries))
+======
+======
+cpp:
+dd.clear();
+python:
+fout.close()
+======
+======
+cpp:
+dd.resize( S );
+python:
+def getLine():
+======
+======
+cpp:
+dd[k][j] = -1;
+python:
+cost[j][i+1] = res
+======
+======
+cpp:
+using namespace std;
+python:
+s_line_start = start
+======
+======
+cpp:
+std::vector< std::vector<int> > dd;
+python:
+sls = cls[ s_line_start: s_line_end ]
+======
+======
+cpp:
+int get_dd( int m, int n ) { return dd[m][n]; }
+python:
+start, slines, qlines = get_sq_lines(ls,start)
+======
+======
+cpp:
+if( 0 <= get_dd(m,n) ) {
+python:
+for i in range( nc ):
+======
+======
+cpp:
+if( senames[m] == queries[n] ) {
+python:
+if __name__ == "__main__":
+======
+======
+cpp:
+int q = INT_MAX;
+python:
+lint = [ l[0] ]
+======
+======
+cpp:
+if( k == m ) { continue; }
+python:
+if sum( hits ) == n_engine:
+======
+======
+cpp:
+int p = doit( senames, queries, k, n+1 );
+python:
+lint = compress2int( slines, qlines )
+======
+======
+cpp:
+if( p < q ) { q = p; }
+python:
+hits = [ 0 ] * n_engine
+======
+======
+cpp:
+put_dd( m, n, q+1 );
+python:
+for e in qlines[1:]:
+======
+======
+cpp:
+return q+1;
+python:
+return [-1]
+======
+======
+cpp:
+int q = INT_MAX;
+python:
+lint = [ l[0] ]
+======
+======
+cpp:
+if( p < q ) { q = p; }
+python:
+hits = [ 0 ] * n_engine
+======
+======
+cpp:
+int main()
+python:
+def main():
+======
+======
+cpp:
+string dummy;
+python:
+for i in l[1:]:
+======
+======
+cpp:
+int N;
+python:
+l = []
+======
+======
+cpp:
+for( int i = 0 ; i < N ; i++ ) {
+python:
+for i in range( len( lint ) ):
+======
+======
+cpp:
+vector< string > senames;
+python:
+q_line_start = s_line_end
+======
+======
+cpp:
+string sename;
+python:
+if e in slines:
+======
+======
+cpp:
+getline( cin, sename );
+python:
+def get_sq_lines( cls, start ):
+======
+======
+cpp:
+string query;
+python:
+if n_query == 0:
+======
+======
+cpp:
+dd.clear();
+python:
+f.close()
+======
+======
+cpp:
+dd.resize( S );
+python:
+f = file( fin )
+======
+======
+cpp:
+dd[k][j] = -1;
+python:
+hits[ci] = 1
+======
+======
+cpp:
+if( n == int( queries.size() ) ) { return 0; }
+python:
+return ''.join(reversed(replace_by(n_temp,fw2)))
+======
+======
+cpp:
+if( 0 <= get_dd(m,n) ) {
+python:
+for x in reversed(arr):
+======
+======
+cpp:
+return get_dd(m,n);
+python:
+return str(search(0))
+======
+======
+cpp:
+if( senames[m] == queries[n] ) {
+python:
+return map(lambda x:table[x],ls)
+======
+======
+cpp:
+int q = INT_MAX;
+python:
+if n_normal==0:
+======
+======
+cpp:
+for( int k = 0 ; k < int( senames.size() ) ; k++ ) {
+python:
+fw1=dict(map(lambda (x,y):(y,x),enumerate(l_from)))
+======
+======
+cpp:
+if( k == m ) { continue; }
+python:
+for ss in qs_co[pos_from:]:
+======
+======
+cpp:
+int p = doit( senames, queries, k, n+1 );
+python:
+n_case=int(sys.stdin.readline().rstrip())
+======
+======
+cpp:
+if( p < q ) { q = p; }
+python:
+if pos>=n_q: return -1
+======
+======
+cpp:
+} else {
+python:
+else:
+======
+======
+cpp:
+return k;
+python:
+return n
+======
+======
+cpp:
+int q = INT_MAX;
+python:
+if n_normal==0:
+======
+======
+cpp:
+for( int k = 0 ; k < int( senames.size() ) ; k++ ) {
+python:
+fw1=dict(map(lambda (x,y):(y,x),enumerate(l_from)))
+======
+======
+cpp:
+int p = doit( senames, queries, k, 0 );
+python:
+print 'Case #%d: %s'%(i+1,proc_case())
+======
+======
+cpp:
+if( p < q ) { q = p; }
+python:
+if pos>=n_q: return -1
+======
+======
+cpp:
+int main()
+python:
+proc_all()
+======
+======
+cpp:
+int N;
+python:
+cnt+=1
+======
+======
+cpp:
+cin >> N;
+python:
+while n>0:
+======
+======
+cpp:
+for( int i = 0 ; i < N ; i++ ) {
+python:
+"lowest to highest, [] when n==0"
+======
+======
+cpp:
+getline( cin, sename );
+python:
+for i in range(n_case):
+======
+======
+cpp:
+senames.push_back( sename );
+python:
+def replace_all(ls,table):
+======
+======
+cpp:
+dd.resize( S );
+python:
+def search(pos):
+======
+======
+cpp:
+#include <string>
+python:
+if use != None:
+======
+======
+cpp:
+void put_dd( int m, int n, int k ) { dd[m][n] = k; }
+python:
+return 0    #We found engine not presented in the query list
+======
+======
+cpp:
+int q = INT_MAX;
+python:
+input = argv[1]
+======
+======
+cpp:
+return q+1;
+python:
+return list
+======
+======
+cpp:
+} else {
+python:
+prev = q
+======
+======
+cpp:
+return k;
+python:
+return 1
+======
+======
+cpp:
+int q = INT_MAX;
+python:
+input = argv[1]
+======
+======
+cpp:
+int p = doit( senames, queries, k, 0 );
+python:
+def processCase(engines, queries, case):
+======
+======
+cpp:
+int main()
+python:
+def main():
+======
+======
+cpp:
+int N;
+python:
+i = 1
+======
+======
+cpp:
+cin >> N;
+python:
+list = []
+======
+======
+cpp:
+for( int i = 0 ; i < N ; i++ ) {
+python:
+print "Usage %s input" % argv[0]
+======
+======
+cpp:
+getline( cin, dummy );
+python:
+lines = f.readlines()
+======
+======
+cpp:
+getline( cin, dummy );
+python:
+lines = f.readlines()
+======
+======
+cpp:
+getline( cin, query );
+python:
+if idx < len(queries):
+======
+======
+cpp:
+queries.push_back( query );
+python:
+queries = unique(queries)
+======
+======
+cpp:
+dd.clear();
+python:
+f.close()
+======
+======
+cpp:
+dd.resize( S );
+python:
+queries = []
+======
+======
+cpp:
+dd[k].resize( Q );
+python:
+def process(lines):
+======
+======
+cpp:
+dd[k][j] = -1;
+python:
+weighted = []
+======
+======
+cpp:
+#include <string>
+python:
+name = getline()
+======
+======
+cpp:
+using namespace std;
+python:
+engines[name] = eng
+======
+======
+cpp:
+if( 0 <= get_dd(m,n) ) {
+python:
+cases = int(getline())
+======
+======
+cpp:
+return get_dd(m,n);
+python:
+S = int(getline())
+======
+======
+cpp:
+int q = INT_MAX;
+python:
+mini = min(swi)
+======
+======
+cpp:
+int p = doit( senames, queries, k, n+1 );
+python:
+print "Case #%d: %d" % (case+1, mini)
+======
+======
+cpp:
+put_dd( m, n, k );
+python:
+swi[eng] = mi + 1
+======
+======
+cpp:
+return k;
+python:
+import sys
+======
+======
+cpp:
+int q = INT_MAX;
+python:
+mini = min(swi)
+======
+======
+cpp:
+int main()
+python:
+mi = min(sw2)
+======
+======
+cpp:
+string dummy;
+python:
+swi = [0]*S
+======
+======
+cpp:
+vector< string > senames;
+python:
+for case in range(cases):
+======
+======
+cpp:
+getline( cin, sename );
+python:
+for eng in range(S):
+======
+======
+cpp:
+dd.resize( S );
+python:
+def getline():
+======
+======
+cpp:
+dd[k].resize( Q );
+python:
+sw2[eng:eng+1] = []
+======
+======
+cpp:
+int N;
+python:
+s = 0
+======
+======
+cpp:
+int len;
+python:
+s = next
+======
+======
+cpp:
+getline(cin, str);
+python:
+N = int(raw_input())
+======
+======
+cpp:
+getline(cin, str);
+python:
+N = int(raw_input())
+======
+======
+cpp:
+engines.push_back(str);
+python:
+engines.append(raw_input())
+======
+======
+cpp:
+getline(cin, str);
+python:
+N = int(raw_input())
+======
+======
+cpp:
+int now = 0;
+python:
+engines = []
+======
+======
+cpp:
+if (len == 0) {cout << "0" << endl; continue;}
+python:
+if j == Q or queries[j] == engines[i]:
+======
+======
+cpp:
+for (int i=0;i<len;++i)
+python:
+for test in range(N):
+======
+======
+cpp:
+getline(cin, str);
+python:
+N = int(raw_input())
+======
+======
+cpp:
+if (engines[k] != str && mini > list[now][k])
+python:
+print "Case #%d: %d" % (test + 1, max(0, res - 1))
+======
+======
+cpp:
+return 0;
+python:
+res = 0
+======
+======
+cpp:
+int N;
+python:
+t = tt
+======
+======
+cpp:
+cout << "Case #" << cccccc+1 << ": ";
+python:
+print >> fout, "Case #%d:" % (z+1), res
+======
+======
+cpp:
+string str;
+python:
+tt[i] = sw
+======
+======
+cpp:
+for(int i=0;i<len;++i)
+python:
+for i in range(s):
+======
+======
+cpp:
+for (int j=0;j<engines.size();++j)
+python:
+n = int(fin.readline().strip())
+======
+======
+cpp:
+if (str != engines[j])
+python:
+if eng[i] == quer[x]:
+======
+======
+cpp:
+else
+python:
+else:
+======
+======
+cpp:
+if (engines[k] != str && mini > list[now][k])
+python:
+eng = [fin.readline() for i in xrange(s)]
+======
+======
+cpp:
+list[1-now][j] = mini + 1;
+python:
+input_file = "A-%s.in" % case
+======
+======
+cpp:
+now = 1-now;
+python:
+res = min(t)
+======
+======
+cpp:
+if (list[now][i] >= 0 && (mini < 0 || mini > list[now][i]))
+python:
+sw = min([t[i] for i in range(s) if eng[i] != quer[x]]) + 1
+======
+======
+cpp:
+mini = list[now][i];
+python:
+tt[i] = min(sw, t[i])
+======
+======
+cpp:
+#include <cstdio>
+python:
+q = queries[i:]
+======
+======
+cpp:
+cin >> N;
+python:
+long = 0
+======
+======
+cpp:
+int len;
+python:
+while 1:
+======
+======
+cpp:
+vector<string> engines;
+python:
+for e in engines:
+======
+======
+cpp:
+engines.push_back(str);
+python:
+currengine = queries[i+long]
+======
+======
+cpp:
+int now = 0;
+python:
+switches = 0
+======
+======
+cpp:
+else
+python:
+try:
+======
+======
+cpp:
+if (engines[k] != str && mini > list[now][k])
+python:
+print "Case #" + str(case) + ": " + str(switches)
+======
+======
+cpp:
+mini = list[now][k];
+python:
+if l > long: long = l
+======
+======
+cpp:
+int mini = -1;
+python:
+currengine = ''
+======
+======
+cpp:
+for (int i=0;i<engines.size();++i)
+python:
+for case in xrange(1, numcases+1):
+======
+======
+cpp:
+int main()
+python:
+if v[idx]:
+======
+======
+cpp:
+int N;
+python:
+print ""
+======
+======
+cpp:
+cin >> N;
+python:
+c = S - 1
+======
+======
+cpp:
+int len;
+python:
+eng = {}
+======
+======
+cpp:
+getline(cin, str);
+python:
+def solve(caseNum):
+======
+======
+cpp:
+for(int i=0;i<len;++i)
+python:
+for i in range(0, S):
+======
+======
+cpp:
+getline(cin, str);
+python:
+def solve(caseNum):
+======
+======
+cpp:
+getline(cin, str);
+python:
+def solve(caseNum):
+======
+======
+cpp:
+int now = 0;
+python:
+if c == 0:
+======
+======
+cpp:
+getline(cin, str);
+python:
+def solve(caseNum):
+======
+======
+cpp:
+else
+python:
+else:
+======
+======
+cpp:
+mini = list[now][k];
+python:
+PI_2 = arccos(-1) / 2
+======
+======
+cpp:
+now = 1-now;
+python:
+idx = eng[s]
+======
+======
+cpp:
+int mini = -1;
+python:
+PI = arccos(-1)
+======
+======
+cpp:
+for (int i=0;i<engines.size();++i)
+python:
+for case in range(1, casesCount + 1):
+======
+======
+cpp:
+if (list[now][i] >= 0 && (mini < 0 || mini > list[now][i]))
+python:
+casesCount = int(re.findall(r'[\d]+', sys.stdin.readline())[0])
+======
+======
+cpp:
+return 0;
+python:
+import re
+======
+======
+cpp:
+#include <string>
+python:
+while queries:
+======
+======
+cpp:
+#include <vector>
+python:
+except ValueError:
+======
+======
+cpp:
+#define sqr(x) ((x)*(x))
+python:
+queries = queries[maxDist:]
+======
+======
+cpp:
+cout << "Case #" << cccccc+1 << ": ";
+python:
+print 'Case #%s: %s' % (case+1,switches)
+======
+======
+cpp:
+memset(list, 0, sizeof(list));
+python:
+queries.append(qString.strip())
+======
+======
+cpp:
+cin >> len;
+python:
+done = True
+======
+======
+cpp:
+vector<string> engines;
+python:
+dist = [0]*numEngines
+======
+======
+cpp:
+engines.push_back(str);
+python:
+engines.append(engName.strip())
+======
+======
+cpp:
+cin >> len;
+python:
+done = True
+======
+======
+cpp:
+int now = 0;
+python:
+engines = []
+======
+======
+cpp:
+if (len == 0) {cout << "0" << endl; continue;}
+python:
+filename = raw_input("Enter input file name: ")
+======
+======
+cpp:
+for (int i=0;i<len;++i)
+python:
+for case in range(numCases):
+======
+======
+cpp:
+list[1-now][j] = list[now][j];
+python:
+dist[count] = queries.index(eng)
+======
+======
+cpp:
+else
+python:
+try:
+======
+======
+cpp:
+now = 1-now;
+python:
+done = False
+======
+======
+cpp:
+for (int i=0;i<engines.size();++i)
+python:
+for (count,eng) in enumerate(engines):
+======
+======
+cpp:
+#include <string>
+python:
+query = getLine()
+======
+======
+cpp:
+int N;
+python:
+print i
+======
+======
+cpp:
+cin >> N;
+python:
+if j!=q:
+======
+======
+cpp:
+memset(list, 0, sizeof(list));
+python:
+res = min(res, cost[k][i]+1)
+======
+======
+cpp:
+for(int i=0;i<len;++i)
+python:
+for i in range(n):
+======
+======
+cpp:
+engines.push_back(str);
+python:
+engines.append(getLine())
+======
+======
+cpp:
+int now = 0;
+python:
+engines = []
+======
+======
+cpp:
+if (len == 0) {cout << "0" << endl; continue;}
+python:
+engineNo = dict((e,i) for i,e in enumerate(engines))
+======
+======
+cpp:
+if (str != engines[j])
+python:
+if len(sys.argv) != 2:
+======
+======
+cpp:
+list[1-now][j] = list[now][j];
+python:
+res = min(res, cost[j][i])
+======
+======
+cpp:
+else
+python:
+else:
+======
+======
+cpp:
+if (engines[k] != str && mini > list[now][k])
+python:
+return str(min(c[len(queries)] for c in cost))
+======
+======
+cpp:
+mini = list[now][k];
+python:
+line = line[:-1]
+======
+======
+cpp:
+for (int i=0;i<engines.size();++i)
+python:
+for i,q in enumerate(queries):
+======
+======
+cpp:
+if (list[now][i] >= 0 && (mini < 0 || mini > list[now][i]))
+python:
+cost = [[0]+[None for i in queries] for j in xrange(s)]
+======
+======
+cpp:
+return 0;
+python:
+return line
+======
+======
+cpp:
+int list[2][100];
+python:
+lint = [ l[0] ]
+======
+======
+cpp:
+int main()
+python:
+def main():
+======
+======
+cpp:
+int N;
+python:
+l = []
+======
+======
+cpp:
+cout << "Case #" << cccccc+1 << ": ";
+python:
+print "Case #%i: %i" %( i+1, n_switch )
+======
+======
+cpp:
+memset(list, 0, sizeof(list));
+python:
+def central( slines, qlines ):
+======
+======
+cpp:
+cin >> len;
+python:
+ci = lint[i]
+======
+======
+cpp:
+vector<string> engines;
+python:
+def shortest( lint, n_engine ):
+======
+======
+cpp:
+getline(cin, str);
+python:
+s_line_start = start
+======
+======
+cpp:
+for(int i=0;i<len;++i)
+python:
+for i in range( nc ):
+======
+======
+cpp:
+getline(cin, str);
+python:
+s_line_start = start
+======
+======
+cpp:
+engines.push_back(str);
+python:
+engines = slines[1:]
+======
+======
+cpp:
+cin >> len;
+python:
+ci = lint[i]
+======
+======
+cpp:
+getline(cin, str);
+python:
+s_line_start = start
+======
+======
+cpp:
+int now = 0;
+python:
+n_switch = 0
+======
+======
+cpp:
+getline(cin, str);
+python:
+s_line_start = start
+======
+======
+cpp:
+for (int j=0;j<engines.size();++j)
+python:
+l.append( engines.index( e ) )
+======
+======
+cpp:
+list[1-now][j] = list[now][j];
+python:
+ls = [ s.strip() for s in ls ]
+======
+======
+cpp:
+else
+python:
+else:
+======
+======
+cpp:
+if (engines[k] != str && mini > list[now][k])
+python:
+s_length     = int( cls[ s_line_start ] )
+======
+======
+cpp:
+mini = list[now][k];
+python:
+if i == lint[-1]:
+======
+======
+cpp:
+return 0;
+python:
+return [-1]
+======
+======
+cpp:
+#define sqr(x) ((x)*(x))
+python:
+return str(search(0))
+======
+======
+cpp:
+int main()
+python:
+proc_all()
+======
+======
+cpp:
+int N;
+python:
+cnt+=1
+======
+======
+cpp:
+cin >> N;
+python:
+while n>0:
+======
+======
+cpp:
+cout << "Case #" << cccccc+1 << ": ";
+python:
+print 'Case #%d: %s'%(i+1,proc_case())
+======
+======
+cpp:
+memset(list, 0, sizeof(list));
+python:
+table=dict(zip(ss,range(n_s)))
+======
+======
+cpp:
+getline(cin, str);
+python:
+def fetch_lines(n):
+======
+======
+cpp:
+getline(cin, str);
+python:
+def fetch_lines(n):
+======
+======
+cpp:
+getline(cin, str);
+python:
+def fetch_lines(n):
+======
+======
+cpp:
+int now = 0;
+python:
+if n_normal==0:
+======
+======
+cpp:
+for (int i=0;i<len;++i)
+python:
+for x in reversed(arr):
+======
+======
+cpp:
+getline(cin, str);
+python:
+def fetch_lines(n):
+======
+======
+cpp:
+if (str != engines[j])
+python:
+if n_q==0: return '0'
+======
+======
+cpp:
+else
+python:
+else:
+======
+======
+cpp:
+if (engines[k] != str && mini > list[now][k])
+python:
+n_case=int(sys.stdin.readline().rstrip())
+======
+======
+cpp:
+int mini = -1;
+python:
+if s_id in ss:
+======
+======
+cpp:
+for (int i=0;i<engines.size();++i)
+python:
+n_s=int(sys.stdin.readline().rstrip())
+======
+======
+cpp:
+if (list[now][i] >= 0 && (mini < 0 || mini > list[now][i]))
+python:
+return map(lambda i:sys.stdin.readline().rstrip(),range(n))
+======
+======
+cpp:
+return 0;
+python:
+return n
+======
+======
+cpp:
+#include <string>
+python:
+if use != None:
+======
+======
+cpp:
+#define sqr(x) ((x)*(x))
+python:
+weighted.append((e, idx))
+======
+======
+cpp:
+int main()
+python:
+def main():
+======
+======
+cpp:
+int N;
+python:
+i = 1
+======
+======
+cpp:
+cout << "Case #" << cccccc+1 << ": ";
+python:
+print "Case #%d: %d" % (case, switches)
+======
+======
+cpp:
+int len;
+python:
+list = []
+======
+======
+cpp:
+cin >> len;
+python:
+use = None
+======
+======
+cpp:
+vector<string> engines;
+python:
+for e in engines:
+======
+======
+cpp:
+getline(cin, str);
+python:
+n = int (lines[0])
+======
+======
+cpp:
+getline(cin, str);
+python:
+n = int (lines[0])
+======
+======
+cpp:
+cin >> len;
+python:
+use = None
+======
+======
+cpp:
+getline(cin, str);
+python:
+n = int (lines[0])
+======
+======
+cpp:
+int now = 0;
+python:
+engines = []
+======
+======
+cpp:
+if (len == 0) {cout << "0" << endl; continue;}
+python:
+switches = countSwitches(engines, queries)
+======
+======
+cpp:
+getline(cin, str);
+python:
+n = int (lines[0])
+======
+======
+cpp:
+if (str != engines[j])
+python:
+if idx < len(queries):
+======
+======
+cpp:
+else
+python:
+else:
+======
+======
+cpp:
+list[1-now][j] = mini + 1;
+python:
+if __name__ == '__main__':
+======
+======
+cpp:
+for (int i=0;i<engines.size();++i)
+python:
+def countSwitches(engines, queries):
+======
+======
+cpp:
+if (list[now][i] >= 0 && (mini < 0 || mini > list[now][i]))
+python:
+return 0    #We found engine not presented in the query list
+======
+======
+cpp:
+return 0;
+python:
+return 1
+======
+======
+cpp:
+#include <string>
+python:
+name = getline()
+======
+======
+cpp:
+using namespace std;
+python:
+engines[name] = eng
+======
+======
+cpp:
+int main()
+python:
+mi = min(sw2)
+======
+======
+cpp:
+cout << "Case #" << cccccc+1 << ": ";
+python:
+print "Case #%d: %d" % (case+1, mini)
+======
+======
+cpp:
+vector<string> engines;
+python:
+cases = int(getline())
+======
+======
+cpp:
+getline(cin, str);
+python:
+S = int(getline())
+======
+======
+cpp:
+for(int i=0;i<len;++i)
+python:
+for eng in range(S):
+======
+======
+cpp:
+getline(cin, str);
+python:
+S = int(getline())
+======
+======
+cpp:
+getline(cin, str);
+python:
+S = int(getline())
+======
+======
+cpp:
+int now = 0;
+python:
+engines = {}
+======
+======
+cpp:
+for (int i=0;i<len;++i)
+python:
+for case in range(cases):
+======
+======
+cpp:
+getline(cin, str);
+python:
+S = int(getline())
+======
+======
+cpp:
+list[1-now][j] = mini + 1;
+python:
+swi[eng] = mi + 1
+======
+======
+cpp:
+now = 1-now;
+python:
+sw2 = swi[:]
+======
+======
+cpp:
+mini = list[now][i];
+python:
+mini = min(swi)
+======
+======
+cpp:
+return 0;
+python:
+import sys
+======
+cpp phrases:
+6  =>  #include <algorithm>
+43  =>  int main()
+8  =>  for (i=0;i<N;++i) gets(dic[i]);
+9  =>  pre=0;last=1;
+5  =>  memset(dp[0],0,sizeof(dp[0]));
+6  =>  for (i=0;i<M;++i)
+9  =>  if (strcmp(buf,dic[j])!=0)
+4  =>  if (i==0 || mm>dp[pre][i]) mm=dp[pre][i];
+8  =>  printf("Case #%d: %d\n",t+1,mm);
+44  =>  return 0;
+5  =>  #include <cstring>
+33  =>  using namespace std;
+5  =>  int N,M;
+5  =>  int dp[2][110];
+4  =>  if (k!=j) dp[pre][k] = MIN(dp[pre][k],dp[last][j]+1);
+4  =>  #include <cstdio>
+4  =>  #define MIN(a,b) (a)<(b)?(a):(b)
+3  =>  char buf[110];
+1  =>  memset(dp[1],0x7f,sizeof(dp[0]));
+5  =>  else dp[pre][k] = MIN(dp[pre][k],dp[last][j]);
+2  =>  int pre,last,mm;
+5  =>  memset(dp[last],0x7f,sizeof(dp[0]));
+3  =>  for (t=0;t<st;++t)
+3  =>  int t,st,i,j,k;
+1  =>  gets(buf);
+1  =>  scanf("%d",&st);
+1  =>  freopen("A-small.out","w",stdout);
+7  =>  getline(cin, engine[0]);
+32  =>  for (i=1; i<=n; i++)
+5  =>  int i, j, k, value, best;
+7  =>  return;
+4  =>  memset(f, 0xFF, sizeof(f));
+5  =>  if (!match[1][i])
+2  =>  best=-1;
+8  =>  if ((best==-1 || best>f[m][i]) && f[m][i]!=-1)
+7  =>  best=f[m][i];
+6  =>  int cas=0, t;
+5  =>  while (t--){
+2  =>  getline(cin, query[0]);
+5  =>  if (engine[i]==query[j]) match[j][i]=true; else match[j][i]=false;
+2  =>  f[1][i]=0;
+4  =>  if (f[i][j]==-1 || f[i][j]>f[i-1][k]+value)
+2  =>  freopen("output.txt", "w", stdout);
+4  =>  cas++;
+5  =>  const int MAXN = 110;
+4  =>  string engine[MAXN], query[MAXM];
+5  =>  int n, m;
+4  =>  if (j==k) value=0; else value=1;
+4  =>  freopen("input.txt", "r", stdin);
+3  =>  void init()
+1  =>  cin >> n;
+1  =>  for (j=1; j<=m; j++)
+2  =>  if (m==0){
+2  =>  if (!match[i][j]){
+3  =>  init();
+2  =>  for (k=1; k<=n; k++)
+23  =>  #include <string>
+1  =>  int f[MAXM][MAXN];
+2  =>  getline(cin, engine[i]);
+1  =>  void work()
+1  =>  for (j=1; j<=n; j++)
+1  =>  if (f[i-1][k]!=-1){
+1  =>  cout << best << endl;
+5  =>  cout << "Case #" << cas << ": ";
+7  =>  for (i = 0; i < n; i++) {
+9  =>  ff[str] = i;
+7  =>  a[j] = m;
+2  =>  if (b[r] + 1 < a[k]) a[k] = b[r] + 1;
+6  =>  j = m;
+7  =>  for (i = 0; i < n; i++) if (a[i] < j) j = a[i];
+2  =>  map<string, int> ff;
+3  =>  char str[1000];
+15  =>  int main() {
+4  =>  for (t = 1; t <= testcases; t++) {
+5  =>  ff.clear();
+3  =>  for (i = 0; i < n; i++) a[i] = 0;
+6  =>  if (j < 0 || j >= n) {
+7  =>  printf("Case #%d: %d\n", t, j);
+6  =>  freopen("a.in","r",stdin);
+2  =>  j = ff[str];
+4  =>  exit(0);
+8  =>  gets(str);
+3  =>  #include <map>
+1  =>  int a[1000], b[1000];
+1  =>  for (k = 0; k < n; k++) if (k != j){
+3  =>  for (r = 0; r < n; r++) {
+4  =>  printf("!!!\n");
+1  =>  int i, j, k, r, t, n, m, testcases;
+1  =>  scanf("%d",&n);
+6  =>  ifstream fin("A-large.in");
+13  =>  int S, Q;
+7  =>  string s; getline(fin, s);
+4  =>  cout << s << endl;
+7  =>  index[s] = i;
+2  =>  for (i = 0; i < Q; i++) {
+2  =>  for (j = 0; j < S; j++) used[j] = false;
+6  =>  fout << "Case #" << t << ": " << best[0] << endl;
+2  =>  ofstream fout("A-large.out");
+2  =>  int i, j, N;
+2  =>  map <string, int> index;
+7  =>  if (s.size() == 0) getline(fin, s);
+7  =>  fout << "Case #" << t << ": " << 0 << endl;
+6  =>  query[i] = index[q];
+1  =>  for (i = Q-2; i >= 0; i--) {
+4  =>  fin.close();
+4  =>  fout.close();
+2  =>  system("pause");
+4  =>  int query[1000];
+6  =>  int main()  {
+1  =>  fin >> N; cout << N << endl;
+5  =>  best[Q-1] = 0;
+4  =>  int count = S;
+6  =>  best[i] = min(best[i], best[j] + 1);
+4  =>  if (j == Q) best[i] = 0;
+3  =>  for (i = 0; i < S; i++) {
+4  =>  if (Q == 0) {
+3  =>  best[i] = 1000;
+2  =>  for (j = i; j < Q; j++) {
+4  =>  count--;
+4  =>  #include <vector>
+1  =>  continue;
+3  =>  for (int t = 1; t <= N; t++) {
+3  =>  if (!used[query[j]]) {
+1  =>  bool used[100];
+4  =>  #include <iostream>
+1  =>  if (q.size() == 0) getline(fin, q);
+1  =>  used[query[j]] = true;
+2  =>  #define _cl(x) memset(x, 0, sizeof(x))
+2  =>  const int INF = 1 << 20;
+14  =>  int i;
+6  =>  fr(i, Q) fr(j, S)
+4  =>  fr(k, S) dp[i][j] = min(dp[i][j], dp[i-1][k] + 1);
+6  =>  int res = INF;
+3  =>  fout << res << endl;
+6  =>  ifstream fin("input.txt");
+5  =>  istringstream is(ln);
+1  =>  is >> NT;
+6  =>  #define sz(x) ((int)(x).size())
+4  =>  #define fr(i, n) for(i = 0; i < (n); i++)
+3  =>  typedef vector<string> VS;
+15  =>  getline(fin, ln);
+6  =>  fr(i, S) getline(fin, s[i]);
+4  =>  if(q[i] == s[j])
+5  =>  else if(i > 0)
+22  =>  else
+3  =>  dp[i][j] = 0;
+1  =>  ofstream fout("output.txt");
+6  =>  fout << "Case #" << i + 1 << ": ";
+2  =>  #include <set>
+6  =>  #define fr2(i, s, n) for(i = (s); i < (n); i++)
+1  =>  typedef long long ll;
+1  =>  int NT;
+1  =>  int i, j, k;
+3  =>  fr(i, S)
+4  =>  #define all(x) (x).begin(),(x).end()
+5  =>  #define mp make_pair
+1  =>  typedef vector<int> VI;
+4  =>  typedef istringstream ISS;
+2  =>  dp[i][j] = INF;
+2  =>  read(fin);
+2  =>  #include <queue>
+2  =>  #define _rs(x) memset(x, -1, sizeof(x))
+3  =>  void read(ifstream &fin)
+1  =>  dp[i][j] = dp[i-1][j];
+3  =>  res = min(res, dp[Q-1][i]);
+2  =>  fr(i, NT)
+2  =>  #define pb push_back
+1  =>  proc(fout);
+2  =>  string s[2000];
+1  =>  ISS isS(ln);
+8  =>  int s;
+12  =>  for (int i = 0; i < s; i++) {
+8  =>  string temp(buffer);
+5  =>  engines[temp] = i;
+8  =>  int key = engines.find(temp)->second;
+5  =>  queries.push_back(key);
+1  =>  cost[q - 1][i] = 0;
+31  =>  } else {
+4  =>  if (cost[0][i] < min) {
+4  =>  result = 0;
+7  =>  cout<<"Case #"<<i + 1<<": "<<result<<endl;
+3  =>  cost.clear();
+3  =>  cost = vector< vector<int> >(q, s);
+5  =>  int key = queries[i];
+4  =>  int value = 0;
+7  =>  min = value;
+5  =>  return min;
+5  =>  map <string, int> engines;
+4  =>  vector <int> queries;
+1  =>  void input()
+2  =>  int dp()
+4  =>  for (int i = q - 2; i >= 0; i--) {
+2  =>  int result = 0;
+7  =>  input();
+4  =>  if (q == 0 || q == 1) {
+1  =>  engines.clear();
+2  =>  cin>>s;
+16  =>  cin.getline(buffer, 101);
+3  =>  if (j == k) {
+1  =>  value = cost[i+1][j];
+3  =>  if (value < min) {
+1  =>  int min = 0x7ffffff;
+2  =>  cost[q-1][queries[q - 1]] = 1;
+3  =>  vector <vector<int>> cost;
+1  =>  for (int i = 0; i < q; i++) {
+2  =>  value = cost[i+1][k] + 1;
+2  =>  cost[i][j] = min;
+3  =>  min = cost[0][i];
+1  =>  char buffer[101];
+2  =>  for (int i = 0; i < n; i++) {
+1  =>  queries.clear();
+2  =>  if (key != k) {
+1  =>  result = dp();
+8  =>  string readEngine()
+5  =>  string x;
+8  =>  return x;
+4  =>  int c=-1;
+4  =>  for (int j=i;j<Q;j++)
+7  =>  if(seen.count(queries[j])) continue;
+4  =>  sn=S;
+6  =>  curr=queries[j];
+3  =>  break;
+6  =>  while(x=="") getline(cin,x);
+6  =>  int solve(int S,int Q)
+4  =>  string curr=queries[0];
+7  =>  for (int i=0;i<Q;i++) if(curr==queries[i])
+4  =>  else if(sn==S-1)
+19  =>  int N;
+4  =>  #include<map>
+11  =>  vector<string> engines;
+4  =>  c++;
+3  =>  for (int j=0;j<S;j++) engines[j]=readEngine();
+2  =>  #include<assert.h>
+2  =>  vector<string> queries;
+3  =>  seen[queries[j]]=true;
+3  =>  if(sn<S) break;
+1  =>  #include<iostream>
+2  =>  int sn=0;
+2  =>  cout<<"Case #"<<i<<": ";
+1  =>  queries.resize(Q);
+1  =>  for (int j=0;j<Q;j++) queries[j]=readEngine();
+2  =>  #include<string>
+1  =>  #include<cmath>
+3  =>  engines.resize(S);
+2  =>  if(Q==0) return 0;
+1  =>  return c;
+1  =>  for (int i=1;i<=N;i++)
+1  =>  cin>>N;
+5  =>  const int maxS = 201;
+5  =>  const int inf = (int) 2e9;
+6  =>  int Q, S;
+6  =>  for (int cases = 1; cases <= testcases; cases++) {
+4  =>  if (i == 1) getline(cin, name[i]);
+6  =>  getline(cin, tmp);
+8  =>  oldmin = 0;
+6  =>  oldmin = nowmin;
+3  =>  const int maxQ = 2001;
+2  =>  int F[maxS], oldmin, nowmin;
+6  =>  ifstream cin("A.in");
+3  =>  index.clear();
+4  =>  for (int i = 1; i <= S; i++) {
+5  =>  if (i == 1) getline(cin, tmp);
+3  =>  Query[i] = index[tmp];
+3  =>  for (int k = 1; k <= S; k++) if (Query[i] != k) {
+3  =>  if (oldmin + 1 < F[k]) F[k] = oldmin + 1;
+4  =>  int Query[maxQ];
+3  =>  if (index.find(tmp) == index.end()) cout << "Error occur "<< endl;
+2  =>  F[Query[i]] = inf;
+3  =>  cout << "Case #" << cases << ": " << nowmin << endl;
+6  =>  int testcases;
+2  =>  cin >> S;
+2  =>  nowmin = inf;
+2  =>  #include<algorithm>
+1  =>  #include<sstream>
+3  =>  map<string, int> index;
+1  =>  memset(F, 0, sizeof F);
+1  =>  ofstream cout("A.out");
+1  =>  #include<cstdio>
+2  =>  getline(cin, name[i]);
+2  =>  if (F[k] < nowmin) nowmin = F[k];
+1  =>  string name[maxS];
+1  =>  index[name[i]] = i;
+3  =>  int get_dd( int m, int n ) { return dd[m][n]; }
+4  =>  if( n == int( queries.size() ) ) { return 0; }
+6  =>  if( 0 <= get_dd(m,n) ) {
+6  =>  return get_dd(m,n);
+7  =>  if( senames[m] == queries[n] ) {
+6  =>  return k;
+8  =>  getline( cin, dummy );
+4  =>  getline( cin, sename );
+4  =>  senames.push_back( sename );
+3  =>  queries.push_back( query );
+9  =>  dd.resize( S );
+6  =>  for( int k = 0 ; k < int( senames.size() ) ; k++ ) {
+6  =>  if( k == m ) { continue; }
+4  =>  int p = doit( senames, queries, k, n+1 );
+6  =>  int p = doit( senames, queries, k, 0 );
+9  =>  cin >> N;
+6  =>  for( int i = 0 ; i < N ; i++ ) {
+3  =>  string sename;
+6  =>  dd.clear();
+6  =>  dd[k][j] = -1;
+10  =>  if( p < q ) { q = p; }
+1  =>  int doit( const vector< string >& senames, const vector< string >& queries )
+4  =>  string query;
+2  =>  getline( cin, query );
+1  =>  cout << "Case #" << ( i+1 ) << ": " << doit( senames, queries ) << endl;
+3  =>  void put_dd( int m, int n, int k ) { dd[m][n] = k; }
+4  =>  return q+1;
+3  =>  vector< string > senames;
+2  =>  vector< string > queries;
+10  =>  int q = INT_MAX;
+1  =>  std::vector< std::vector<int> > dd;
+1  =>  put_dd( m, n, q+1 );
+2  =>  string dummy;
+2  =>  dd[k].resize( Q );
+1  =>  put_dd( m, n, k );
+4  =>  int len;
+24  =>  getline(cin, str);
+5  =>  engines.push_back(str);
+9  =>  int now = 0;
+4  =>  if (len == 0) {cout << "0" << endl; continue;}
+4  =>  for (int i=0;i<len;++i)
+6  =>  if (engines[k] != str && mini > list[now][k])
+6  =>  cout << "Case #" << cccccc+1 << ": ";
+1  =>  string str;
+5  =>  for(int i=0;i<len;++i)
+2  =>  for (int j=0;j<engines.size();++j)
+4  =>  if (str != engines[j])
+3  =>  list[1-now][j] = mini + 1;
+4  =>  now = 1-now;
+5  =>  if (list[now][i] >= 0 && (mini < 0 || mini > list[now][i]))
+2  =>  mini = list[now][i];
+4  =>  mini = list[now][k];
+3  =>  int mini = -1;
+6  =>  for (int i=0;i<engines.size();++i)
+3  =>  #define sqr(x) ((x)*(x))
+4  =>  memset(list, 0, sizeof(list));
+6  =>  cin >> len;
+3  =>  list[1-now][j] = list[now][j];
+1  =>  int list[2][100];
+python phrases:
+5  =>  next = max(next, j)
+2  =>  while s < Q:
+10  =>  for j in range(s, Q + 1):
+30  =>  engines = []
+4  =>  queries.append(raw_input())
+9  =>  for i in range(E):
+8  =>  if __name__ == "__main__":
+10  =>  if j == Q or queries[j] == engines[i]:
+8  =>  print "Case #%d: %d" % (test + 1, max(0, res - 1))
+10  =>  res = 0
+8  =>  fin = open(input_file)
+10  =>  if eng[i] == quer[x]:
+8  =>  t = tt
+4  =>  tt = [0] * s
+9  =>  res = min(t)
+7  =>  case = "large"
+5  =>  n = int(fin.readline().strip())
+8  =>  for z in xrange(n):
+8  =>  sw = min([t[i] for i in range(s) if eng[i] != quer[x]]) + 1
+6  =>  eng = [fin.readline() for i in xrange(s)]
+8  =>  print >> fout, "Case #%d:" % (z+1), res
+7  =>  q = queries[i:]
+4  =>  infile = open(sys.argv[1], 'rb')
+8  =>  if i >= numqueries:
+8  =>  long = 0
+8  =>  currengine = ''
+9  =>  for case in xrange(1, numcases+1):
+14  =>  switches = 0
+1  =>  numcases = int(infile.readline())
+13  =>  for e in engines:
+8  =>  if e == currengine: continue
+10  =>  print "Case #" + str(case) + ": " + str(switches)
+8  =>  eng = {}
+6  =>  if v[idx]:
+11  =>  def solve(caseNum):
+6  =>  PI = arccos(-1)
+6  =>  for j in range(0,S):
+11  =>  sys.setcheckinterval(10000)
+5  =>  S = int(sys.stdin.readline().strip())
+6  =>  import re
+9  =>  except ValueError:
+4  =>  engines.append(engName.strip())
+10  =>  while queries:
+7  =>  if done: break
+9  =>  done = True
+8  =>  maxDist = max(dist)
+5  =>  for case in range(numCases):
+6  =>  input = file(filename,'r')
+7  =>  filename = raw_input("Enter input file name: ")
+6  =>  print 'Case #%s: %s' % (case+1,switches)
+8  =>  if line[-1]=="\n":
+5  =>  line = fin.readline()
+8  =>  print i
+9  =>  line = line[:-1]
+4  =>  def getLine():
+8  =>  for i,q in enumerate(queries):
+3  =>  for j in xrange(s):
+6  =>  global fin
+5  =>  res = min(res, cost[j][i])
+6  =>  cost = [[0]+[None for i in queries] for j in xrange(s)]
+8  =>  return str(min(c[len(queries)] for c in cost))
+5  =>  queries.append(engineNo.get(query,-1))
+4  =>  fout.write("Case #%s: "%(i+1))
+10  =>  return line
+7  =>  def get_sq_lines( cls, start ):
+12  =>  s_line_start = start
+10  =>  lint = [ l[0] ]
+20  =>  def main():
+2  =>  ls = f.readlines()
+7  =>  for i in range( len( lint ) ):
+3  =>  ci = lint[i]
+4  =>  n_engine = int( slines[0] )
+3  =>  s_length     = int( cls[ s_line_start ] )
+2  =>  def compress2int( slines, qlines ):
+7  =>  print "Case #%i: %i" %( i+1, n_switch )
+9  =>  return [-1]
+3  =>  return map(lambda x:table[x],ls)
+6  =>  def cv_base(n,base):
+8  =>  proc_all()
+3  =>  n_temp=cv_base(n_normal,len(l_to))
+8  =>  if s_id in ss:
+6  =>  def proc_case():
+4  =>  arr.append(n%base)
+10  =>  for i in range(n_case):
+5  =>  table=dict(zip(ss,range(n_s)))
+2  =>  fw2=dict(enumerate(l_to))
+4  =>  fw1=dict(map(lambda (x,y):(y,x),enumerate(l_from)))
+6  =>  return ''.join(reversed(replace_by(n_temp,fw2)))
+1  =>  qs_co=map(lambda x:all_ids-set([x]),qs)
+4  =>  runs=filter(lambda x:x[1]==m_length,runs)
+7  =>  print 'Case #%d: %s'%(i+1,proc_case())
+10  =>  return n
+7  =>  if use != None:
+9  =>  if idx < len(queries):
+9  =>  list = []
+4  =>  if q != prev:
+5  =>  input = argv[1]
+2  =>  (e, idx) = weighted.pop()
+2  =>  process(lines)
+9  =>  weighted.append((e, idx))
+3  =>  for q in queries:
+4  =>  if __name__ == '__main__':
+5  =>  switches = 1 + countSwitches(engines, queries[idx:])
+2  =>  weighted.sort(lambda x,y:cmp(x[1],y[1]))
+2  =>  engines.append(lines[i].strip("\r\n"))
+7  =>  print "Case #%d: %d" % (case, switches)
+10  =>  return 1
+8  =>  name = getline()
+10  =>  engines[name] = eng
+10  =>  mi = min(sw2)
+5  =>  def getline():
+11  =>  S = int(getline())
+8  =>  for case in range(cases):
+7  =>  engines = {}
+4  =>  return sys.stdin.readline()
+10  =>  print "Case #%d: %d" % (case+1, mini)
+19  =>  import sys
+4  =>  engines.append(raw_input())
+6  =>  next = -1
+8  =>  queries = []
+8  =>  for i in range(s):
+9  =>  tt[i] = sw
+2  =>  quer = [fin.readline() for i in xrange(q)]
+5  =>  fout = open(output_file, "w")
+36  =>  else:
+10  =>  if l > long: long = l
+3  =>  currengine = queries[i+long]
+2  =>  engines = [infile.readline().strip() for x in xrange(numengines)]
+2  =>  except:
+2  =>  switches += 1
+8  =>  while 1:
+2  =>  v[j] = True
+4  =>  c = S - 1
+11  =>  for i in range(0, S):
+4  =>  casesCount = int(re.findall(r'[\d]+', sys.stdin.readline())[0])
+4  =>  if c == 0:
+8  =>  for case in range(1, casesCount + 1):
+4  =>  sys.stdout.write("Case #%d: %d" % (caseNum, ch))
+5  =>  idx = eng[s]
+4  =>  s = sys.stdin.readline().strip()
+1  =>  ch = 0
+8  =>  print ""
+1  =>  numEngines = eval(input.readline())
+5  =>  qString = input.readline()
+10  =>  try:
+4  =>  queries = queries[maxDist:]
+3  =>  break  # we're done!
+1  =>  numCases = eval(input.readline())
+7  =>  query = getLine()
+7  =>  cost[j][i+1] = res
+4  =>  engines.append(getLine())
+6  =>  for i in range(n):
+4  =>  def solve(s,queries):
+8  =>  fout.close()
+4  =>  print "Specify input file"
+2  =>  if k==j:
+1  =>  for k in xrange(s):
+3  =>  res = 1e10
+1  =>  res = [0]*s
+6  =>  fout = open("out","wt")
+4  =>  exit(1)
+5  =>  if e in slines:
+6  =>  for e in qlines[1:]:
+9  =>  for i in range( nc ):
+4  =>  return
+3  =>  if i == lint[-1]:
+4  =>  hits[ci] = 1
+4  =>  start, slines, qlines = get_sq_lines(ls,start)
+2  =>  return [ newstart, sls, qls ]
+6  =>  if n_q==0: return '0'
+2  =>  return 1+min(map(lambda s_id_n:search(pos+m_length),s_id_next))
+2  =>  def search(pos):
+9  =>  def fetch_lines(n):
+5  =>  while n>0:
+8  =>  cnt+=1
+8  =>  "lowest to highest, [] when n==0"
+3  =>  processCase(engines, queries, case)
+11  =>  n = int (lines[0])
+6  =>  f = open(input, 'r')
+4  =>  return 0    #We found engine not presented in the query list
+1  =>  s = int (lines[i])
+3  =>  weighted = []
+5  =>  while case <= n:
+2  =>  while s > 0:
+3  =>  exit()
+6  =>  cases = int(getline())
+2  =>  eng = engines[getline()]
+11  =>  for eng in range(S):
+4  =>  sw2 = swi[:]
+7  =>  s = 0
+4  =>  fin.close()
+7  =>  for x in xrange(q-1, -1, -1):
+4  =>  i=numqueries
+4  =>  i = i+long+1
+5  =>  if(first):
+3  =>  first = True
+2  =>  c = S
+4  =>  dist = [0]*numEngines
+4  =>  for e in range(numEngines):
+6  =>  for (count,eng) in enumerate(engines):
+6  =>  if len(sys.argv) != 2:
+1  =>  fout.write("\n")
+2  =>  lint = compress2int( slines, qlines )
+1  =>  n_switch = central( slines, qlines )
+6  =>  f = file( fin )
+11  =>  f.close()
+4  =>  hits = [ 0 ] * n_engine
+1  =>  main()
+7  =>  l = []
+3  =>  def calc(s):
+2  =>  def s_length(pos_from,s_id):
+6  =>  if pos>=n_q: return -1
+7  =>  for x in reversed(arr):
+1  =>  m_length=max(map(lambda x:x[1],runs))
+1  =>  arr=[]
+6  =>  queries = unique(queries)
+7  =>  i = 1
+5  =>  input_file = "A-%s.in" % case
+1  =>  s = int(fin.readline().strip())
+3  =>  l = q.index(e)
+3  =>  v[idx] = False
+4  =>  v = [True] * S
+5  =>  PI_2 = arccos(-1) / 2
+2  =>  solve(case)
+7  =>  for q in range(numQueries):
+3  =>  output.write('Case #%s: %s\n' % (case+1,switches))
+6  =>  if j!=q:
+3  =>  res = min(res, cost[k][i]+1)
+4  =>  s = int(getLine())
+4  =>  if n_query == 0:
+5  =>  n_switch = 0
+3  =>  for i in l[1:]:
+3  =>  n_switch = shortest( lint, n_engine )
+2  =>  n_switch = n_switch + 1
+2  =>  ss=fetch_lines(n_s)
+3  =>  all_ids=set(range(n_s))
+1  =>  n_q=int(sys.stdin.readline().rstrip())
+5  =>  if n_normal==0:
+1  =>  qs=replace_all(qs,table)
+5  =>  print "Usage %s input" % argv[0]
+1  =>  q = int (lines[i])
+2  =>  def processCase(engines, queries, case):
+1  =>  case = 1
+5  =>  def countSwitches(engines, queries):
+2  =>  swi = [0]*S
+7  =>  for test in range(N):
+8  =>  N = int(raw_input())
+7  =>  s = next
+4  =>  tt[i] = min(sw, t[i])
+3  =>  numengines = int(infile.readline())
+5  =>  dist[count] = queries.index(eng)
+1  =>  engName = input.readline()
+2  =>  switches = switches + 1
+2  =>  def central( slines, qlines ):
+4  =>  engines = slines[1:]
+3  =>  q_line_start = s_line_end
+2  =>  n_s=int(sys.stdin.readline().rstrip())
+2  =>  def cv_base10(arr,base):
+1  =>  return map(lambda k:ma[k],ls)
+4  =>  return str(search(0))
+1  =>  def unique(queries):
+2  =>  return switches
+1  =>  def usage():
+1  =>  from sys import *
+5  =>  prev = q
+2  =>  setrecursionlimit(2048)
+4  =>  lines = f.readlines()
+4  =>  swi[eng] = mi + 1
+1  =>  ch += 1
+1  =>  eng[sys.stdin.readline().strip()] = i
+3  =>  from Numeric import *
+2  =>  first = False
+2  =>  done = False
+3  =>  def shortest( lint, n_engine ):
+2  =>  l.append( engines.index( e ) )
+2  =>  fin = argv[1]
+1  =>  return lint
+5  =>  def replace_all(ls,table):
+4  =>  for ss in qs_co[pos_from:]:
+2  =>  return cnt
+2  =>  finally:
+1  =>  list.append(q)
+3  =>  idx = queries.index(e)
+3  =>  use = None
+2  =>  return list
+5  =>  mini = min(swi)
+2  =>  res += 1
+3  =>  break
+4  =>  engineNo = dict((e,i) for i,e in enumerate(engines))
+2  =>  lint.append( i )
+1  =>  start = 1
+1  =>  n_query  = int( qlines[0] )
+1  =>  n+=x
+1  =>  cnt=0
+2  =>  if len(argv) < 2:
+2  =>  switches = countSwitches(engines, queries)
+2  =>  if sum( hits ) == n_engine:
+1  =>  s_line_end   = s_line_start + s_length + 1
+2  =>  ls = [ s.strip() for s in ls ]
+1  =>  def replace_by(ls,ma):
+1  =>  queries = [infile.readline().strip() for x in xrange(numqueries)]
+1  =>  output = file(filename,'w')
+2  =>  queries.append(qString.strip())
+1  =>  fout.write(solve(s,queries))
+1  =>  sls = cls[ s_line_start: s_line_end ]
+2  =>  n_case=int(sys.stdin.readline().rstrip())
+1  =>  def process(lines):
+1  =>  sw2[eng:eng+1] = []
+1  =>  return map(lambda i:sys.stdin.readline().rstrip(),range(n))
