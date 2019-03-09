@@ -4,7 +4,7 @@ import numpy
 import itertools
 
 def init_scanner():
-    kwlist = ["asm","else","new","this","auto","enum","operator","throw","bool","explicit","private","true","break","export","protected","try","case","extern","public","typedef","catch","false","register","typeid","char","float","reinterpret_cast","typename","class","for","return","union","const","friend","short","unsigned","const_cast","goto","signed","using","continue","if","sizeof","virtual","default","inline","static","void","delete","int","static_cast","volatile","do","long","struct","wchar_t","double","mutable","switch","while","dynamic_cast","namespace","template","And","bitor","not_eq","xor","and_eq","compl","or","xor_eq","bitand","not","or_eq"]
+    kwlist = ["asm","if","else","new","this","auto","enum","operator","throw","bool","explicit","private","true","break","export","protected","try","case","extern","public","typedef","catch","false","register","typeid","char","float","reinterpret_cast","typename","class","for","return","union","const","friend","short","unsigned","const_cast","goto","signed","using","continue","if","sizeof","virtual","default","inline","static","void","delete","int","static_cast","volatile","do","long","struct","wchar_t","double","mutable","switch","while","dynamic_cast","namespace","template","And","bitor","not_eq","xor","and_eq","compl","or","xor_eq","bitand","not","or_eq"]
     s = re.Scanner([
     (r"\"[^\"]*?\"", lambda scanner, token:("String",token)),
     (r"'[^']*?'", lambda scanner, token:("String",token)),
@@ -12,7 +12,8 @@ def init_scanner():
     (r"//.*(\n|\Z)", lambda scanner, token:("Comment",token.strip())),
     (r"/\*.*\*/", lambda scanner, token:("Comment",token.strip())),
     (r".*\?.*\:.*", lambda scanner, token:("Ternary",token.strip())),
-    (r"\s*({})\s".format('|'.join(kwlist)), lambda scanner, token:("Keyword",token.strip())),
+    (r"\s*({})".format('|'.join(kwlist)), lambda scanner, token:("Keyword",token.strip())),
+	(r"#.*", lambda scanner, token: ("Keyword", token.strip())),
     (r"[a-zA-Z_\.]+[0-9]*", lambda scanner, token:("String Literal",token)),
     (r"[0-9]+\.[0-9]+", lambda scanner, token:("Float Literal", token)),
     (r"[0-9]+", lambda scanner, token:("Integer literal", token)),
@@ -92,7 +93,7 @@ def SmallestLevenshteinPairs(s1,s2):
 	return pairs
 
 #AVIEL93
-def SharedSmallestLevenshteinPairs(s1,s2):
+def SharedSmallestLevenshteinPairs(f1sentences,f2sentences):
 	pairs1=[]
 	for s1 in f1sentences:
 		p = []
@@ -105,7 +106,7 @@ def SharedSmallestLevenshteinPairs(s1,s2):
 		pairs1.append(p)
 
 	#pairs1 from File1 -> File2
-	print('File1 -> File2 found ('+str(len(pairs1))+') most simular lines ')
+	# print('File1 -> File2 found ('+str(len(pairs1))+') most simular lines ')
 
 	pairs2=[]
 	for s2 in f2sentences:
@@ -119,7 +120,7 @@ def SharedSmallestLevenshteinPairs(s1,s2):
 		pairs2.append(p)
 
 	#pairs2 from File2 -> File1
-	print('File2 -> File1 found ('+str(len(pairs2))+') most simular lines ')
+	# print('File2 -> File1 found ('+str(len(pairs2))+') most simular lines ')
 
 	#CrossCheckedPairs are pairs that are in both pairs1 and pairs2
 	sharedPairs = [pair for pair in pairs1 if pair[::-1] in pairs2]
@@ -131,7 +132,7 @@ def SharedSmallestLevenshteinPairs(s1,s2):
 			pairs_temp.append(p)
 	sharedPairs=pairs_temp
 
-	print('Number of shared pairs: '+str(len(sharedPairs)))
+	# print('Number of shared pairs: '+str(len(sharedPairs)))
 	
 	return sharedPairs
 
@@ -175,7 +176,7 @@ if __name__ == "__main__":
 
 	#check that have same number of vars
 	#if so then we can make the edit pairs
-	if len(set(vars1)) == len(set(vars2)):
+	#if len(set(vars1)) == len(set(vars2)):
 		#set some kind of mapping of vars to var equivelent
 		#ok, now take p1 and p2 and and swap the vars
 		#cool now we should have the edit pairs
